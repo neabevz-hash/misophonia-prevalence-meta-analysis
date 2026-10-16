@@ -55,7 +55,7 @@ python papers/misophonia-prevalence/manuscript/make_tables.py
 python papers/misophonia-prevalence/manuscript/make_supplement.py
 ```
 
-Run the commands from the repository root. The release was checked by running them in a clean copy: the analysis tables, all result files, Tables 1–4 and Supplementary Files S1–S7 came out identical.
+Run the commands from the repository root. The release was checked by running them in a clean copy: the analysis tables, all result files, Tables 1–4 and Supplementary Files S1–S7 came out identical (line endings aside).
 
 Re-running the search, retrieval or the AI drafts needs network access and keys (`.env.example`): `OPENALEX_API_KEY` and `CORE_API_KEY` for the search, and `CLAUDE_CODE_OAUTH_TOKEN` (output of `claude setup-token`) for the Claude Code runs. Python packages for those steps: `httpx`, `lxml`, `pyyaml`, `jsonschema` (`pip install -e harness`).
 
