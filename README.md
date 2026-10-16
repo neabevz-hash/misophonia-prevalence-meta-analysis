@@ -5,7 +5,7 @@ This repository contains the records, decisions, extracted data and analysis cod
 > Rekhert, M. (2026). *Prevalence of misophonia across case definitions and populations: A systematic review and meta-analysis* [Manuscript submitted for publication]. Preprint: https://doi.org/10.5281/zenodo.23413607
 
 - Registration (OSF, 10 October 2026, before the final search): https://doi.org/10.17605/OSF.IO/39MQ2
-- Archived release (Zenodo): forthcoming
+- Archived release (Zenodo): https://doi.org/10.5281/zenodo.23413642
 - Author: Martin Rekhert, Higher School of Psychology, Turan University, Almaty, Kazakhstan (ORCID [0009-0001-2402-2031](https://orcid.org/0009-0001-2402-2031))
 
 ## The review in brief
