@@ -1,0 +1,133 @@
+# Supplementary File S7. Risk of bias: JBI checklist for prevalence studies
+
+Items: 1 sample frame; 2 sampling; 3 sample size; 4 description; 5 coverage; 6 valid identification of the condition; 7 standard measurement; 8 statistical analysis; 9 response rate. Y yes, N no, U unclear, NA not applicable. Decision rules: `forms/rob_jbi.md` and rule G12. The reason for every rating no or unclear is in the data release (`forms/samples.csv`, column `jbi_notes`).
+
+| Sample | Study | Population | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| S001 | Black 2026 | gp_other | N | N | N | N | U | Y | Y | Y | N |
+| S002 | Bozkurt 2026 | other_nonclinical | U | U | N | U | Y | N | Y | Y | U |
+| S003 | Chalotra 2026 | gp_other | N | N | N | U | Y | Y | Y | Y | N |
+| S004 | Dalseng 2026 | clinical | Y | Y | Y | U | N | N | U | Y | N |
+| S005 | Dwyer 2026 | gp_other | N | N | N | U | U | N | U | Y | N |
+| S006 | Dwyer 2026 | clinical | N | N | N | U | U | N | U | Y | N |
+| S007 | Dwyer 2026 | clinical | N | N | N | U | U | N | U | Y | N |
+| S008 | Dwyer 2026 | clinical | N | N | Y | U | U | N | U | Y | N |
+| S009 | Williams 2025 | clinical | N | N | N | N | N | N | U | N | N |
+| S010 | Williams 2022 | gp_other | N | N | Y | Y | Y | Y | Y | Y | N |
+| S011 | Williams 2022 | clinical | N | N | Y | Y | U | Y | Y | Y | U |
+| S012 | Enomoto 2026 | gp_other | N | N | N | Y | U | Y | Y | Y | N |
+| S013 | Erfanian 2026 | gp_other | N | N | N | N | N | Y | Y | Y | N |
+| S014 | Fournier 2026 | gp_other | N | N | N | Y | N | N | U | Y | N |
+| S015 | Freshley 2026 | gp_probability | Y | Y | Y | U | U | U | U | U | U |
+| S016 | Gumus 2026 | university_students | N | N | Y | Y | Y | Y | Y | Y | U |
+| S017 | Gülsoy 2026 | workers | Y | U | N | Y | Y | Y | Y | Y | U |
+| S018 | Hansen 2026 | university_students | U | N | Y | U | N | Y | U | Y | N |
+| S019 | Hansen 2026 | gp_other | U | U | N | U | Y | N | U | Y | U |
+| S020 | Jafari 2026 | gp_other | N | N | Y | U | N | N | N | U | N |
+| S021 | Küçükkelepçe 2026 | school_pupils | N | N | Y | U | Y | Y | Y | Y | Y |
+| S022 | Pfeiffer 2026 | clinical | N | N | N | Y | Y | N | Y | Y | U |
+| S023 | Prabhu 2026 | gp_other | U | U | Y | U | U | U | U | N | N |
+| S024 | Qurrah-tul-ain 2026 | university_students | U | N | Y | N | U | U | U | U | U |
+| S025 | Rappoldt 2026 | school_pupils | N | N | N | U | U | Y | Y | Y | U |
+| S026 | Smit 2026 | clinical | N | N | Y | U | U | U | Y | Y | U |
+| S027 | Temeltürk 2026 | clinical | Y | U | N | Y | Y | N | Y | Y | U |
+| S028 | Valente 2026 | other_nonclinical | N | N | N | N | U | N | U | Y | N |
+| S029 | Şahin Kamişli 2026 | university_students | U | U | Y | U | Y | U | N | N | U |
+| S030 | Chalotra 2025 | gp_other | U | U | N | N | U | N | U | Y | U |
+| S031 | Heller 2025 | other_nonclinical | N | N | N | U | U | N | N | Y | N |
+| S032 | Heller 2025 | other_nonclinical | N | N | N | U | U | N | N | Y | N |
+| S033 | Heller 2025 | other_nonclinical | N | N | N | U | U | N | N | Y | N |
+| S034 | Heller 2025 | other_nonclinical | N | N | N | U | U | N | N | Y | N |
+| S035 | Heller 2025 | other_nonclinical | N | N | N | U | U | N | N | Y | N |
+| S036 | Heller 2025 | other_nonclinical | N | N | N | U | U | N | N | Y | N |
+| S037 | Itoi 2025 | gp_other | N | N | Y | U | U | Y | Y | N | N |
+| S038 | Manning 2025 | university_students | N | N | Y | Y | U | Y | Y | Y | N |
+| S039 | Oszczapinska 2025 | gp_other | N | N | N | U | Y | U | U | Y | U |
+| S040 | Pfeiffer 2025 | gp_probability | Y | Y | Y | Y | Y | N | Y | U | N |
+| S041 | Prabhu 2025 | gp_other | N | N | Y | U | U | U | N | Y | N |
+| S042 | Prabhu 2025 | clinical | N | N | Y | U | U | U | N | U | N |
+| S043 | Qiu 2025 | gp_other | U | N | N | U | Y | Y | U | Y | U |
+| S044 | Qiu 2025 | university_students | U | N | N | U | U | U | U | Y | U |
+| S045 | Qiu 2025 | other_nonclinical | U | N | N | U | U | U | U | Y | U |
+| S046 | Rinaldi 2025 | gp_probability | Y | Y | Y | Y | U | N | N | Y | N |
+| S047 | Sahin 2025 | clinical | N | U | Y | Y | Y | Y | Y | Y | U |
+| S048 | Sahin 2025 | other_nonclinical | N | N | N | Y | Y | Y | Y | Y | U |
+| S049 | Valsa 2025 | gp_other | N | N | N | U | U | N | U | Y | N |
+| S050 | Yamazawa 2025 | university_students | N | N | Y | Y | Y | N | Y | Y | U |
+| S051 | Aazh 2024 | other_nonclinical | N | N | Y | U | Y | N | U | Y | N |
+| S052 | Almadani 2024 | medical_students | U | N | N | Y | Y | U | Y | Y | N |
+| S053 | Ay 2024 | gp_other | N | N | Y | U | U | Y | Y | N | N |
+| S054 | Ay 2024 | gp_other | N | N | N | U | U | Y | Y | N | N |
+| S055 | Babalola 2024 | gp_other | N | N | N | N | U | U | Y | N | N |
+| S056 | Brueijs 2024 | gp_other | N | N | Y | N | U | Y | Y | U | N |
+| S057 | Dewan 2024 | clinical | U | U | N | U | Y | N | U | Y | U |
+| S058 | Dewan 2024 | other_nonclinical | U | U | N | U | Y | N | U | Y | U |
+| S059 | Ertürk 2024 | medical_students | N | U | Y | U | Y | N | Y | Y | Y |
+| S060 | Horsfall 2024 | university_students | N | N | N | N | N | N | U | N | N |
+| S061 | Mahzouni 2024 | university_students | N | N | N | U | U | N | Y | Y | U |
+| S062 | Mednicoff 2024 | gp_other | N | N | N | Y | Y | U | U | Y | N |
+| S063 | Silva 2024 | university_students | U | N | Y | Y | U | Y | Y | U | N |
+| S064 | Simner 2024 | university_students | N | N | N | N | Y | Y | Y | Y | U |
+| S065 | Skarżyński 2024 | clinical | U | U | Y | U | U | N | U | U | U |
+| S066 | Skarżyński 2024 | school_pupils | U | U | N | N | U | N | U | U | U |
+| S067 | Sujeeth 2024 | school_pupils | U | U | Y | U | U | N | U | Y | U |
+| S068 | White 2024 | gp_other | N | N | N | U | N | Y | Y | Y | N |
+| S069 | ÇEVİK 2024 | gp_other | N | N | Y | U | Y | N | Y | Y | N |
+| S070 | Dwyer 2023 | other_nonclinical | N | N | N | U | Y | U | U | N | U |
+| S071 | Dwyer 2023 | clinical | N | N | N | U | Y | U | U | N | U |
+| S072 | Guzick 2023 | clinical | N | N | Y | U | U | N | Y | U | N |
+| S073 | MUTLU 2023 | clinical | U | U | Y | N | Y | N | U | Y | U |
+| S074 | MUTLU 2023 | other_nonclinical | N | N | N | N | Y | N | U | Y | U |
+| S075 | Orloff 2023 | university_students | N | N | N | U | Y | Y | U | Y | U |
+| S076 | Patel 2023 | university_students | U | U | N | U | Y | U | U | Y | U |
+| S077 | SAKARYA 2023 | university_students | U | Y | N | U | U | Y | Y | Y | U |
+| S078 | Vanukuri 2023 | gp_other | U | U | N | N | Y | N | Y | N | U |
+| S079 | Vitoratou 2023 | gp_other | N | N | Y | Y | Y | Y | Y | Y | N |
+| S080 | Yıldırım Budak 2023 | clinical | Y | Y | N | Y | U | N | U | Y | U |
+| S081 | Zumbrunn 2023 | university_students | N | N | N | U | N | N | Y | N | N |
+| S082 | Aazh 2022 | clinical | Y | Y | N | Y | U | N | U | Y | U |
+| S083 | Aazh 2022 | clinical | N | N | N | U | Y | N | U | Y | N |
+| S084 | Aryal 2022 | university_students | N | N | N | Y | U | Y | Y | N | N |
+| S085 | Banker 2022 | gp_other | N | N | Y | N | Y | U | U | Y | N |
+| S086 | Guetta 2022 | gp_other | N | N | N | U | Y | Y | Y | Y | N |
+| S087 | Hansen 2022 | gp_other | N | N | N | U | Y | U | U | Y | N |
+| S088 | Heller 2022 | university_students | N | N | N | U | U | N | U | N | U |
+| S089 | Heller 2022 | university_students | N | N | N | U | N | N | U | N | U |
+| S090 | Herrera 2022 | university_students | N | N | N | U | U | U | Y | Y | N |
+| S091 | Jakubovski 2022 | gp_probability | Y | Y | Y | Y | Y | U | Y | Y | N |
+| S092 | Kenar 2022 | clinical | N | N | N | U | Y | Y | U | Y | U |
+| S093 | Kenar 2022 | other_nonclinical | U | U | N | N | Y | Y | U | Y | U |
+| S094 | Norris 2022 | university_students | N | N | N | U | U | Y | Y | Y | N |
+| S095 | Paunovic 2022 | medical_students | N | U | Y | U | Y | N | Y | Y | Y |
+| S096 | Rinaldi 2022 | school_pupils | N | N | N | Y | Y | N | Y | Y | Y |
+| S097 | Samermit 2022 | university_students | N | N | N | U | Y | Y | Y | Y | N |
+| S098 | Savard 2022 | gp_other | N | N | N | U | Y | N | Y | Y | N |
+| S099 | Smit 2022 | gp_other | N | N | Y | N | U | N | U | Y | U |
+| S100 | Tada 2022 | university_students | N | N | N | N | Y | N | Y | Y | U |
+| S101 | Tada 2022 | gp_other | N | N | Y | N | Y | N | Y | N | U |
+| S102 | Vitoratou 2022 | gp_other | N | N | N | Y | U | N | U | Y | N |
+| S103 | Yektatalab 2022 | university_students | N | Y | Y | U | Y | Y | Y | Y | U |
+| S104 | Beukes 2021 | clinical | N | N | Y | Y | U | N | U | Y | N |
+| S105 | Ferrer-Torres 2021 | clinical | U | U | Y | Y | Y | N | U | Y | U |
+| S106 | Jaswal 2021 | university_students | N | N | Y | U | U | N | U | Y | N |
+| S107 | Jaswal 2021 | university_students | N | N | Y | Y | Y | N | U | Y | N |
+| S108 | Jaswal 2021 | gp_other | N | N | Y | N | U | N | U | Y | N |
+| S109 | Kılıç 2021 | gp_probability | Y | Y | Y | Y | Y | Y | N | Y | Y |
+| S110 | Loch 2021 | clinical | Y | Y | N | Y | U | N | U | Y | U |
+| S111 | Naylor 2021 | medical_students | N | N | N | N | Y | Y | Y | Y | N |
+| S112 | Rosenthal 2021 | gp_other | N | N | Y | U | N | Y | Y | Y | N |
+| S113 | Sarıgedik 2021 | school_pupils | N | N | Y | Y | U | Y | Y | Y | N |
+| S114 | Vitoratou 2021 | gp_other | N | N | N | N | Y | N | U | Y | N |
+| S115 | Assunção 2020 | other_nonclinical | N | N | N | N | Y | N | Y | Y | U |
+| S116 | Assunção 2020 | clinical | N | N | N | N | Y | N | Y | Y | U |
+| S117 | Cassiello-Robbins 2020 | gp_other | N | N | N | U | U | N | Y | Y | U |
+| S118 | SAKARYA 2020 | university_students | N | N | N | U | U | Y | Y | Y | U |
+| S119 | Siepsiak 2020 | clinical | N | N | N | U | Y | Y | Y | Y | U |
+| S120 | Wallace 2020 | university_students | N | N | Y | Y | Y | Y | U | Y | N |
+| S121 | Janik McErlean 2018 | gp_other | N | N | N | N | U | Y | Y | Y | N |
+| S122 | Janik McErlean 2018 | other_nonclinical | N | N | N | N | U | Y | Y | Y | N |
+| S123 | Cash 2015 | university_students | N | N | Y | Y | Y | Y | Y | Y | N |
+| S124 | Cash 2015 | gp_other | N | N | N | Y | Y | Y | Y | Y | N |
+| S125 | Jahn 2024 | clinical | N | N | N | N | Y | N | U | Y | N |
+
+Samples rated yes per item: item 1: 11 of 125; item 2: 11 of 125; item 3: 48 of 125; item 4: 33 of 125; item 5: 58 of 125; item 6: 43 of 125; item 7: 60 of 125; item 8: 99 of 125; item 9: 5 of 125.

@@ -1,0 +1,67 @@
+{
+  "run": "2026-10-10",
+  "ai_labels_sha256": "7ca2b98c709d77a40ac12fc674dbe3e762eea537c8809b4fdbe3df70107b0114",
+  "n_calibration": 151,
+  "n_compared": 151,
+  "calibration_records_without_ai_label": [],
+  "three_labels": {
+    "agreement": 0.7814569536423841,
+    "kappa": 0.6114013881307027,
+    "kappa_ci": [
+      0.501955971465828,
+      0.7200322450624748
+    ],
+    "confusion": {
+      "R1_include": {
+        "AI_include": 16,
+        "AI_unsure": 8,
+        "AI_exclude": 0
+      },
+      "R1_unsure": {
+        "AI_include": 2,
+        "AI_unsure": 23,
+        "AI_exclude": 3
+      },
+      "R1_exclude": {
+        "AI_include": 0,
+        "AI_unsure": 20,
+        "AI_exclude": 79
+      }
+    }
+  },
+  "full_text_vs_exclude": {
+    "agreement": 0.847682119205298,
+    "kappa": 0.6869761153672825,
+    "kappa_ci": [
+      0.567799642218247,
+      0.802245088868101
+    ],
+    "ac1": 0.706932196953715,
+    "ac1_ci": [
+      0.5951567567567566,
+      0.8230221850146504
+    ],
+    "ai_sensitivity": 0.9423076923076923,
+    "ai_sensitivity_ci": [
+      0.840526641361409,
+      0.9879406819732617
+    ],
+    "ai_specificity": 0.797979797979798,
+    "ai_specificity_ci": [
+      0.705386142113934,
+      0.8720152673907364
+    ],
+    "counts": {
+      "tp": 49,
+      "fn": 3,
+      "tn": 79,
+      "fp": 20
+    }
+  },
+  "safeguard_triggered": true,
+  "ai_false_negatives": [
+    "R0411",
+    "R1449",
+    "R1112"
+  ]
+}

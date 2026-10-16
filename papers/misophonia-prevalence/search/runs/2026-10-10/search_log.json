@@ -1,0 +1,197 @@
+{
+  "pubmed": {
+    "records": 480,
+    "meta": {
+      "query": "misophonia[All Fields] OR misophon*[tw] OR \"selective sound sensitivity\"[tw] OR misokinesia[tw] OR \"decreased sound tolerance\"[tw] OR \"sound intolerance\"[tw] OR \"sound tolerance disorder*\"[tw] OR \"misophonia\"[Supplementary Concept]",
+      "translation": "\"misophonia\"[Supplementary Concept] OR \"misophonia\"[All Fields] OR \"misophon*\"[Text Word] OR \"selective sound sensitivity\"[Text Word] OR \"misokinesia\"[Text Word] OR \"decreased sound tolerance\"[Text Word] OR \"sound intolerance\"[Text Word] OR \"sound tolerance disorder*\"[Text Word] OR \"misophonia\"[Supplementary Concept]",
+      "count": 480
+    },
+    "searched_at_utc": "2026-10-10T15:56:24+00:00",
+    "seconds": 14.4
+  },
+  "europepmc": {
+    "records": 527,
+    "meta": {
+      "query": "(TITLE_ABS:misophon* OR KW:misophon* OR TITLE_ABS:\"selective sound sensitivity\" OR TITLE_ABS:misokinesia OR TITLE_ABS:\"decreased sound tolerance\" OR TITLE_ABS:\"sound intolerance\" OR TITLE_ABS:\"sound tolerance disorder\" OR TITLE_ABS:\"sound tolerance disorders\" OR TITLE_ABS:misofonia OR TITLE_ABS:mizofoni OR TITLE_ABS:misophonie)",
+      "count": 527
+    },
+    "searched_at_utc": "2026-10-10T15:56:32+00:00",
+    "seconds": 7.4
+  },
+  "openalex": {
+    "records": 1136,
+    "meta": {
+      "filter": "title_and_abstract.search:misophonia|misophonic|misophonics|\"selective sound sensitivity\"|misokinesia|\"decreased sound tolerance\"|\"sound intolerance\"|\"sound tolerance disorder\"|\"sound tolerance disorders\"|misofonia|misofonía|mizofoni|misophonie|мизофония|ミソフォニア|미소포니아",
+      "count": 1136
+    },
+    "searched_at_utc": "2026-10-10T15:56:45+00:00",
+    "seconds": 13.2
+  },
+  "s2": {
+    "records": 791,
+    "meta": {
+      "query": "misophonia | misophonic | \"selective sound sensitivity\" | misokinesia | \"decreased sound tolerance\" | \"sound intolerance\" | misofonia | mizofoni | misophonie",
+      "count": 791
+    },
+    "searched_at_utc": "2026-10-10T15:56:55+00:00",
+    "seconds": 10.5
+  },
+  "datacite": {
+    "records": 331,
+    "meta": {
+      "query": "titles.title:(misophon* OR misofon* OR mizofon* OR \"selective sound sensitivity\" OR misokinesia OR \"decreased sound tolerance\" OR \"sound intolerance\" OR \"sound tolerance disorder\" OR \"sound tolerance disorders\") OR descriptions.description:(misophon* OR misofon* OR mizofon* OR \"selective sound sensitivity\" OR misokinesia OR \"decreased sound tolerance\" OR \"sound intolerance\" OR \"sound tolerance disorder\" OR \"sound tolerance disorders\") OR subjects.subject:(misophon* OR misofon* OR mizofon* OR \"selective sound sensitivity\" OR misokinesia OR \"decreased sound tolerance\" OR \"sound intolerance\" OR \"sound tolerance disorder\" OR \"sound tolerance disorders\")",
+      "count": 331
+    },
+    "searched_at_utc": "2026-10-10T15:56:58+00:00",
+    "seconds": 2.6
+  },
+  "openaire": {
+    "records": 1098,
+    "meta": {
+      "type": "publication",
+      "queries": {
+        "misophonia OR misophonic OR misofonia OR misofonía OR mizofoni": {
+          "numFound": 817,
+          "retrieved": 818
+        },
+        "misophonie OR misokinesia OR \"selective sound sensitivity\" OR \"decreased sound tolerance\" OR \"sound intolerance\"": {
+          "numFound": 262,
+          "retrieved": 265
+        },
+        "\"sound tolerance disorder\" OR \"sound tolerance disorders\"": {
+          "numFound": 14,
+          "retrieved": 15
+        }
+      }
+    },
+    "searched_at_utc": "2026-10-10T15:57:37+00:00",
+    "seconds": 39.3
+  },
+  "citations": {
+    "records": 1500,
+    "meta": {
+      "A-MISO-S (Schröder et al., 2013)": {
+        "doi": "10.1371/journal.pone.0054706",
+        "openalex": "W1967419505",
+        "citing_records": 415
+      },
+      "MQ (Wu et al., 2014)": {
+        "doi": "10.1002/jclp.22098",
+        "openalex": "W2142716243",
+        "citing_records": 365
+      },
+      "AMISOS-R (Jager et al., 2020)": {
+        "doi": "10.1371/journal.pone.0231390",
+        "openalex": "W3015229976",
+        "citing_records": 272
+      },
+      "MisoQuest (Siepsiak et al., 2020)": {
+        "doi": "10.3390/ijerph17051797",
+        "openalex": "W3012330749",
+        "citing_records": 106
+      },
+      "S-Five (Vitoratou et al., 2021)": {
+        "doi": "10.3390/psych3040041",
+        "openalex": "W3209111478",
+        "citing_records": 61
+      },
+      "DMQ (Rosenthal et al., 2021)": {
+        "doi": "10.3389/fpsyg.2021.709928",
+        "openalex": "W3204159860",
+        "citing_records": 118
+      },
+      "BMQ-R (Remmert et al., 2022)": {
+        "doi": "10.1371/journal.pone.0269428",
+        "openalex": "W4283275344",
+        "citing_records": 17
+      },
+      "DVMSQ (Williams et al., 2022)": {
+        "doi": "10.3389/fpsyg.2022.897901",
+        "openalex": "W4286560513",
+        "citing_records": 60
+      },
+      "SMS-Adolescent (Rinaldi et al., 2022)": {
+        "doi": "10.3389/fpsyg.2022.808379",
+        "openalex": "W4226108907",
+        "citing_records": 57
+      },
+      "SMS-Adult (Simner et al., 2024)": {
+        "doi": "10.1177/10731911241234104",
+        "openalex": "W4392236429",
+        "citing_records": 29
+      }
+    },
+    "searched_at_utc": "2026-10-10T15:58:15+00:00",
+    "seconds": 37.9
+  },
+  "core": {
+    "records": 1615,
+    "meta": {
+      "queries": {
+        "title:misophonia OR abstract:misophonia": {
+          "totalHits": 969,
+          "retrieved": 969,
+          "dropped_term_not_in_title_or_abstract": 0
+        },
+        "title:misophonic OR abstract:misophonic": {
+          "totalHits": 256,
+          "retrieved": 256,
+          "dropped_term_not_in_title_or_abstract": 0
+        },
+        "title:misofonia OR abstract:misofonia": {
+          "totalHits": 36,
+          "retrieved": 36,
+          "dropped_term_not_in_title_or_abstract": 0
+        },
+        "title:misofonía OR abstract:misofonía": {
+          "totalHits": 10,
+          "retrieved": 10,
+          "dropped_term_not_in_title_or_abstract": 0
+        },
+        "title:mizofoni OR abstract:mizofoni": {
+          "totalHits": 18,
+          "retrieved": 18,
+          "dropped_term_not_in_title_or_abstract": 0
+        },
+        "title:misophonie OR abstract:misophonie": {
+          "totalHits": 41,
+          "retrieved": 41,
+          "dropped_term_not_in_title_or_abstract": 0
+        },
+        "title:misokinesia OR abstract:misokinesia": {
+          "totalHits": 27,
+          "retrieved": 27,
+          "dropped_term_not_in_title_or_abstract": 0
+        },
+        "title:\"selective sound sensitivity\" OR abstract:\"selective sound sensitivity\"": {
+          "totalHits": 253,
+          "retrieved": 253,
+          "dropped_term_not_in_title_or_abstract": 237
+        },
+        "title:\"decreased sound tolerance\" OR abstract:\"decreased sound tolerance\"": {
+          "totalHits": 255,
+          "retrieved": 255,
+          "dropped_term_not_in_title_or_abstract": 125
+        },
+        "title:\"sound intolerance\" OR abstract:\"sound intolerance\"": {
+          "totalHits": 370,
+          "retrieved": 370,
+          "dropped_term_not_in_title_or_abstract": 290
+        },
+        "title:\"sound tolerance disorder\" OR abstract:\"sound tolerance disorder\"": {
+          "totalHits": 86,
+          "retrieved": 86,
+          "dropped_term_not_in_title_or_abstract": 70
+        },
+        "title:\"sound tolerance disorders\" OR abstract:\"sound tolerance disorders\"": {
+          "totalHits": 126,
+          "retrieved": 126,
+          "dropped_term_not_in_title_or_abstract": 110
+        }
+      },
+      "authenticated": true
+    },
+    "searched_at_utc": "2026-10-10T16:25:08+00:00",
+    "seconds": 350.3
+  }
+}

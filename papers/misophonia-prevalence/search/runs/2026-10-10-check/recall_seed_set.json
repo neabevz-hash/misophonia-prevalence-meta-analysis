@@ -1,0 +1,115 @@
+{
+  "run": "2026-10-10-check",
+  "seed_studies": 12,
+  "in_screening_list": 12,
+  "studies": [
+    {
+      "study": "Wu et al.",
+      "year": "2014",
+      "doi": "10.1002/jclp.22098",
+      "found": true,
+      "rec_id": "R1334",
+      "sources": "pubmed;europepmc;openalex;s2;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Zhou et al.",
+      "year": "2017",
+      "doi": "10.1016/j.jocrd.2017.05.001",
+      "found": true,
+      "rec_id": "R1250",
+      "sources": "openalex;s2;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Naylor et al.",
+      "year": "2021",
+      "doi": "10.1007/s11126-020-09825-3",
+      "found": true,
+      "rec_id": "R0973",
+      "sources": "pubmed;europepmc;openalex;s2;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Kılıç et al.",
+      "year": "2021",
+      "doi": "10.1192/bjo.2021.978",
+      "found": true,
+      "rec_id": "R0966",
+      "sources": "pubmed;europepmc;openalex;s2;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Sarıgedik & Gulle",
+      "year": "2021",
+      "doi": "10.5455/PBS.20210509040627",
+      "found": true,
+      "rec_id": "R0991",
+      "sources": "openalex;s2;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Aryal & Prabhu",
+      "year": "2022",
+      "doi": "10.31117/neuroscirn.v5i4.161",
+      "found": true,
+      "rec_id": "R0776",
+      "sources": "openalex;s2;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Jakubovski et al.",
+      "year": "2022",
+      "doi": "10.3389/fpsyt.2022.1012424",
+      "found": true,
+      "rec_id": "R0833",
+      "sources": "pubmed;europepmc;openalex;s2;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Yektatalab et al.",
+      "year": "2022",
+      "doi": "10.30476/ijcbnm.2022.92902.1888",
+      "found": true,
+      "rec_id": "R0910",
+      "sources": "pubmed;europepmc;openalex;s2;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Patel et al.",
+      "year": "2023",
+      "doi": "10.1007/s12070-022-03266-z",
+      "found": true,
+      "rec_id": "R0725",
+      "sources": "pubmed;europepmc;openalex;s2;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Vitoratou et al.",
+      "year": "2023",
+      "doi": "10.1371/journal.pone.0282777",
+      "found": true,
+      "rec_id": "R0756",
+      "sources": "pubmed;europepmc;openalex;s2;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Sujeeth et al.",
+      "year": "2023",
+      "doi": "10.1007/s12070-023-04382-0",
+      "found": true,
+      "rec_id": "R0598",
+      "sources": "pubmed;europepmc;openalex;s2;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Brennan et al.",
+      "year": "2024",
+      "doi": "10.1097/AUD.0000000000001435",
+      "found": true,
+      "rec_id": "R0478",
+      "sources": "pubmed;europepmc;openalex;s2;citations;openaire",
+      "to_screen": true
+    }
+  ]
+}

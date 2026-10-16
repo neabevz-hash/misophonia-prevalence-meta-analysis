@@ -1,0 +1,43 @@
+{
+  "pubmed": {
+    "records": 480,
+    "meta": {
+      "query": "misophonia[All Fields] OR misophon*[tw] OR \"selective sound sensitivity\"[tw] OR misokinesia[tw] OR \"decreased sound tolerance\"[tw] OR \"sound intolerance\"[tw] OR \"sound tolerance disorder*\"[tw] OR \"misophonia\"[Supplementary Concept]",
+      "translation": "\"misophonia\"[Supplementary Concept] OR \"misophonia\"[All Fields] OR \"misophon*\"[Text Word] OR \"selective sound sensitivity\"[Text Word] OR \"misokinesia\"[Text Word] OR \"decreased sound tolerance\"[Text Word] OR \"sound intolerance\"[Text Word] OR \"sound tolerance disorder*\"[Text Word] OR \"misophonia\"[Supplementary Concept]",
+      "count": 480
+    },
+    "searched_at_utc": "2026-10-10T12:27:55+00:00",
+    "seconds": 6.4
+  },
+  "datacite": {
+    "records": 330,
+    "meta": {
+      "query": "titles.title:(misophon* OR misofon* OR mizofon* OR \"selective sound sensitivity\" OR misokinesia OR \"decreased sound tolerance\" OR \"sound intolerance\" OR \"sound tolerance disorder\" OR \"sound tolerance disorders\") OR descriptions.description:(misophon* OR misofon* OR mizofon* OR \"selective sound sensitivity\" OR misokinesia OR \"decreased sound tolerance\" OR \"sound intolerance\" OR \"sound tolerance disorder\" OR \"sound tolerance disorders\") OR subjects.subject:(misophon* OR misofon* OR mizofon* OR \"selective sound sensitivity\" OR misokinesia OR \"decreased sound tolerance\" OR \"sound intolerance\" OR \"sound tolerance disorder\" OR \"sound tolerance disorders\")",
+      "count": 330
+    },
+    "searched_at_utc": "2026-10-10T12:27:58+00:00",
+    "seconds": 2.3
+  },
+  "openaire": {
+    "records": 1096,
+    "meta": {
+      "type": "publication",
+      "queries": {
+        "misophonia OR misophonic OR misofonia OR misofonía OR mizofoni": {
+          "numFound": 817,
+          "retrieved": 820
+        },
+        "misophonie OR misokinesia OR \"selective sound sensitivity\" OR \"decreased sound tolerance\" OR \"sound intolerance\"": {
+          "numFound": 262,
+          "retrieved": 262
+        },
+        "\"sound tolerance disorder\" OR \"sound tolerance disorders\"": {
+          "numFound": 14,
+          "retrieved": 14
+        }
+      }
+    },
+    "searched_at_utc": "2026-10-10T13:26:43+00:00",
+    "seconds": 26.2
+  }
+}

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article and this repository."
+title: "Prevalence of misophonia across case definitions and populations: data and code"
+type: dataset
+version: 1.0.0
+license: CC-BY-4.0
+authors:
+  - family-names: Rekhert
+    given-names: Martin
+    orcid: "https://orcid.org/0009-0001-2402-2031"
+    affiliation: "Higher School of Psychology, Turan University, Almaty, Kazakhstan"
+repository-code: "https://github.com/neabevz-hash/misophonia-prevalence-meta-analysis"
+keywords:
+  - misophonia
+  - prevalence
+  - meta-analysis
+  - systematic review
+  - case definition
+  - decreased sound tolerance
+preferred-citation:
+  type: article
+  title: "Prevalence of misophonia across case definitions and populations: A systematic review and meta-analysis"
+  authors:
+    - family-names: Rekhert
+      given-names: Martin
+      orcid: "https://orcid.org/0009-0001-2402-2031"
+  year: 2026
+  notes: "Manuscript submitted for publication. Preprint: forthcoming"

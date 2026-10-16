@@ -1,0 +1,52 @@
+{
+  "run": "2026-10-10",
+  "records_screened": 1508,
+  "missing_decisions": [],
+  "to_full_text": 540,
+  "excluded_title_abstract": 968,
+  "final_labels": {
+    "exclude": 968,
+    "unsure": 300,
+    "include": 240
+  },
+  "by_stage": {
+    "calibration (agreed with AI)": {
+      "exclude": 79,
+      "unsure": 23,
+      "include": 16
+    },
+    "calibration (resolved, both labels shown)": {
+      "exclude": 20,
+      "unsure": 5,
+      "include": 8
+    },
+    "re-screening (blind)": {
+      "exclude": 769,
+      "unsure": 21
+    },
+    "verification (AI label shown)": {
+      "exclude": 100,
+      "unsure": 251,
+      "include": 216
+    }
+  },
+  "verification": {
+    "records": 567,
+    "accepted_ai_label_with_equals": 459,
+    "overrides_by_direction": {
+      "unsure -> exclude": 100,
+      "unsure -> include": 8
+    },
+    "ai_full_text_but_r1_excluded": 100
+  },
+  "calibration_resolutions": {
+    "records": 33,
+    "final_equals_r1_blind": 33,
+    "final_equals_ai": 0,
+    "full_text_after_resolution": 13
+  },
+  "safeguard": {
+    "re_screened": 790,
+    "moved_to_full_text": 21
+  }
+}

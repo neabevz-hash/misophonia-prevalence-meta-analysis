@@ -1,0 +1,29 @@
+{
+  "title": "Prevalence of misophonia across case definitions and populations: data and code",
+  "upload_type": "dataset",
+  "description": "<p>Records, decisions, extracted data and analysis code for a preregistered systematic review and meta-analysis of misophonia prevalence (search 10 October 2026; 96 studies, 125 independent samples, 565 estimates). Each instrument and cut-off was assigned in advance to a case-definition level (symptom level, clinically significant, diagnosis by interview). The repository includes the registered protocol and deviations log, search logs and records, AI screening labels with the reviewer's calibration and decisions, full-text decisions, AI extraction drafts with the reviewer's verification, the analysis tables, R and Python analysis scripts, results, figures, Tables 1-4 and Supplementary Files S1-S7.</p>",
+  "creators": [
+    {
+      "name": "Rekhert, Martin",
+      "affiliation": "Higher School of Psychology, Turan University, Almaty, Kazakhstan",
+      "orcid": "0009-0001-2402-2031"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "misophonia",
+    "prevalence",
+    "meta-analysis",
+    "systematic review",
+    "case definition",
+    "decreased sound tolerance"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.17605/OSF.IO/39MQ2",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ],
+  "language": "eng"
+}

@@ -1,0 +1,681 @@
+﻿rec_id,doi,status,source,url,chars,pages,sha256,tried,at_utc
+R0007,10.3766/jaaa.240058,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:35:11+00:00
+R0008,10.1093/cercor/bhag021,retrieved,pdf,https://www.biorxiv.org/content/biorxiv/early/2025/09/22/2025.09.22.677819.full.pdf,106211,49,60fe801aa2d4a2b684faa9cf9f98d1e4240b392c06ef32aa5b2d806ba17ea371,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:09:16+00:00
+R0009,10.1016/j.heares.2025.109521,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (200),2026-10-11T14:35:11+00:00
+R0010,10.1186/s43163-026-01163-8,retrieved,pdf,https://link.springer.com/content/pdf/10.1186/s43163-026-01163-8.pdf,48520,10,21ea3863671ff3972b142424b9e6d77b50d3b33ee8dcbee47ad5ef41c1f6211c,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:09:31+00:00
+R0011,10.64898/2026.03.13.26347988,retrieved,pdf,https://www.medrxiv.org/content/medrxiv/early/2026/03/16/2026.03.13.26347988.full.pdf,41934,18,2d8f3246d6bf1a1631fbf252575e0331123ba38d42c1198d993c51811f534fc4,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:09:40+00:00
+R0015,10.31234/osf.io/kmv2e_v1,not retrieved,,,0,,,epmc:no pmcid | core:338678606 none; core:338875969 none; core:388088989 none; core:doi none | unpaywall:not pdf (200); unpaywall:not pdf (200); osf_preprint:not pdf (200); osf:not pdf (200),2026-10-11T14:35:11+00:00
+R0016,,not retrieved,,,0,,,epmc:no id | core:377964233 none; core:388040407 none; core:390119524 none; core:title none | pdf:no candidates,2026-10-11T14:35:11+00:00
+R0023,10.5080/61upk.ozt444,retrieved,manual_pdf,saved by R1 from a browser,3393,1,10e4a90d90e8d0d239903670320ec6a7e9a667789411e99cada1a8d08e9d5dbd,epmc:no pmcid | core:338545542 none; core:doi none | unpaywall:not pdf (200) | manual pdf ok,2026-10-11T16:01:26+00:00
+R0024,10.1089/aut.2023.0198,retrieved,manual_pdf,saved by R1 from a browser,54594,12,8c8e7eb291a5a96a0543085299eca42361d490585359fbfcd17c2987877e53b5,epmc:PMC13294711 no xml | core:159567597 none; core:311633750 none; core:doi none | unpaywall:blocked; unpaywall:not pdf (200); europepmc_render:blocked; record:blocked | manual pdf ok,2026-10-11T16:01:27+00:00
+R0025,10.1016/j.biopsych.2025.08.018,retrieved,manual_pdf,saved by R1 from a browser,57122,21,c28bbeb7bd2749d10c4a47fb4699f1de488dec1a429ad011df2e87e2d2f85bf5,epmc:PMC12828915 no xml | core:doi none | unpaywall:not pdf (200); unpaywall:not pdf (200); europepmc_render:blocked | manual pdf ok,2026-10-11T16:01:27+00:00
+R0031,10.1111/bjop.70025,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12783887/fullTextXML,75410,,0b70c77e42554d0aea81e8d1b34ac5faaf9e25030a0cf97d155d9e22955b4c6d,epmc:PMC12783887 ok,2026-10-10T19:12:42+00:00
+R0035,10.24179/kbbbbc.2025-113232,retrieved,pdf,https://dergi.kbb-bbc.org.tr/current-issue/get-pdf/1226/979207120412590.pdf,33771,8,473c209e89e9dae3db1dc4b4b2a72531baf7a8d5a517b6e63a01b95a8ab24f4a,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:12:44+00:00
+R0041,10.15453/2168-6408.2393,retrieved,manual_pdf,saved by R1 from a browser,65131,20,7bb7feff10b7ebc72a33feb97b3d4b76df688ccf70f921dc35c04fadd197d1d4,epmc:no pmcid | core:315093594 none; core:doi none | unpaywall:not pdf (200) | manual pdf ok,2026-10-11T16:01:27+00:00
+R0042,10.13140/rg.2.2.35937.26722,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:35:16+00:00
+R0044,10.1186/s43163-026-01108-1,retrieved,pdf,https://link.springer.com/content/pdf/10.1186/s43163-026-01108-1.pdf,27423,6,a0e5db82dbd48dd2da45a1ee94678e877e9b912a9d540ed5b4936c0163127a76,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:12:48+00:00
+R0047,10.21203/rs.3.rs-10490912/v1,retrieved,pdf,https://www.researchsquare.com/article/rs-10490912/latest.pdf,69205,26,5d447f948fbc1e23b1ebe1cdcb65efe99dc9883ead2c2ff4aec184525ff94c1a,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:12:48+00:00
+R0048,10.3389/fpsyt.2026.1868527,retrieved,pdf,https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1868527/pdf,51651,10,0f4c49191fb04367dd5404e3b81fdb7695d7645142a2c8a524691f5bcb1911df,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:12:50+00:00
+R0050,10.21428/8e6ba8ef.5df566c5,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; record:blocked,2026-10-11T14:35:16+00:00
+R0052,10.1371/journal.pone.0348278,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13189328/fullTextXML,36604,,66b48b21024e2a369b19a93f967197a8e8035b2320db1dcb4edeef33120569e2,epmc:PMC13189328 ok,2026-10-10T19:12:52+00:00
+R0056,10.1016/j.heares.2026.109595,not retrieved,,,0,,,epmc:no pmcid | core:297431391 none; core:374424508 none; core:doi none | record:not pdf (200),2026-10-11T14:35:17+00:00
+R0057,10.1177/10870547251361226,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12686195/fullTextXML,74512,,22c6cdd03e18ba2d4ff945df64d257b66add76f5ef3320e1d96819f1a542cb4f,epmc:PMC12686195 ok,2026-10-10T19:12:54+00:00
+R0058,10.31234/osf.io/er4f3_v1,retrieved,pdf,https://osf.io/er4f3/download,40989,33,5e6edac8b5fcd1931ef9e5c1d8834c76050a608382f176a662931ef27155a651,epmc:no pmcid | core:340534553 none; core:388043882 none; core:390126607 none; core:doi none | unpaywall:not pdf (200); unpaywall:not pdf (200); osf:pdf,2026-10-10T19:32:47+00:00
+R0059,10.64628/aak.4mfjq6kuh,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:blocked,2026-10-11T14:35:17+00:00
+R0061,10.64898/2026.09.03.749152,retrieved,pdf,https://doi.org/10.64898/2026.09.03.749152,92881,43,29f0f7c4d7ce6a737568c02f509a1347c35ad13e177b283697263c85333c5619,epmc:no pmcid | core:388092492 none; core:390234345 none; core:392237008 none; core:doi none | unpaywall:pdf via citation_pdf_url,2026-10-10T19:12:55+00:00
+R0062,10.1002/jclp.70128,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:35:18+00:00
+R0063,10.1007/s00405-025-09979-5,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13002637/fullTextXML,36907,,492b5e8fb839ba7f91ef38627cf49b42b1b6472a31d23d25d3321d23fe7792d8,epmc:PMC13002637 ok,2026-10-10T19:12:55+00:00
+R0066,10.1016/j.heares.2026.109756,not retrieved,,,0,,,epmc:no pmcid | core:365527157 none; core:doi none | unpaywall:not pdf (403); record:not pdf (200),2026-10-11T14:35:20+00:00
+R0067,,not retrieved,,,0,,,epmc:no id | core:419381634 none; core:title none | pdf:no candidates,2026-10-11T14:35:20+00:00
+R0068,10.1016/j.heares.2025.109482,retrieved,pdf,https://hal.science/hal-05417665v1/document,90163,15,de7152353dd9db86095517146dba44ad51cdd2032e78222c478947f26d2c7cf0,epmc:no pmcid | core:312979925 none; core:doi none | unpaywall:not pdf (200); unpaywall:pdf,2026-10-10T19:12:58+00:00
+R0069,10.1016/j.psychres.2026.116941,retrieved,manual_pdf,saved by R1 from a browser,59073,9,d79837f39d5c7f8a21eae1acc5848f336f24e0449a75b9d1d130559214a591a2,"error: ValueError(""unknown url type: '/void(0)'"") | manual_pdf ok",2026-10-11T16:21:59+00:00
+R0071,10.17605/osf.io/h9g2k,not retrieved,,,0,,,epmc:no pmcid | core:doi none | osf:network; landing:not pdf (200),2026-10-11T14:35:20+00:00
+R0072,10.1093/arclin/acag065.208,retrieved,manual_pdf,saved by R1 from a browser,2492,1,8e1d15dc15daa229ec67eb6bab095f8a7260eada86b04792d42090765c516339,epmc:no pmcid | core:doi none | unpaywall:blocked; landing:blocked | manual_pdf ok,2026-10-11T16:21:59+00:00
+R0075,10.1186/s40359-026-04390-z,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13123145/fullTextXML,54463,,17f2e29c72c57231d9a6c189ffaa973ed17fd501d69ab948985118712b1a8b0c,epmc:PMC13123145 ok,2026-10-10T19:13:05+00:00
+R0076,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:35:24+00:00
+R0077,10.1002/nop2.70504,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13052334/fullTextXML,38679,,a65601e0d89f5c1b1e6ba22ed53ecbe1f50ad96314b8f350994778a492917fa0,epmc:PMC13052334 ok,2026-10-10T19:13:06+00:00
+R0082,10.1002/hbm.70468,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12895373/fullTextXML,59847,,3d573f6262cbdf27c61ec4d5cd4b4ef0c4782a602a43a67cfa6f45b35d06fb72,epmc:PMC12895373 ok,2026-10-10T19:13:07+00:00
+R0088,10.1016/j.heares.2025.109512,not retrieved,,,0,,,epmc:no pmcid | core:320054569 none; core:doi none | unpaywall:not pdf (200),2026-10-11T14:35:25+00:00
+R0094,10.1016/j.jadr.2026.101170,retrieved,manual_pdf,saved by R1 from a browser,76523,10,82d10291f89acc332f7c6b76ded318234b3506188b93a87db7e8079cf7030672,"error: ValueError(""unknown url type: '/void(0)'"") | manual_pdf ok",2026-10-11T16:21:59+00:00
+R0096,10.1121/10.0045101,not retrieved,,,0,,,epmc:no pmcid | core:396963674 none; core:doi none | landing:blocked,2026-10-11T14:35:25+00:00
+R0097,10.3758/s13415-026-01435-z,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13385084/fullTextXML,67477,,86c020e9250684597c90e221e9fa88c68fe4893ab7c6bf0fa5531cb77826af3a,epmc:PMC13385084 ok,2026-10-10T19:13:09+00:00
+R0102,10.21203/rs.3.rs-10123589/v1,retrieved,pdf,https://www.researchsquare.com/article/rs-10123589/latest.pdf,32596,14,19d4d7acdc8b1f58ce597f0d741111fb4d6ed5cb9f7c2462b09711964919ac4c,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:13:09+00:00
+R0104,10.5080/61upk.ozt158,retrieved,manual_pdf,saved by R1 from a browser,3054,1,e4c8464c57336367564f61c008a923a563e315cecea41b1b1622e7b8e7011975,epmc:no pmcid | core:doi none | unpaywall:not pdf (200) | manual pdf ok,2026-10-11T16:01:27+00:00
+R0105,10.5606/kbbu.2026.16023,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:network,2026-10-11T14:35:29+00:00
+R0106,10.3390/medicina62010216,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12843823/fullTextXML,43670,,06ba4c1f2d5656c29d282bcfe94fa50fdf94418749695d58c114125a6f190c9b,epmc:PMC12843823 ok,2026-10-10T19:13:12+00:00
+R0107,10.1016/j.ijporl.2025.112681,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:35:30+00:00
+R0108,,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:36:03+00:00
+R0111,10.3389/fpsyg.2026.1771797,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13199115/fullTextXML,44856,,2855bc88bf12c51d21104b6ab9b1e22bb736c4e78ea5a08fb54de6baf9e88be2,epmc:PMC13199115 ok,2026-10-10T19:13:14+00:00
+R0114,10.12659/msm.950938,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12870165/fullTextXML,44080,,de9bf468b513fcef9c5dff43301e6bfdaeed95cab788210fa20e6a9570a1ec07,epmc:PMC12870165 ok,2026-10-10T19:13:15+00:00
+R0115,10.25405/ncl.34236561,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:not pdf (202),2026-10-11T14:35:32+00:00
+R0117,10.25405/ncl.34298076.v1,retrieved,pdf,https://discovery.ucl.ac.uk/1540343/1/Kumar%20et%20al%202017%20misophonia.pdf,27178,8,85daa86d248d04efa357074773af713286f4b8f8ad10d73b849fd898d5904742,epmc:no pmcid | core:doi none | openalex:blocked; openalex:pdf,2026-10-10T19:13:18+00:00
+R0118,10.1007/s11126-026-10264-9,retrieved,pdf,https://link.springer.com/content/pdf/10.1007/s11126-026-10264-9.pdf,43914,16,dbd5c7d406f4a52d7afce3c8c1428f4c44e0d903a04e164a4c4a9f98f12340b4,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:13:19+00:00
+R0119,10.31083/bp45905,retrieved,pdf,https://storage.imrpress.com/IMR/2090697365576982500/application/3045-591X-34-4-45905.pdf,47879,10,06c186696f116a3064f7ebf4f7c3ffb1c1ff0b75739b396176e7ad125bbbf9a9,epmc:no pmcid | core:403288866 none; core:doi none | unpaywall:pdf,2026-10-10T19:13:20+00:00
+R0123,10.13140/rg.2.2.31330.70081,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:blocked,2026-10-11T14:35:33+00:00
+R0130,,not retrieved,,,0,,,epmc:no id | core:419585768 none; core:title none | pdf:no candidates,2026-10-11T14:35:35+00:00
+R0131,10.13140/rg.2.2.18321.19047,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:35:36+00:00
+R0134,10.1163/22134808-bja10185,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (403),2026-10-11T14:35:38+00:00
+R0138,10.1186/s12888-026-08331-3,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13584299/fullTextXML,56225,,58b7f88bbb462f9585a6d57c09bc7024066dbd0fae475cb038fd3f1a4e6f070a,epmc:PMC13584299 ok,2026-10-10T19:13:28+00:00
+R0140,10.1121/10.0045872,not retrieved,,,0,,,epmc:no pmcid | core:396963219 none; core:doi none | landing:blocked,2026-10-11T14:35:39+00:00
+R0143,10.1016/j.brat.2026.105097,not retrieved,,,0,,,epmc:no pmcid | core:419820262 none; core:doi none | record:not pdf (200),2026-10-11T14:35:41+00:00
+R0144,10.21203/rs.3.rs-8748692/v1,retrieved,pdf,https://www.researchsquare.com/article/rs-8748692/latest.pdf,31186,14,a46e829797f0cc8098a490b078792229b81db3ecc41c310d81a5ce11fcc2b988,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:13:30+00:00
+R0145,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:35:43+00:00
+R0146,10.1155/mij/7573472,retrieved,manual_pdf,saved by R1 from a browser,57889,10,ba603ba442b40c2549e0d151fb54ba5b3c8c4a836bb449a43c65555b33191e74,"error: ValueError(""unknown url type: '/void(0)'"") | manual_pdf ok",2026-10-11T16:21:59+00:00
+R0147,10.1016/j.heares.2026.109709,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (200),2026-10-11T14:35:45+00:00
+R0150,10.1186/s12888-026-07979-1,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13064043/fullTextXML,53334,,07d1299e94554e8dbc8981894536582d0fc493986979473fb14b1ec540fa90e0,epmc:PMC13064043 ok,2026-10-10T19:13:34+00:00
+R0157,,not retrieved,,,0,,,epmc:no id | core:367591421 none; core:387928461 none; core:389659618 none; core:title none | pdf:no candidates,2026-10-11T14:35:48+00:00
+R0158,10.21203/rs.3.rs-5659312/v1,retrieved,pdf,https://www.researchsquare.com/article/rs-5659312/latest.pdf,19227,9,c049a1e84e133a7989f67a6cb994bf8e2390b97eb38fd95a5f91431c944f66c2,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:13:37+00:00
+R0161,10.5281/zenodo.21774385,retrieved,manual_docx,saved by R1 from a browser,30843,,ced4682ead05a89d9a038edbc70705a4a6d5560b7c67bb9f3cb606fa8010703c,epmc:no pmcid | core:doi none | record:not pdf (200); landing:not pdf (200) | manual_docx ok,2026-10-11T16:21:59+00:00
+R0164,10.1007/s10578-024-01781-4,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13437573/fullTextXML,58284,,727574209aca3a0a02bf10ff8f71a263ef8bb07172d614a664c4fed98fe93de1,epmc:PMC13437573 ok,2026-10-10T19:13:40+00:00
+R0165,10.1080/14992027.2026.2642751,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:35:48+00:00
+R0168,10.1080/13803395.2026.2633236,not retrieved,,,0,,,epmc:no pmcid | core:320054867 none; core:doi none | unpaywall:blocked; record:blocked,2026-10-11T14:35:49+00:00
+R0177,10.1044/2025_aja-25-00058,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:35:51+00:00
+R0180,10.1016/j.ijpsycho.2026.113476,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (200),2026-10-11T14:35:53+00:00
+R0184,10.13140/rg.2.2.10047.88486,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:blocked,2026-10-11T14:35:53+00:00
+R0186,,not retrieved,,,0,,,epmc:no id | core:338867402 none; core:title none | pdf:no candidates,2026-10-11T14:35:54+00:00
+R0188,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:35:54+00:00
+R0195,10.64898/2026.01.09.26343757,retrieved,pdf,https://www.medrxiv.org/content/medrxiv/early/2026/01/11/2026.01.09.26343757.full.pdf,33870,11,8932e72c3bd27b4616a4bf2f73f6501c6a605fdb1def7ce379de32ca7d31a167,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:13:45+00:00
+R0196,10.1007/s10803-025-07184-1,retrieved,pdf,https://doi.org/10.64898/2026.01.09.26343757,33870,11,8932e72c3bd27b4616a4bf2f73f6501c6a605fdb1def7ce379de32ca7d31a167,epmc:no pmcid | core:317783781 none; core:doi none | unpaywall:blocked; record:pdf via citation_pdf_url,2026-10-10T19:13:46+00:00
+R0197,10.1016/j.heares.2025.109522,retrieved,manual_pdf,saved by R1 from a browser,59007,9,60d58ea3b6d9a965e131e4138b5c797bf3cf5d76bb0166fdbb90b6c99457a83e,epmc:no pmcid | core:321692650 none; core:doi none | unpaywall:not pdf (200); record:not pdf (200) | manual_pdf ok,2026-10-11T16:21:59+00:00
+R0203,10.64898/2026.09.14.751161,retrieved,pdf,https://www.biorxiv.org/content/biorxiv/early/2026/09/21/2026.09.14.751161.full.pdf,57230,16,c71aea8e7a01735aad78d4de29bc1f5a8e9e0df72c1256d746508a5594e5dcff,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:13:46+00:00
+R0204,10.1186/s12887-026-07387-0,retrieved,manual_pdf,saved by R1 from a browser,58762,23,34d67efc421b6514320a8bb830c3b1d27db2aa0de461b8a28f7d9d8775114d74,"error: ValueError(""unknown url type: '/void(0)'"") | manual_pdf ok",2026-10-11T16:22:00+00:00
+R0205,10.18112/openneuro.ds008003.v1.0.0,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/320091035,129432,,26dd3ae514e267ea31d4fe7db94cbc1a0c194d5d948263fbffe57f37cb38938a,epmc:no pmcid | core:320091035 ok,2026-10-10T19:13:51+00:00
+R0206,10.20944/preprints202609.1892.v1,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; unpaywall:not pdf (200),2026-10-11T14:35:56+00:00
+R0207,10.5080/u27720,retrieved,manual_pdf,saved by R1 from a browser,49097,10,3ffbf201ffcea414260187cccfd3454a3b08a320ad1f28f69e0fc275ec5c3dcc,"error: ValueError(""unknown url type: '/void(0)'"") | manual pdf ok",2026-10-11T16:01:27+00:00
+R0208,10.1111/ped.70462,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:35:57+00:00
+R0210,10.1590/2317-6431-2025-3080pt,retrieved,pdf,https://www.scielo.br/j/acr/a/b3JNPSV87kfRJGMxxmcgs9v/?lang=pt&format=pdf,29502,6,07bd9612824e187899aa33104e5300ad990e2b94acd8961a76df6d02ddae5f41,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:13:56+00:00
+R0214,10.1016/j.psfr.2026.02.001,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:35:59+00:00
+R0217,10.1002/jclp.70075,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12882802/fullTextXML,33615,,20eb0a9b19ad166c03a5eaf3f655ba795023d7cdd002826bbf58a388517f2265,epmc:PMC12882802 ok,2026-10-10T19:14:00+00:00
+R0218,,not retrieved,,,0,,,epmc:no id | core:377962943 none; core:388039309 none; core:390118431 none; core:title none | pdf:no candidates,2026-10-11T14:35:59+00:00
+R0221,10.1044/2026_aja-25-00333,not retrieved,,,0,,,epmc:no pmcid | core:419082000 none; core:doi none | record:blocked; landing:blocked,2026-10-11T14:36:00+00:00
+R0228,10.1016/j.jpsychires.2025.11.026,not retrieved,,,0,,,epmc:no pmcid | core:318727804 none; core:doi none | unpaywall:not pdf (200); record:not pdf (200),2026-10-11T14:36:01+00:00
+R0230,10.1080/20473869.2026.2626434,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:36:01+00:00
+R0232,10.1111/psyp.70390,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13537026/fullTextXML,76489,,af2af28adc145a0692b1361cc739a9186855cefc477c999440065e4625ce30a7,epmc:PMC13537026 ok,2026-10-10T19:14:06+00:00
+R0234,10.64898/2026.08.30.748122,retrieved,pdf,https://www.biorxiv.org/content/biorxiv/early/2026/09/03/2026.08.30.748122.full.pdf,57145,28,5b6e66223896701dec6eb53dc31124343d84e3e614a614f186583e7aed99c952,epmc:no pmcid | core:417905721 none; core:doi none | unpaywall:pdf,2026-10-10T19:14:06+00:00
+R0236,10.1017/s0022215126104526,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13443445/fullTextXML,55646,,5844b4014c0ef7e321d4f6aaad4dcec5a7d1d62eee2e0503c9681f5915e93bd3,epmc:PMC13443445 ok,2026-10-10T19:14:06+00:00
+R0243,10.1371/journal.pone.0324726,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12140247/fullTextXML,28829,,e562169d324f3d5104407d7ef5b512f1cdc0bd552e8ea9c016515563bc26b108,epmc:PMC12140247 ok,2026-10-10T19:14:07+00:00
+R0246,10.1177/17470218251322718,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:36:02+00:00
+R0248,,not retrieved,,,0,,,epmc:no id | core:314936979 none; core:title none | pdf:no candidates,2026-10-11T14:36:03+00:00
+R0256,10.2196/preprints.81562,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (202),2026-10-11T14:36:04+00:00
+R0257,10.5152/neuropsychiatricinvest.2025.24063,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/407378900,145494,,4da98a97c7e4e45f70b53c66cac0d88c714e1563dcc05edc82308b5477f1001c,epmc:no pmcid | core:407378900 ok,2026-10-10T19:14:10+00:00
+R0258,10.1093/schizbullopen/sgaf021,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12551459/fullTextXML,52884,,ffb2aa262e91f5e7035fd6d78424bf01a533389c57b32375316dfc0801b6febb,epmc:PMC12551459 ok,2026-10-10T19:14:11+00:00
+R0259,10.1002/jclp.70028,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:36:06+00:00
+R0260,10.35566/jbds/bain,retrieved,pdf,https://doi.org/10.35566/jbds/bain,119874,45,487d5e3f0703ea2ba05fa46cd95415e01b66d20f97e9ce8e8a1989e5955f3e40,epmc:no pmcid | core:doi none | unpaywall:pdf via citation_pdf_url,2026-10-10T19:14:12+00:00
+R0261,10.1002/mdc3.70017,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12187985/fullTextXML,5370,,5b3140d097392fdfcb44c170569b3bfb252d92ecb328947365ac97e10ab0ae7c,epmc:PMC12187985 ok,2026-10-10T19:14:12+00:00
+R0262,10.17430/jhs/214371,retrieved,pdf,https://www.journalofhearingscience.com/pdf-214371-133480?filename=MISOPHONIA-AND-THE-QUALIT.pdf,32923,7,18fc837a0a8fdb1ade732ad139bd7aefdd4400462a3a7a2ebf2bc2e82f92ccd1,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:14:13+00:00
+R0267,10.1101/2025.01.13.632542,retrieved,pdf,https://doi.org/10.1101/2025.01.13.632542,118943,33,69cbf5f6f3a13428790c237bb86e9bd2e0bd9f8355a65794d450f295a2cc89b8,epmc:no pmcid | core:doi none | unpaywall:pdf via citation_pdf_url,2026-10-10T19:14:14+00:00
+R0268,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:36:05+00:00
+R0269,,not retrieved,,,0,,,epmc:no id | core:321743231 none; core:374849390 none; core:title none | pdf:no candidates,2026-10-11T14:36:05+00:00
+R0272,10.1080/14992027.2025.2478519,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:36:08+00:00
+R0274,10.1186/s43163-025-00912-5,retrieved,pdf,https://ejo.springeropen.com/counter/pdf/10.1186/s43163-025-00912-5,30778,7,85deb9b798d83c3bbdd581790065d488711fc5b8fcf8783d71f7869b40813b34,epmc:no pmcid | core:305610595 none; core:doi none | unpaywall:pdf,2026-10-10T19:14:17+00:00
+R0282,10.5281/zenodo.17887213,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:not pdf (200),2026-10-11T14:36:06+00:00
+R0290,10.17605/osf.io/25c9v,not retrieved,,,0,,,epmc:no pmcid | core:321740673 none; core:doi none | osf:network; record:not pdf (200); landing:not pdf (200),2026-10-11T14:36:06+00:00
+R0291,10.1016/j.reia.2025.202683,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13274634/fullTextXML,50810,,0813d90a1077d22b81f061753fe92d7127b725ab46d1f65138162a9cb0b7ce00,epmc:PMC13274634 ok,2026-10-10T19:14:19+00:00
+R0292,10.1007/s10803-025-06924-7,retrieved,pdf,https://link.springer.com/content/pdf/10.1007/s10803-025-06924-7.pdf,94808,18,897e65be36a0f0ac4d819b75900776a438192b334ddda9fc827554b122b3a234,epmc:no pmcid | core:159516907 none; core:doi none | unpaywall:pdf,2026-10-10T19:14:19+00:00
+R0294,10.5455/pbs.20250504060857,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:37:15+00:00
+R0295,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/291812668,22585,,86253ddabace38c84fcfa1f08c2e3b7f7fde32ff03d3c2744c1c40c18bdefc29,epmc:no id | core:291812668 ok,2026-10-10T19:14:21+00:00
+R0299,,not retrieved,,,0,,,epmc:no id | core:356676571 none; core:400286824 none; core:title none | pdf:no candidates,2026-10-11T14:36:07+00:00
+R0301,10.1186/s12991-025-00583-9,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12265112/fullTextXML,46588,,b3fe81dc974b4a2810719ecb6cf819b681d74f0588e385209d0a3c6d84d6ff65,epmc:PMC12265112 ok,2026-10-10T19:14:22+00:00
+R0302,10.1016/j.brs.2024.12.593,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (200); unpaywall:blocked,2026-10-11T14:36:07+00:00
+R0307,10.1016/j.visres.2025.108655,retrieved,manual_pdf,saved by R1 from a browser,68990,21,943194690123cd01a03be8c8df530c68a4ac41b9b0cf7731cf25742fe512286d,epmc:PMC12249521 no xml | core:doi none | unpaywall:not pdf (200); unpaywall:not pdf (200); unpaywall:not pdf (403); europepmc_render:blocked | manual pdf ok,2026-10-11T16:01:27+00:00
+R0313,10.1184/r1/28828070,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:not pdf (202),2026-10-11T14:36:09+00:00
+R0314,10.1371/journal.pone.0321594,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12007711/fullTextXML,106807,,abc3b7c32c4e218586ef090d3abb440c214d1e404cbfab6e743ea747d9f33bc0,epmc:PMC12007711 ok,2026-10-10T19:14:24+00:00
+R0315,10.1184/r1/c.7112221,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:not pdf (202),2026-10-11T14:36:10+00:00
+R0317,10.20515/otd.1537885,retrieved,pdf,https://dergipark.org.tr/tr/download/article-file/4165806,33429,9,58b9b9408885ba34f92740851a5a331ec2a5350ee7ba94008e8349074a9b6d91,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:14:28+00:00
+R0318,10.24875/amh.m25000102,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; unpaywall:blocked; landing:blocked,2026-10-11T14:36:10+00:00
+R0323,10.1016/j.jpsychires.2025.05.040,retrieved,manual_pdf,saved by R1 from a browser,44495,7,562ba73358e5e63c69b5d336abc0760c91e08c4f210205820a4a00629aaa22d8,"error: ValueError(""unknown url type: '/void(0)'"") | manual_pdf ok",2026-10-11T16:22:00+00:00
+R0324,10.1080/08039488.2025.2511068,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:36:13+00:00
+R0332,10.18502/avr.v35i1.20576,retrieved,manual_pdf,saved by R1 from a browser,33387,10,38a3f8cbe4382d4db6bbe686c00a7a6289e2dae99af270d3945bcc56a78768a7,"error: ValueError(""unknown url type: '/void(0)'"") | manual pdf ok",2026-10-11T16:01:27+00:00
+R0334,10.1016/j.heares.2025.109458,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:36:15+00:00
+R0335,10.1016/j.ijporl.2025.112241,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:36:17+00:00
+R0336,10.1121/10.0039238,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; unpaywall:blocked; record:blocked,2026-10-11T14:36:18+00:00
+R0339,10.1080/14992027.2025.2456015,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:36:20+00:00
+R0340,10.15126/thesis.901519,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:36:21+00:00
+R0344,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/301542297,127231,,90b809f0e2bc789c148be5b3f277e9516247b059fa83ba1e250fc7c9acd0ecaa,epmc:no id | core:301542297 ok,2026-10-10T19:14:42+00:00
+R0349,10.31234/osf.io/6vukr_v1,retrieved,pdf,https://osf.io/6vukr/download,66004,36,d51f5f01852115034cb14d8244f530078613ec4f7e7a8eaa1d1519f328d08cc7,epmc:no pmcid | core:doi none | osf:pdf,2026-10-10T19:40:56+00:00
+R0350,10.1371/journal.pone.0334689,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12654913/fullTextXML,52640,,966c36d54f826ce2d20ef24d12d2afb91d3fc41a89ee2f5e7425e351cc77fa11,epmc:PMC12654913 ok,2026-10-10T19:14:46+00:00
+R0354,10.1080/2050571x.2025.2581435,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:36:20+00:00
+R0356,,not retrieved,,,0,,,epmc:no id | core:321301528 none; core:411159487 none; core:title none | pdf:no candidates,2026-10-11T14:36:20+00:00
+R0358,10.29399/npa.28744,retrieved,pdf,https://www.noropsikiyatriarsivi.com/submission/MGSDosyalar/2025/Erkenbaski/28744-erkenbaski-en-50314.pdf,39343,6,8b6635db2d16c0a9bde17080e0d342666b41125f25c38db913c5e334a776c3c0,epmc:PMC11877377 no xml | core:doi none | unpaywall:pdf,2026-10-10T19:14:50+00:00
+R0361,10.1121/10.0040609,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:36:23+00:00
+R0364,10.31234/osf.io/q6gwm_v1,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/268332232,21310,,34d52b5e1f583d38a4d42dc6e300ffe09cc7c421fd6a7ca413835dda7de3810d,epmc:no pmcid | core:268332232 ok,2026-10-10T19:14:51+00:00
+R0365,10.1101/2025.09.09.675007,retrieved,pdf,https://www.biorxiv.org/content/biorxiv/early/2025/09/15/2025.09.09.675007.full.pdf,24843,10,0702b42480fe81ec4833002c261ca1874f0fb9c3ee1061a864671574077a5948,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:14:51+00:00
+R0368,10.1111/psyp.70014,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11843529/fullTextXML,77457,,cc0b8513ec81e205bbc7289a712d41bb3bc6d0f9584e6010f5a223aef7c4dde1,epmc:PMC11843529 ok,2026-10-10T19:14:53+00:00
+R0370,10.17430/jhs/203339,retrieved,pdf,https://doi.org/10.17430/jhs/203339,244267,46,170a80affd7c1260cae7edc75be8290f52f01f6d2ce0badf169cc7fce68d8576,epmc:no pmcid | core:doi none | unpaywall:pdf via citation_pdf_url,2026-10-10T19:14:54+00:00
+R0375,10.1007/s00127-024-02707-0,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11790775/fullTextXML,34361,,96f4094ffc3a4e65a148f8d6f399763f35f113836b78cb7bf303199767ffefed,epmc:PMC11790775 ok,2026-10-10T19:14:56+00:00
+R0379,10.3766/jaaa.240071,not retrieved,,,0,,,epmc:PMC12575427 no xml | core:doi none | europepmc_render:blocked; record:blocked,2026-10-11T14:36:21+00:00
+R0381,10.21203/rs.3.rs-8333185/v1,retrieved,pdf,https://www.researchsquare.com/article/rs-8333185/latest.pdf,33478,15,da68ffc70ba9cc871ea5d495e6aecdefafb4e0304fed43e0540657d2d7375d05,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:14:57+00:00
+R0382,10.18502/avr.v34i3.18465,retrieved,manual_pdf,saved by R1 from a browser,39958,12,5be432e5e3380c0dbd0bed041d1318a1f5dc52f0a2a3a63b4561a43fd2c4294c,epmc:no pmcid | core:doi none | unpaywall:not pdf (200); unpaywall:blocked | manual pdf ok,2026-10-11T16:01:27+00:00
+R0385,10.3389/fpsyg.2025.1569598,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12379095/fullTextXML,81244,,f28078b3be344a101db4441b6ad1e7711f8dc6ad77e7c34c26941b0291440768,epmc:PMC12379095 ok,2026-10-10T19:15:01+00:00
+R0387,,retrieved,pdf,https://hdl.handle.net/11245.1/8e605387-e215-476d-b75f-f2bd06487c32,4207,8,ffd2ff78d656001b1f3b20ddb5301691f50f1612dba146e13b55d8ff250cb61b,epmc:no id | core:no id | record:pdf via citation_pdf_url,2026-10-10T19:15:02+00:00
+R0389,10.3766/jaaa.240041,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:37:27+00:00
+R0390,10.21203/rs.3.rs-7768960/v1,retrieved,pdf,https://www.researchsquare.com/article/rs-7768960/latest.pdf,54307,23,379d9a43d36bdc7b91098c3a23e81277054182d2b10f9a593a9905b40603a287,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:15:03+00:00
+R0391,10.1002/jclp.70033,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12598385/fullTextXML,61023,,9624a0545ccf3dea2f7e8743130f565f3fa94691438d0a394553eb07abd31f57,epmc:PMC12598385 ok,2026-10-10T19:15:06+00:00
+R0392,,not retrieved,,,0,,,epmc:no id | core:290358417 none; core:372809054 none; core:title none | pdf:no candidates,2026-10-11T14:36:24+00:00
+R0393,10.1007/s10578-023-01569-y,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11928355/fullTextXML,53210,,7582f00adb1171734351a4d482a78dc06a8f1aafdbcb2868b0f9c3c47445c91a,epmc:PMC11928355 ok,2026-10-10T19:15:08+00:00
+R0397,10.1016/j.ijpsycho.2025.112672,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:36:27+00:00
+R0398,10.66224/rooyesh.14.3.11,retrieved,pdf,http://frooyesh.ir/files/site1/user_files_3380b3/maryam_daneshmand-A-10-12960-1-943a535.pdf,39747,10,52ac0bd6f564575160da5251e794f6e9e28ccc8eda9cfcf4019b1159a2cc3805,epmc:no pmcid | core:344493681 none; core:doi none | unpaywall:pdf,2026-10-10T19:15:09+00:00
+R0399,10.3389/fneur.2025.1545520,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12308847/fullTextXML,53120,,85d5122e884356b11780e348336511c14bcfcccc25dfd0c8babb0aa1c6f83ee0,epmc:PMC12308847 ok,2026-10-10T19:15:11+00:00
+R0402,,not retrieved,,,0,,,epmc:no id | core:363196091 none; core:title none | record:not pdf (200),2026-10-11T14:36:29+00:00
+R0405,,not retrieved,,,0,,,epmc:no id | core:320086481 none; core:title none | pdf:no candidates,2026-10-11T14:36:31+00:00
+R0408,10.1016/j.jad.2024.10.105,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:36:33+00:00
+R0410,10.1007/s12070-025-06052-9,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:36:36+00:00
+R0411,10.5709/acp-0467-2,retrieved,pdf,https://doi.org/10.5709/acp-0467-2,63762,11,855aca44b040b5f7ab142dd8e6aec446b0c5369297d5758b18c7d4fdb4f82fe1,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:15:27+00:00
+R0412,10.1007/s10578-023-01593-y,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12095346/fullTextXML,63358,,5952ea0c3ec94d318037bd97f44346424ad521f447f33d9d602d164492a3c8d7,epmc:PMC12095346 ok,2026-10-10T19:15:29+00:00
+R0415,10.1080/14992027.2024.2419558,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/160982205,43517,,59886d0f4b88c3b6766d6e7d746ca3e60b0dc5dfede127cb87f2227d683afb61,epmc:no pmcid | core:160982205 ok,2026-10-10T19:15:30+00:00
+R0422,10.17605/osf.io/46qmz,not retrieved,,,0,,,epmc:no pmcid | core:298116931 none; core:doi none | osf:network; landing:not pdf (200),2026-10-11T14:36:34+00:00
+R0423,10.1016/j.heares.2025.109435,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:36:36+00:00
+R0426,10.47407/kr2025.6.8.00655,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (200); unpaywall:blocked,2026-10-11T14:36:37+00:00
+R0428,10.1007/s12144-025-08451-1,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:36:39+00:00
+R0429,,not retrieved,,,0,,,epmc:no id | core:290492150 none; core:371877032 none; core:title none | pdf:no candidates,2026-10-11T14:36:41+00:00
+R0431,10.31117/neuroscirn.v8i3.417,retrieved,pdf,https://neuroscirn.org/ojs/index.php/nrnotes/article/download/417/299,38179,8,e64396c86389973a8b2008b9c16e3ef18d9e415cb6ac2655c42dc4a6b7d34b6d,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:15:37+00:00
+R0433,10.1016/j.ijporl.2025.112334,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:36:43+00:00
+R0434,10.31234/osf.io/d49uq_v1,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (200); unpaywall:not pdf (202); unpaywall:not pdf (200); osf_preprint:not pdf (200); osf:not pdf (200),2026-10-11T14:36:45+00:00
+R0435,10.1016/j.heares.2025.109440,not retrieved,,,0,,,epmc:no pmcid | core:297431282 none; core:309435201 none; core:374421023 none; core:doi none | unpaywall:not pdf (200); record:not pdf (200),2026-10-11T14:36:46+00:00
+R0436,10.13140/rg.2.2.29962.99523,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:36:46+00:00
+R0437,10.3389/fpsyg.2025.1560100,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12139024/fullTextXML,54077,,e60888c0121021d4ada86dac43f24ae913bcd065fe9a4f8c21b5a571592dc226,epmc:PMC12139024 ok,2026-10-10T19:16:12+00:00
+R0440,10.31234/osf.io/syx9b_v2,retrieved,pdf,https://osf.io/syx9b/download,112520,37,be34745219225012620abb77bb680cacd21a18eac3dbf5d1098ddcd395bc23e1,epmc:no pmcid | core:173710072 none; core:275698530 none; core:369196566 none; core:doi none | unpaywall:not pdf (200); osf:pdf,2026-10-10T19:48:20+00:00
+R0441,10.31234/osf.io/4qryg_v1,retrieved,pdf,https://osf.io/4qryg/download,208429,70,1c3f1391346ac46faa8ae9024e6ec1cfdc5aef24a66417a96b8ca60cc2f83062,epmc:no pmcid | core:275699691 none; core:372672147 none; core:doi none | unpaywall:not pdf (200); unpaywall:not pdf (200); osf:pdf,2026-10-10T19:48:23+00:00
+R0446,10.4992/jjpsy.96.23333,retrieved,pdf,https://www.jstage.jst.go.jp/article/jjpsy/96/3/96_96.23333/_pdf,21058,7,226a7e67183db70dfe6d456a3f5d3a22c234f1c86bfa9d410ff8d31a8fee97ec,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:16:15+00:00
+R0451,10.1002/brb3.70924,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12540924/fullTextXML,30303,,3aa57f0cc872a105f3ace79f6a2e28573f577d34ab46efde766263686314527e,epmc:PMC12540924 ok,2026-10-10T19:16:31+00:00
+R0452,10.58241/ksbd.37,retrieved,manual_pdf,saved by R1 from a browser,24722,10,a5d2da6e6b640e7950ee782a18cd09916e0df5ab2f9157bb0f65bdffb3b7547d,epmc:no pmcid | core:doi none | unpaywall:not pdf (200) | manual pdf ok,2026-10-11T16:01:27+00:00
+R0453,10.21608/dapt.2025.467447,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:network,2026-10-11T14:36:50+00:00
+R0457,10.1371/journal.pone.0296218.t006,not retrieved,,,0,,,epmc:no pmcid | core:155413173 none; core:doi none | landing:not pdf (200),2026-10-11T14:37:00+00:00
+R0458,10.1371/journal.pone.0296218.t005,not retrieved,,,0,,,epmc:no pmcid | core:154600696 none; core:doi none | landing:not pdf (200),2026-10-11T14:37:12+00:00
+R0459,10.1371/journal.pone.0296218.g001,not retrieved,,,0,,,epmc:no pmcid | core:154600702 none; core:doi none | landing:not pdf (200),2026-10-11T14:37:15+00:00
+R0463,10.1044/2024_aja-23-00254,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; record:blocked,2026-10-11T14:37:24+00:00
+R0467,10.1055/a-2192-5668,not retrieved,,,0,,,epmc:no pmcid | core:154772337 none; core:doi none | record:blocked,2026-10-11T14:37:27+00:00
+R0468,10.3390/brainsci15010016,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11764284/fullTextXML,28265,,ad216c99b4e1fe8b6b7b0f56203a763631081eed176f14d5c7ed967d605be637,epmc:PMC11764284 ok,2026-10-10T19:17:51+00:00
+R0469,10.1016/j.jbtep.2023.101897,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:37:59+00:00
+R0470,10.1177/17470218251322718/v2/response1,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200); landing:not pdf (200),2026-10-11T14:37:46+00:00
+R0472,10.1016/j.ijporl.2024.112119,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:37:58+00:00
+R0473,10.13140/rg.2.2.22889.71522,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:37:59+00:00
+R0474,,not retrieved,,,0,,,epmc:no id | core:362031379 none; core:title none | pdf:no candidates,2026-10-11T14:38:05+00:00
+R0475,10.21020/husbfd.1303779,retrieved,pdf,https://dergipark.org.tr/tr/download/article-file/3169701,51790,18,82018aea5dbbbd9403a8e6af4a7ae1e55a99b25f34bf2c9cf6e835acc702bae9,epmc:no pmcid | core:276263033 none; core:doi none | unpaywall:pdf,2026-10-10T19:18:17+00:00
+R0476,10.1097/md.0000000000040217,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11521001/fullTextXML,53203,,785069df3563907a7a1207ebb7715fcb74e33addca88bfb6894eead08385e126,epmc:PMC11521001 ok,2026-10-10T19:18:20+00:00
+R0477,10.33225/24.18.07,not retrieved,,,0,,,epmc:no pmcid | core:166051995 none; core:doi none | unpaywall:network; record:blocked,2026-10-11T14:38:17+00:00
+R0478,10.1007/s00405-023-08318-w,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:38:51+00:00
+R0479,10.18502/avr.v33i4.16652,retrieved,manual_pdf,saved by R1 from a browser,41006,10,15061f50bb5d1bf947e3d1355ba1bb4872356115890b1f6d10bf7b3cd6397786,"error: ValueError(""unknown url type: '/void(0)'"") | manual pdf ok",2026-10-11T16:01:27+00:00
+R0480,10.4103/hbc.hbc_19_24,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:38:58+00:00
+R0481,10.1002/jclp.23605,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:40:37+00:00
+R0484,10.3389/fpsyg.2024.1361645,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11058809/fullTextXML,37583,,da579a2f5e754dcd230f05ecd97a4d8e0d423a494227ebd4eb61194d399fda03,epmc:PMC11058809 ok,2026-10-10T19:18:42+00:00
+R0485,10.31234/osf.io/jzydf,retrieved,pdf,https://osf.io/jzydf/download,57562,34,3807e9beb4ac886a3ac7327e32250f916ec6f013516de045c4c0d581f10409ae,epmc:no pmcid | core:159516195 none; core:doi none | unpaywall:not pdf (200); unpaywall:not pdf (200); osf:pdf,2026-10-10T19:49:33+00:00
+R0486,10.1016/j.schres.2024.10.005,not retrieved,,,0,,,epmc:no pmcid | core:299890243 none; core:doi none | unpaywall:not pdf (200); record:not pdf (200),2026-10-11T14:38:31+00:00
+R0488,10.21203/rs.3.rs-4425792/v1,retrieved,pdf,http://dx.doi.org/10.21203/rs.3.rs-4425792/v1,79741,52,0a796d8902d34ccc424b9363d935aaa0209a4e802e23b1024d9880d761b8d768,epmc:no pmcid | core:156109516 none; core:doi none | unpaywall:pdf via citation_pdf_url,2026-10-10T19:19:04+00:00
+R0489,10.13140/rg.2.2.16488.48647,retrieved,manual_pdf,saved by R1 from a browser,115264,21,a80ce737f58c225b9e4b105cbf513ebcc413e09ce171ac0b7e13449c09c8931e,"error: ValueError(""unknown url type: '/void(0)'"") | manual pdf ok",2026-10-11T16:01:27+00:00
+R0492,,not retrieved,,,0,,,epmc:no id | core:396141033 none; core:title none | record:blocked,2026-10-11T14:38:51+00:00
+R0502,10.1016/j.jaac.2024.08.102,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; record:not pdf (200),2026-10-11T14:38:58+00:00
+R0503,10.1016/j.admp.2024.102700,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:39:04+00:00
+R0505,10.1097/aud.0000000000001435,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:39:07+00:00
+R0506,10.31219/osf.io/t6y2w,retrieved,pdf,https://osf.io/t6y2w/download,82543,38,171236a0c9f7a14fac7f0bc1653c7a9258b2dcba0216d12815f83644624e9d17,epmc:no pmcid | core:169586212 none; core:367688724 none; core:388000874 none; core:doi none | unpaywall:not pdf (200); osf:pdf,2026-10-10T19:50:37+00:00
+R0509,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:39:30+00:00
+R0510,10.1016/j.nsa.2024.104893,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (200),2026-10-11T14:39:33+00:00
+R0513,10.5014/ajot.2024.78s2-po50,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:39:36+00:00
+R0516,10.31124/advance.24878439.v1,retrieved,manual_pdf,saved by R1 from a browser,7620,4,de105ec9c2da66ecf9e15a567791bef61fae5af7b9f3af0fede3ae31dfb47db1,"error: ValueError(""unknown url type: '/void(0)'"") | manual pdf ok",2026-10-11T16:01:27+00:00
+R0517,10.1177/00099228231211155,not retrieved,,,0,,,epmc:no pmcid | core:286894697 none; core:doi none | record:blocked,2026-10-11T14:39:39+00:00
+R0520,10.17605/osf.io/5vz2k,not retrieved,,,0,,,epmc:no pmcid | core:167549220 none; core:doi none | osf:network; landing:not pdf (200),2026-10-11T14:39:53+00:00
+R0522,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/396141034,3590,,b01187ed64274f996b4be86bf8986724ac274b2ed0370d6da19ca300093df85c,epmc:no id | core:396141034 ok,2026-10-10T19:20:21+00:00
+R0524,10.1016/j.schres.2024.09.026,retrieved,manual_pdf,saved by R1 from a browser,49524,19,e86251bbf6342a53daa33656a0a4b522d99da958cd4eae287e659be1ff6a08d2,epmc:PMC11620929 no xml | core:doi none | unpaywall:not pdf (200); unpaywall:not pdf (200); europepmc_render:blocked | manual pdf ok,2026-10-11T16:01:27+00:00
+R0525,10.1016/j.jpsychires.2024.10.022,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:40:01+00:00
+R0526,10.1037/abn0000904,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:40:38+00:00
+R0528,10.1080/20473869.2023.2165231,retrieved,manual_pdf,saved by R1 from a browser,33793,7,600285de6a6b8218206c7a01489a613f06268b598c376ce36558bd68974c13d3,"error: ValueError(""unknown url type: '/void(0)'"") | manual pdf ok",2026-10-11T16:01:28+00:00
+R0533,10.22541/au.173020525.52263774/v1,retrieved,manual_pdf,saved by R1 from a browser,65766,15,1e756184f23d3e5465525093b8af0b89b58a59ca8bd386ee700b0be3df967b8e,"error: ValueError(""unknown url type: '/void(0)'"") | manual pdf ok",2026-10-11T16:01:28+00:00
+R0535,,not retrieved,,,0,,,epmc:no id | core:title none | record:not pdf (200),2026-10-11T14:40:37+00:00
+R0544,10.1371/journal.pone.0299698,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11081244/fullTextXML,65537,,3345456e0792f51f3f0cf9a38dbe74a119fa2d75d16d6f9c26829fcff01cd45c,epmc:PMC11081244 ok,2026-10-10T19:20:45+00:00
+R0545,10.5255/ukda-sn-856862,not retrieved,,,0,,,epmc:no pmcid | core:162791436 none; core:369802213 none; core:389391701 none; core:doi none | landing:not pdf (200),2026-10-11T14:40:38+00:00
+R0546,10.3390/bs14020107,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10886306/fullTextXML,29374,,5a8fdbf21bb06d2d4197ec1b31cc0121b443eaef738f49cd58f593b87895d4f7,epmc:PMC10886306 ok,2026-10-10T19:20:47+00:00
+R0547,10.13140/rg.2.2.33419.26404,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:40:43+00:00
+R0548,10.1184/r1/25367683,not retrieved,,,0,,,epmc:no pmcid | core:287139671 none; core:doi none | landing:not pdf (202),2026-10-11T14:41:00+00:00
+R0553,10.29399/npa.28630,retrieved,manual_pdf,saved by R1 from a browser,41199,7,0fb74ee64b16ad820d30c7f391072764db1aa043a3dd359600216991ad8f084f,"error: ValueError(""unknown url type: '/void(0)'"") | manual pdf ok",2026-10-11T16:01:28+00:00
+R0555,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/158487318,39956,,55f2be0f2a3999eff845576be32f860ffbb255f4e1a20a93095094549616af89,epmc:no id | core:158487318 ok,2026-10-10T19:20:48+00:00
+R0559,10.4992/pacjpa.88.0_2a-047-ph,retrieved,pdf,https://www.jstage.jst.go.jp/article/pacjpa/88/0/88_2A-047-PH/_pdf,3296,1,85995a9e3d766aec357d5fe5fed269e98100879cdaffdd3a0ca259a54e372112,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:20:49+00:00
+R0566,10.1371/journal.pone.0306464,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11285937/fullTextXML,21971,,b4d7dd80bc166a874d70fef179adea44473146bcf438e963b04b0af62ac71bdf,epmc:PMC11285937 ok,2026-10-10T19:20:54+00:00
+R0575,10.1016/j.sedeng.2024.100157,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:41:41+00:00
+R0576,10.1016/j.sedene.2023.12.002,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:41:43+00:00
+R0581,10.18502/avr.v34i1.17269,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/171599929,29867,,871b09e257e78f848c11b9d53901799b9c4b893cc3532925a3ebd0c387e33215,epmc:no pmcid | core:171599929 ok,2026-10-10T19:20:54+00:00
+R0582,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/304033963,80876,,eb917c893949fd998933c64b272db4c885615b803a8b97369130f6b6032123d5,epmc:no id | core:304033963 ok,2026-10-10T19:20:55+00:00
+R0583,10.1163/22134808-bja10137,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/162197119,65598,,0a8f0ca2836e3a9582d7de99f24c920a1be182864bbc29880c89d21806fa05e6,epmc:no pmcid | core:162197119 ok,2026-10-10T19:20:56+00:00
+R0585,10.1098/rstb.2023.0253,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11444238/fullTextXML,50845,,516501ced64fe521db5c2d9536d48dec9b791630f4020f9c9d9ad0c85eb6c653,epmc:PMC11444238 ok,2026-10-10T19:20:58+00:00
+R0589,10.1016/j.jad.2023.11.088,not retrieved,,,0,,,epmc:no pmcid | core:290668079 none; core:doi none | record:not pdf (200),2026-10-11T14:41:13+00:00
+R0594,10.13140/rg.2.2.36450.34245/1,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:41:16+00:00
+R0596,10.13140/rg.2.2.23199.37282,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:41:32+00:00
+R0606,10.1016/j.jaac.2024.08.104,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; landing:not pdf (200),2026-10-11T14:41:41+00:00
+R0607,,not retrieved,,,0,,,epmc:no id | core:162792577 none; core:title none | pdf:no candidates,2026-10-11T14:41:43+00:00
+R0609,,not retrieved,,,0,,,epmc:no id | core:156379108 none; core:167396657 none; core:title none | pdf:no candidates,2026-10-11T14:41:49+00:00
+R0613,10.17431/na/173418,retrieved,pdf,https://www.nowaaudiofonologia.pl/pdf-173418-109353?filename=Problemy-nadwrazliwosci-s.pdf,36536,8,311287db878d5e132452be78d525054b45eaa84245949304e5e3f99f608d0f95,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:21:03+00:00
+R0616,10.1016/j.jaac.2024.08.105,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; landing:not pdf (200),2026-10-11T14:41:51+00:00
+R0625,10.3390/healthcare12181888,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11430847/fullTextXML,34902,,bfd3ca9b1c859c2ec704967e3037d83bddf45b2ad454c4c3181158def528c49f,epmc:PMC11430847 ok,2026-10-10T19:21:06+00:00
+R0626,10.1177/10731911241234104,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11528938/fullTextXML,60043,,046488c0a51fdf2cdbf4b0ad0ddfa4e969129115cc83ac7745092c630454d21c,epmc:PMC11528938 ok,2026-10-10T19:21:07+00:00
+R0629,10.17430/jhs/192761,retrieved,pdf,http://dx.doi.org/10.17430/jhs/192761,139095,24,358a8b8bb76b869a0472bf5994dcc3ddb2be089373ec3a17dba5b3478c93de0b,epmc:no pmcid | core:doi none | unpaywall:pdf via citation_pdf_url,2026-10-10T19:21:08+00:00
+R0631,10.13140/rg.2.2.17252.39043,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:41:51+00:00
+R0636,10.1007/s12070-023-04382-0,retrieved,manual_pdf,saved by R1 from a browser,17128,4,2dc1e30f958ecf7f0e13298a19f89377ed15dc405171e161837d8b467860b5f2,"error: ValueError(""unknown url type: '/void(0)'"") | manual pdf ok",2026-10-11T16:01:28+00:00
+R0637,10.1007/s00405-023-08273-6,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:41:52+00:00
+R0639,10.1371/journal.pone.0301105,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11111082/fullTextXML,59868,,b7dbdc0feb96ee99ee3b5cf2386815b39d20c5394876acf27203534d867b29e5,epmc:PMC11111082 ok,2026-10-10T19:21:11+00:00
+R0640,,retrieved,pdf,http://urn.kb.se/resolve?urn=urn:nbn:se:umu:diva-226684,100480,35,e248f18598422d18ff96fc903d8fa9d04b91ea4bc679de0f17c4244815704e7c,epmc:no id | core:156039626 none; core:156470518 none; core:367964571 none | record:pdf via citation_pdf_url,2026-10-10T19:21:12+00:00
+R0641,10.3389/fpsyg.2024.1372870,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11221307/fullTextXML,90439,,a0abe993a7c9e64f3f9802d45f56b4049c5871dbe818eac3e7160aa54206c455,epmc:PMC11221307 ok,2026-10-10T19:21:13+00:00
+R0643,,not retrieved,,,0,,,epmc:no id | core:title none | record:not pdf (200),2026-10-11T14:41:53+00:00
+R0644,10.3389/fnhum.2013.00296/abstract,not retrieved,,,0,,,epmc:no pmcid | core:311102501 none; core:doi none | landing:not pdf (404),2026-10-11T14:41:55+00:00
+R0645,10.13140/rg.2.2.11380.36482,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:41:55+00:00
+R0646,10.17605/osf.io/x2udk,not retrieved,,,0,,,epmc:no pmcid | core:156340495 none; core:doi none | osf:network; record:not pdf (200); landing:not pdf (200),2026-10-11T14:41:56+00:00
+R0649,10.1177/03057356241239336,retrieved,pdf,https://jyx.jyu.fi/bitstreams/4b9fbcca-4e7f-4e94-8bbd-6a0734859df5/download,76938,24,e57e15ae1e19abbd976447759316265788cbc0c0662dad3b638daf8d8099c37f,epmc:no pmcid | core:297474489 none; core:doi none | unpaywall:blocked; unpaywall:pdf,2026-10-10T19:21:17+00:00
+R0651,10.25959/25698009,retrieved,pdf,https://ndownloader.figshare.com/files/45965085,88036,62,5339cbc9dbb2ecebcb00f6d1fef38190aa2d811eb150ddfac5fc43b1c2147201,epmc:no pmcid | core:287148746 none; core:doi none | figshare:pdf,2026-10-10T19:53:50+00:00
+R0652,10.31234/osf.io/yj8qa,retrieved,pdf,https://osf.io/yj8qa/download,104207,53,b2f532ae32599bc26fe0900dc62bc75030c7aaec242d7a892a249706379c1d7f,epmc:no pmcid | core:173710033 none; core:doi none | unpaywall:not pdf (200); unpaywall:not pdf (200); osf:pdf,2026-10-10T19:53:50+00:00
+R0653,,not retrieved,,,0,,,epmc:no id | core:276441018 none; core:title none | pdf:no candidates,2026-10-11T14:41:56+00:00
+R0657,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/168353646,130252,,f0f734dde0193c8c6ca258f74e8aec8254df4797b2aba9b28046de82603043c9,epmc:no id | core:168353646 ok,2026-10-10T19:21:26+00:00
+R0658,10.4103/indianjotol.indianjotol_117_23,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:42:02+00:00
+R0659,10.4992/pacjpa.88.0_2a-054-pi,retrieved,pdf,https://www.jstage.jst.go.jp/article/pacjpa/88/0/88_2A-054-PI/_pdf,3604,1,b41ed0906d00bbdb3e083105d108ceef1b45e8b14ba6143ea18f32c135a8abb6,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:21:28+00:00
+R0660,10.4992/pacjpa.88.0_1d-035-pd,retrieved,pdf,https://www.jstage.jst.go.jp/article/pacjpa/88/0/88_1D-035-PD/_pdf,3272,1,d2492fabf36ed58a5731be65d8f07c57ab155baad2c4ba84ecfeade307d6a6b7,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:21:30+00:00
+R0661,10.1101/2024.04.29.591662,retrieved,pdf,http://dx.doi.org/10.1101/2024.04.29.591662,61418,24,396cbbceb339662c7038c91f6a6d430df922832c42cd7c2ba2d30d6488f6e795,epmc:no pmcid | core:doi none | unpaywall:pdf via citation_pdf_url,2026-10-10T19:21:31+00:00
+R0662,,not retrieved,,,0,,,epmc:no id | core:308848812 none; core:413831419 none; core:title none | pdf:no candidates,2026-10-11T14:41:58+00:00
+R0664,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/163314560,247485,,7d7186aca1e5c928a09af692ac4870d9fe2ead15aa94e551632d1272aecf58b6,epmc:no id | core:163314560 ok,2026-10-10T19:21:32+00:00
+R0668,10.1371/journal.pone.0282777.s005,not retrieved,,,0,,,epmc:no pmcid | core:286369540 none; core:doi none | landing:not pdf (200),2026-10-11T14:41:59+00:00
+R0669,10.1371/journal.pone.0282777.t004,not retrieved,,,0,,,epmc:no pmcid | core:286369529 none; core:doi none | landing:not pdf (200),2026-10-11T14:41:59+00:00
+R0670,10.1371/journal.pone.0282777.g002,not retrieved,,,0,,,epmc:no pmcid | core:286369535 none; core:doi none | landing:not pdf (200),2026-10-11T14:42:01+00:00
+R0671,10.1371/journal.pone.0282777.s003,not retrieved,,,0,,,epmc:no pmcid | core:286369541 none; core:doi none | landing:not pdf (200),2026-10-11T14:42:02+00:00
+R0672,10.1371/journal.pone.0282777.g001,not retrieved,,,0,,,epmc:no pmcid | core:286369537 none; core:doi none | landing:not pdf (200),2026-10-11T14:42:02+00:00
+R0673,10.1371/journal.pone.0282777.s002,not retrieved,,,0,,,epmc:no pmcid | core:286369542 none; core:doi none | landing:not pdf (200),2026-10-11T14:42:04+00:00
+R0674,10.1371/journal.pone.0282777.s004,not retrieved,,,0,,,epmc:no pmcid | core:286369539 none; core:doi none | landing:not pdf (200),2026-10-11T14:42:04+00:00
+R0678,10.1002/jclp.23552,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:42:14+00:00
+R0679,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/192219454,44545,,e2fc1967d819835db997df0a2a33f996a5f9d5fc7981252c8778555c36dbef13,epmc:no id | core:192219454 ok,2026-10-10T19:21:42+00:00
+R0681,10.1016/j.joto.2023.05.006,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10366628/fullTextXML,26598,,acf3c08edf8624c19d100bc256db804c5fc8520f48075f736931f8e12fcfe33b,epmc:PMC10366628 ok,2026-10-10T19:21:42+00:00
+R0685,10.22541/au.167602171.11465161/v1,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:42:10+00:00
+R0689,,retrieved,pdf,https://bulgarian-journal-of-psychiatry.bg/wp-content/uploads/2023/02/BSP-1-2023.pdf#page=19,253540,68,0293dedb5eee332d99f589c63676e515aaacc62ccdc1deb6eff845843ae96363,epmc:no id | core:no id | record:pdf,2026-10-10T19:21:42+00:00
+R0690,10.5455/pbs.20230130095513,retrieved,pdf,https://doi.org/10.5455/pbs.20230130095513,62171,13,323886bb18ee354ef7af6bbb56186f098edcabfcb9e07a67633cdb630b70b648,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:21:43+00:00
+R0691,10.12740/app/169692,retrieved,pdf,https://www.archivespp.pl/pdf-169692-97755?filename=Linking disgust and.pdf,47599,12,f0b8277f31ee067ecb954f6c5b9d0d86f285243371e8e66417eb3cda14300ee6,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:21:44+00:00
+R0693,10.1097/pra.0000000000000724,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:42:07+00:00
+R0696,10.14744/dajpns.2023.00211,retrieved,pdf,https://doi.org/10.14744/dajpns.2023.00211,60932,13,7bff4e095cada8e7289bb953db0d9954c587a9417f486a09d4b303eae6749d58,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:21:47+00:00
+R0698,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/145419284,64950,,62f051754869bab421b12fe5e3a483a38a43018e6245f50854662b75d8d4053e,epmc:no id | core:145419284 ok,2026-10-10T19:21:48+00:00
+R0704,10.31234/osf.io/92yas,not retrieved,,,0,,,epmc:no pmcid | core:156113271 none; core:doi none | osf_preprint:not pdf (200); osf:not pdf (200); record:not pdf (200),2026-10-11T14:42:09+00:00
+R0708,10.1007/s12144-022-04180-x,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:42:10+00:00
+R0717,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/154541709,204273,,034f9dd51aa9e75b192a51e8b451d600e52099a36644771ff69abdcac4531279,epmc:no id | core:154541709 ok,2026-10-10T19:21:49+00:00
+R0720,,not retrieved,,,0,,,epmc:no id | core:title none | record:not pdf (403),2026-10-11T14:42:10+00:00
+R0723,10.1016/j.biopsych.2023.02.688,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:42:10+00:00
+R0727,10.3205/23dga066,not retrieved,,,0,,,epmc:no pmcid | core:142602613 none; core:doi none | record:not pdf (200); landing:not pdf (200),2026-10-11T14:42:11+00:00
+R0733,10.1016/j.jad.2022.12.083,retrieved,manual_pdf,saved by R1 from a browser,56180,21,80bc3e11371fe0b0c86390751765322941999e3a4eaaa5d5004aaadd4bd55573,"error: ValueError(""unknown url type: '/void(0)'"") | manual pdf ok",2026-10-11T16:01:28+00:00
+R0735,10.13140/rg.2.2.15775.37281,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:42:14+00:00
+R0741,10.2139/ssrn.4409386,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (403),2026-10-11T14:42:14+00:00
+R0742,10.2139/ssrn.4356614,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (403),2026-10-11T14:42:16+00:00
+R0747,10.3928/23258160-20231106-02,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:42:18+00:00
+R0748,10.1080/21695717.2023.2169373,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:42:18+00:00
+R0751,10.22055/psy.2023.45570.3176,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:network,2026-10-11T14:42:18+00:00
+R0753,10.1121/10.0018510,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:42:20+00:00
+R0766,10.37990/medr.1208093,retrieved,pdf,https://dergipark.org.tr/en/download/article-file/2786317,41679,9,6544e12f6dbee539281e3a60c06c620cea75b871b8a62569b79d9d89e7091695,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:21:56+00:00
+R0767,10.17605/osf.io/a8y5c,retrieved,pdf,https://osf.io/download/5u7q8/,15005,8,4d93fcfef5eb3a5ff850a683b0f5538b6d290bf3dc9ae7ade8c3f7f8a61eacf9,epmc:no pmcid | core:149391218 none; core:159665552 none; core:doi none | osf_file:pdf,2026-10-11T14:42:22+00:00
+R0768,10.3389/fpsyt.2023.1112472,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10086372/fullTextXML,57891,,652eecf2c2bf1fe8397b30b4cd8b8bc6e097b2cc90f94457cca4191b874b84eb,epmc:PMC10086372 ok,2026-10-10T19:21:57+00:00
+R0772,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/149927408,832970,,db2d7537885ea4a87d7eaf1d27d6398ef4570eb2b1da613fe72836f032ee0655,epmc:no id | core:149927408 ok,2026-10-10T19:21:58+00:00
+R0777,10.5334/jopd.94,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12270268/fullTextXML,24535,,29f8d7be1d1b3138e769e4ad1e215318ee3b0f5cafb400e4f5fa6d4a84d395fb,epmc:PMC12270268 ok,2026-10-10T19:21:59+00:00
+R0779,10.1007/s12070-022-03266-z,retrieved,manual_pdf,saved by R1 from a browser,22299,5,c8420cd091eafd3920f2559f481a267e609ab39989284a75d894a9a537813bff,"error: ValueError(""unknown url type: '/void(0)'"") | manual pdf ok",2026-10-11T16:01:28+00:00
+R0782,10.3390/jcm12206622,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10607047/fullTextXML,44454,,131b6a8c60f3fccb51ab30fc77b764f7ec83b9811ced883e8728d7ace70f4bd1,epmc:PMC10607047 ok,2026-10-10T19:22:00+00:00
+R0784,,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:42:55+00:00
+R0787,10.1007/s10803-022-05623-x,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9986206/fullTextXML,44798,,7aab2ec3c6719b8c92def2243e4817ef64e93c8e85aa57051fc67470a32da966,epmc:PMC9986206 ok,2026-10-10T19:22:01+00:00
+R0791,10.3389/978-2-8325-3567-7,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:42:29+00:00
+R0794,10.5336/healthsci.2023-98758,retrieved,pdf,https://www.turkiyeklinikleri.com/pdf/?pdf=a0cae12ed72a8c2095ffa7f0a6b4fd49,37151,9,7c1e95f35b76e68848eaf1c846ea2ae954e55d29058ca972ca7379dc759ffd46,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:22:01+00:00
+R0795,10.22541/au.168802206.60400270/v1,retrieved,manual_pdf,saved by R1 from a browser,34945,9,7e83b1254aef263552c7de29f9c6e0eba85e78f41f6329c79bba63a11ff5f91b,epmc:no pmcid | core:doi none | unpaywall:blocked; record:blocked | manual pdf ok,2026-10-11T16:01:28+00:00
+R0797,,not retrieved,,,0,,,epmc:no id | core:no id | pdf:no candidates,2026-10-11T14:42:32+00:00
+R0798,,not retrieved,,,0,,,epmc:no id | core:156381650 none | pdf:no candidates,2026-10-11T14:42:32+00:00
+R0799,,not retrieved,,,0,,,epmc:no id | core:394526020 none | pdf:no candidates,2026-10-11T14:42:33+00:00
+R0800,,not retrieved,,,0,,,epmc:no id | core:367598098 none | pdf:no candidates,2026-10-11T14:42:35+00:00
+R0801,,not retrieved,,,0,,,epmc:no id | core:392077676 none | pdf:no candidates,2026-10-11T14:42:35+00:00
+R0802,,not retrieved,,,0,,,epmc:no id | core:387932904 none | pdf:no candidates,2026-10-11T14:42:36+00:00
+R0803,,not retrieved,,,0,,,epmc:no id | core:389664057 none | pdf:no candidates,2026-10-11T14:42:36+00:00
+R0804,,not retrieved,,,0,,,epmc:no id | core:167410887 none | pdf:no candidates,2026-10-11T14:42:37+00:00
+R0805,,not retrieved,,,0,,,epmc:no id | core:395512188 none | pdf:no candidates,2026-10-11T14:42:37+00:00
+R0806,,not retrieved,,,0,,,epmc:no id | core:396317070 none | pdf:no candidates,2026-10-11T14:42:37+00:00
+R0810,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/293734355,294957,,0869bdfd5437f31adcf9a64579862678e77a9635863eb1147844d5f23b759446,epmc:no id | core:293734355 ok,2026-10-10T19:22:09+00:00
+R0811,10.1002/pcn5.142,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11114359/fullTextXML,36676,,756b1adc0ff1f837474ee38148d2dedfdb6cb0be9f5614151d03291b1b327cd8,epmc:PMC11114359 ok,2026-10-10T19:22:10+00:00
+R0815,10.1080/13284207.2023.2171786,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:42:38+00:00
+R0817,10.21088/ijaa.2349.8471.10223.3,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (404); record:not pdf (404),2026-10-11T14:42:38+00:00
+R0819,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/154202239,57949,,5754bcf1463352c5bd8c688a560b7ef3aeaf334b2f8c2666ade2744687b53c85,epmc:no id | core:154202239 ok,2026-10-10T19:22:11+00:00
+R0820,,not retrieved,,,0,,,epmc:no id | core:156331845 none; core:167533803 none; core:367645533 none; core:title none | pdf:no candidates,2026-10-11T14:42:38+00:00
+R0821,10.30574/wjaets.2023.8.1.0031,retrieved,pdf,https://wjaets.com/sites/default/files/WJAETS-2023-0031.pdf,15460,6,ab4c5e50644c19775b3ba231f3aa4af227b1266b103ce72ad1bd553f9f8083ad,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:22:13+00:00
+R0822,10.5255/ukda-sn-856149,retrieved,manual_pdf,saved by R1 from a browser,62069,18,085509d1d38f3bd03ab9725a754d196cb405496dccefee1ef98362cedf0ef070,"error: ValueError(""unknown url type: '/void(0)'"") | manual pdf ok",2026-10-11T16:01:28+00:00
+R0823,10.1371/journal.pone.0282777,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10032546/fullTextXML,47827,,99fc4d1ff3e4312617074fb270234244000a25948e54695f2083ca191cb136f5,epmc:PMC10032546 ok,2026-10-10T19:22:15+00:00
+R0824,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/315003752,5570,,ff5f5af19f0d5cb7fb818c924ca75891eb9d6f697031f4d42a9d1b6c1c5132a9,epmc:no id | core:294916324 none; core:315003752 ok,2026-10-10T19:22:17+00:00
+R0825,,not retrieved,,,0,,,epmc:no id | core:156301295 none; core:167425604 none; core:367623422 none; core:title none | pdf:no candidates,2026-10-11T14:42:41+00:00
+R0826,10.13140/rg.2.2.19409.51043,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:42:44+00:00
+R0827,10.17605/osf.io/pjwyh,not retrieved,,,0,,,epmc:no pmcid | core:357602282 none; core:doi none | osf:network; record:not pdf (200); landing:not pdf (200),2026-10-11T14:42:44+00:00
+R0830,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/315003739,4532,,301f2211362c7b3bcffc4dd230b309051fff9b034c07c90cf79fbfb401208cf1,epmc:no id | core:294916334 none; core:315003739 ok,2026-10-10T19:22:23+00:00
+R0832,10.4274/tjcamh.galenos.2023.94824,retrieved,manual_pdf,saved by R1 from a browser,42750,8,6f238495f335b8a82c0f5a7fddc0b0d779a375240bb4ce876265e0f285c38223,epmc:no pmcid | core:302440142 none; core:doi none | unpaywall:not pdf (200) | manual pdf ok,2026-10-11T16:01:28+00:00
+R0833,10.31234/osf.io/swpbd,retrieved,pdf,https://osf.io/swpbd/download,69311,45,2785acb38917658f99115c1cb5a3c9371087c9883487b9bcac782447fa11ee16,epmc:no pmcid | core:159518226 none; core:doi none | unpaywall:pdf,2026-10-10T19:22:24+00:00
+R0834,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:42:47+00:00
+R0835,10.21608/maml.2023.315112,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:network; landing:network,2026-10-11T14:42:49+00:00
+R0838,10.1371/journal.pone.0263230.t002,not retrieved,,,0,,,epmc:no pmcid | core:285710245 none; core:doi none | landing:not pdf (200),2026-10-11T14:42:52+00:00
+R0839,10.1371/journal.pone.0263230.t003,not retrieved,,,0,,,epmc:no pmcid | core:285710237 none; core:doi none | landing:not pdf (200),2026-10-11T14:42:55+00:00
+R0841,10.1371/journal.pone.0269428.t005,not retrieved,,,0,,,epmc:no pmcid | core:285982573 none; core:doi none | landing:not pdf (200),2026-10-11T14:42:57+00:00
+R0842,10.1371/journal.pone.0269428.t006,not retrieved,,,0,,,epmc:no pmcid | core:285982576 none; core:doi none | landing:not pdf (200),2026-10-11T14:42:59+00:00
+R0843,10.1371/journal.pone.0269428.t009,not retrieved,,,0,,,epmc:no pmcid | core:285982564 none; core:doi none | landing:not pdf (200),2026-10-11T14:42:59+00:00
+R0844,10.1371/journal.pone.0269428.t008,not retrieved,,,0,,,epmc:no pmcid | core:285982463 none; core:doi none | landing:not pdf (200),2026-10-11T14:43:02+00:00
+R0845,10.1371/journal.pone.0269428.s001,not retrieved,,,0,,,epmc:no pmcid | core:285982500 none; core:doi none | landing:not pdf (200),2026-10-11T14:43:03+00:00
+R0846,10.1371/journal.pone.0269428.t001,not retrieved,,,0,,,epmc:no pmcid | core:285982584 none; core:doi none | landing:not pdf (200),2026-10-11T14:43:04+00:00
+R0851,10.3389/fnins.2022.900065,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9294447/fullTextXML,63345,,49321f0a69b37fddff2eb723864e3a903d9fc055bb1ac5a93dfc96ffd05e8b2a,epmc:PMC9294447 ok,2026-10-10T19:22:37+00:00
+R0854,10.1055/a-2087-0262,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11293900/fullTextXML,46844,,03153dc613b79c9af686414670c9bf7f8753909608c498bd1937f2e5e93e3bd9,epmc:PMC11293900 ok,2026-10-10T19:22:38+00:00
+R0855,10.1016/j.bjorl.2021.11.009,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9760996/fullTextXML,29672,,59e0e8ef90d994e2cc22b005958167a930defc73c0151a78b40c01f09eb3c8d4,epmc:PMC9760996 ok,2026-10-10T19:22:38+00:00
+R0857,10.17605/osf.io/27fgv,retrieved,pdf,https://osf.io/download/ut49n/,54737,21,caae1bc582b121f0470aad43f4cd7a66adfa0178dc74b59a9eb9edb62000f8a8,epmc:no pmcid | core:156356224 none; core:doi none | osf_file:pdf,2026-10-11T14:43:04+00:00
+R0858,10.31117/neuroscirn.v5i4.161,retrieved,pdf,https://neuroscirn.org/ojs/index.php/nrnotes/article/download/161/186,38542,9,0c74e4745f5ef6eee88b8d6998bf94338ecb5be76b30d28f7086b2463e3188fc,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:22:39+00:00
+R0859,10.1016/j.schres.2022.11.005,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:43:06+00:00
+R0861,10.1016/j.isci.2022.104617,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9253698/fullTextXML,47338,,d6663b5e8f5851e92585a70d09394dedfa4b104098dae40045456dfc08c9aba8,epmc:PMC9253698 ok,2026-10-10T19:23:06+00:00
+R0862,10.2139/ssrn.4007578,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (403),2026-10-11T14:43:08+00:00
+R0864,,not retrieved,,,0,,,epmc:no id | core:305020078 none; core:400264658 none; core:title none | pdf:no candidates,2026-10-11T14:43:10+00:00
+R0865,,not retrieved,,,0,,,epmc:no id | core:294916011 none; core:400263398 none; core:title none | pdf:no candidates,2026-10-11T14:43:10+00:00
+R0880,10.1521/bumc.2022.86.2.159,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:43:11+00:00
+R0883,,not retrieved,,,0,,,epmc:no id | core:305020097 none; core:400264640 none; core:title none | pdf:no candidates,2026-10-11T14:43:14+00:00
+R0884,,not retrieved,,,0,,,epmc:no id | core:341157826 none; core:341275733 none; core:354573460 none; core:title none | record:not pdf (200),2026-10-11T14:43:14+00:00
+R0885,10.1167/jov.22.14.4019,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked,2026-10-11T14:43:14+00:00
+R0886,10.3389/fnins.2022.900474,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9354518/fullTextXML,99060,,799799017e3051c1d240a56e266e35777f83d5c18c22c4767de9aba6591a8e2b,epmc:PMC9354518 ok,2026-10-10T19:23:43+00:00
+R0890,10.3389/fnins.2022.907585,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9381840/fullTextXML,35956,,0dd228a139296afa1d36090333c68ea0a33e8ab07340d9205408c54b616bd826,epmc:PMC9381840 ok,2026-10-10T19:23:44+00:00
+R0893,10.17632/zjrt56tcnx,not retrieved,,,0,,,epmc:no pmcid | core:151448098 none; core:doi none | landing:not pdf (200),2026-10-11T14:43:14+00:00
+R0896,,not retrieved,,,0,,,epmc:no id | core:139320637 none; core:359221013 none; core:title none | record:blocked,2026-10-11T14:43:16+00:00
+R0898,10.21203/rs.3.rs-1914401/v1,retrieved,pdf,https://www.researchsquare.com/article/rs-1914401/latest.pdf,59887,22,cdcd0fbfb535445cba4c888a9c1a4cf4e6f3852ae0717dd723ffe90942449f58,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:23:47+00:00
+R0903,10.3389/fnins.2022.827998,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9406292/fullTextXML,71846,,68cb5c2812d59c6754d9319147ea9898cb5bd1926ee00bd9013ea348be45698e,epmc:PMC9406292 ok,2026-10-10T19:24:14+00:00
+R0904,,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:43:52+00:00
+R0905,10.1037/t83624-000,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:not pdf (403),2026-10-11T14:43:17+00:00
+R0906,10.1371/journal.pone.0263230,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8836307/fullTextXML,38437,,ecaf538c86b0e011c9d1dd6510ea5903e08c9c14cb4882321b6690ccbb983b9e,epmc:PMC8836307 ok,2026-10-10T19:24:16+00:00
+R0907,10.3389/fnins.2022.880759,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9397125/fullTextXML,54270,,1ae70a4b053204af7652a7634086be86ebd25185e759f39fb4ac5a70d79ec118,epmc:PMC9397125 ok,2026-10-10T19:24:17+00:00
+R0909,10.3205/22dga060,not retrieved,,,0,,,epmc:no pmcid | core:128213822 none; core:doi none | record:blocked; landing:not pdf (200),2026-10-11T14:43:20+00:00
+R0910,10.3389/fpsyg.2022.894034,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9347306/fullTextXML,70621,,ee307626a74ce2bd1a770a159c6339bb539b3d556c2475c1a0302b7aa99a9854,epmc:PMC9347306 ok,2026-10-10T19:24:18+00:00
+R0912,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/170987632,102992,,67c38c16b08815575e8314bb5aa70b2bec757916c4d67677946394d7b723d449,epmc:no id | core:170987632 ok,2026-10-10T19:55:28+00:00
+R0922,10.3389/fpsyt.2022.1012424,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9720274/fullTextXML,35844,,80a92564d2367ba6261d27bfd724790439e9d8ced77d7009cfd02ebf2f1e68c0,epmc:PMC9720274 ok,2026-10-10T19:24:21+00:00
+R0925,10.4274/tnd.2022.93892,retrieved,pdf,https://doi.org/10.4274/tnd.2022.93892,35056,7,ccdc67201322957a68caa39acc37ca66e6316517e74671e522405585967e1802,epmc:no pmcid | core:doi none | unpaywall:pdf via citation_pdf_url,2026-10-10T19:24:21+00:00
+R0931,10.58809/myid1761,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/131160837,120686,,116da24b4db256c741cb3c995197a8b4ca8cbfe92354c54310994399dc832477,epmc:no pmcid | core:131160837 ok,2026-10-10T19:55:29+00:00
+R0940,10.17605/osf.io/3ysfh,retrieved,manual_pdf,saved by R1 from a browser,58692,12,8a1c62cee06ce88f92eac2656165eaef5127bbb1973e096bd6992488880a952d,epmc:no pmcid | core:doi none | osf:network; record:not pdf (200); landing:not pdf (200) | manual pdf ok,2026-10-11T16:01:28+00:00
+R0941,10.3389/fnins.2022.832516,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8995706/fullTextXML,74185,,52feb49d83f8a0a69b50078936ba1756672330541de6628d755965cacc67dcae,epmc:PMC8995706 ok,2026-10-10T19:24:51+00:00
+R0942,,not retrieved,,,0,,,epmc:no id | core:294915986 none; core:400263406 none; core:title none | pdf:no candidates,2026-10-11T14:43:21+00:00
+R0947,10.4103/nah.nah_40_20,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9703820/fullTextXML,34701,,fd81545baeaeff22fe563da6c76f899188f0133bcdc29bb7960e0d7a9e57c945,epmc:PMC9703820 ok,2026-10-10T19:24:55+00:00
+R0950,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/148737800,8191,,e713a43900aff7c9d47a1b7bfd1ff2b6ed7a51bfd3c93f4f8ed3f7be51a04c44,epmc:no id | core:148737800 ok,2026-10-10T19:55:31+00:00
+R0951,10.3389/fpsyg.2022.902807,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9811822/fullTextXML,112371,,b5485a28ed942a9dfa6bb98df625acb6c2594ec5ff7ef64da8bbf5078352b5eb,epmc:PMC9811822 ok,2026-10-10T19:25:16+00:00
+R0952,10.31234/osf.io/6eub3,retrieved,pdf,https://refubium.fu-berlin.de/handle/fub188/37978,135907,25,bcd6e7a74e8c27e95e4555f461fd1899f8199e03bf5838f52ad7ab8c1cf84f0b,epmc:no pmcid | core:doi none | unpaywall:not pdf (200); unpaywall:pdf via citation_pdf_url,2026-10-10T19:25:19+00:00
+R0954,10.1371/journal.pone.0269428,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9212156/fullTextXML,86604,,9c5c7cf8a3812187615d1fca5643e109499d040c9195f14d5009b68b65b45d5f,epmc:PMC9212156 ok,2026-10-10T19:25:24+00:00
+R0956,10.3389/fpsyg.2022.808379,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9019493/fullTextXML,48210,,145c49996665e1d92a54b8e9a74c652ac984cb295c40ef33dbb5721f2acea219,epmc:PMC9019493 ok,2026-10-10T19:25:25+00:00
+R0958,10.25949/19436048,retrieved,pdf,https://ndownloader.figshare.com/files/34533257,427908,245,4b4e630fb8b57bd6aeda930cbcf1998ab28e0a4d79aca608f16a0eb79d13d526,epmc:no pmcid | core:285820630 none; core:doi none | figshare:pdf,2026-10-10T19:55:32+00:00
+R0962,10.3389/fpsyg.2022.941898,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9583952/fullTextXML,59907,,455ffb2dbadcf49ad226773430de27540631e64a027b9c89d098a46e4372769c,epmc:PMC9583952 ok,2026-10-10T19:25:26+00:00
+R0963,10.3389/fpsyg.2022.890829,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9355709/fullTextXML,47691,,ffb2c668072e33725994be405e9517a0e766ee171a5cb2494f3c34d027c84e90,epmc:PMC9355709 ok,2026-10-10T19:25:27+00:00
+R0964,10.3389/fnins.2022.879583,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9179422/fullTextXML,79332,,0f2ab4feabeb229abd9cf97f0d4b1bf42a5fbea17da825e9ce95b85c143f9c4d,epmc:PMC9179422 ok,2026-10-10T19:25:28+00:00
+R0965,10.1007/s10803-021-05282-4,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:43:24+00:00
+R0971,10.1016/j.jpsychores.2022.110777,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (200),2026-10-11T14:43:24+00:00
+R0972,10.3389/fnins.2022.971752,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9902885/fullTextXML,45172,,585cee5d49cb29c066dc9086bf1748e455472980fa3a993a4aa49b81feb3e816,epmc:PMC9902885 ok,2026-10-10T19:25:53+00:00
+R0973,10.1101/2022.09.04.22279567,retrieved,pdf,https://www.medrxiv.org/content/medrxiv/early/2022/09/09/2022.09.04.22279567.full.pdf,58270,17,ddb209e37eb2f9e2118364f39f916ac955c0029ddc3ec21d719731e68f965c3d,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:25:54+00:00
+R0974,10.1016/j.euroneuro.2022.07.377,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:43:57+00:00
+R0977,10.4992/jjpsy.93.21319,retrieved,pdf,https://www.jstage.jst.go.jp/article/jjpsy/advpub/0/advpub_93.21319/_pdf,19237,7,9b4655a8b5cfcae5034249f43a8cbd5f5fff45a4bc46845be6144aa68e248ccd,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:25:55+00:00
+R0980,10.35534/fcm.0401001,retrieved,pdf,https://doi.org/10.35534/fcm.0401001,26430,25,bb0f730bccdf7c3417d8ef321ae58477fbd8d7c6fe269f3548f478f4e26bf354,epmc:no pmcid | core:doi none | record:pdf via citation_pdf_url,2026-10-10T19:25:58+00:00
+R0984,10.31234/osf.io/ytpk4,retrieved,pdf,https://osf.io/ytpk4/download,63702,25,2aaec9d4a74c4442540bd296eb11b0930013a604d6f0f603151b5d22994d591d,epmc:no pmcid | core:156112776 none; core:doi none | unpaywall:not pdf (200); osf:pdf,2026-10-10T19:55:39+00:00
+R0985,10.3389/fpsyg.2022.879881,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9361842/fullTextXML,51358,,1dd3a7599bf72ec93d2eca15af182fd5fc4f9b154e172ccb1e9da211113cdedc,epmc:PMC9361842 ok,2026-10-10T19:26:04+00:00
+R0986,,retrieved,pdf,https://files.osf.io/v1/resources/jwpeq/providers/osfstorage/624ae82e129f1c03f56a1ad2?action=download&direct&version=1,75587,33,26df8b2212a45793c8d3621c4a26765a873494a339a5dcb21251a802ae957cf8,epmc:no id | core:no id | record:pdf,2026-10-10T19:26:05+00:00
+R0987,,not retrieved,,,0,,,epmc:no id | core:156379225 none; core:167396601 none; core:367591369 none; core:title none | pdf:no candidates,2026-10-11T14:43:26+00:00
+R0988,10.3389/fpsyg.2022.903142,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9292922/fullTextXML,37286,,cd4f474b1150c494f55092e5fd6b8a087be977ec420b8c40654d6b127bcfc75a,epmc:PMC9292922 ok,2026-10-10T19:26:22+00:00
+R0989,10.31234/osf.io/9u5nw,retrieved,pdf,https://osf.io/9u5nw/download,42791,15,b896e1f8b5e315e466ed9cd65fb05f777d4ad7b99c40817c8f6efbf964efca62,epmc:no pmcid | core:156112743 none; core:doi none | unpaywall:not pdf (200); osf:pdf,2026-10-10T19:55:41+00:00
+R0991,10.3389/fnins.2022.899476,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9260228/fullTextXML,73544,,eec3ba3d332f00d4f5a1906ca75d0241fe8efc11e89037410e6027480760e407,epmc:PMC9260228 ok,2026-10-10T19:26:29+00:00
+R0998,10.3389/fpsyg.2022.897901,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9355318/fullTextXML,103545,,6fa2d2dced18979e0f62bcd007728c1c92200a515bd745be5512859ab3fb5279,epmc:PMC9355318 ok,2026-10-10T19:26:30+00:00
+R1001,10.30476/ijcbnm.2022.92902.1888,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9579453/fullTextXML,26692,,a09b2b4f0924968054b4bc132b1d9a334df05264dabfbb721c42a2725b1533a9,epmc:PMC9579453 ok,2026-10-10T19:26:30+00:00
+R1003,10.17605/osf.io/y6edb,retrieved,pdf,https://osf.io/download/nhc85/,9878,3,d35b72971e5a9eed658eb3c1cafceee3705fe13b5cb397c6b6b382676e6f11bd,epmc:no pmcid | core:169525840 none; core:doi none | osf_file:pdf,2026-10-11T14:43:51+00:00
+R1007,10.21608/jfkgp.2022.274455,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:network; record:network,2026-10-11T14:43:52+00:00
+R1013,10.14744/etd.2021.78545,retrieved,pdf,https://doi.org/10.14744/etd.2021.78545,34914,7,fff93ee4637f6bdd77326a0297332ceb4880bdf0a739c90cb49c608a0bfa745b,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:26:31+00:00
+R1014,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:43:57+00:00
+R1015,10.1007/s11469-021-00677-x,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:43:58+00:00
+R1018,10.1111/ijcp.14684,retrieved,core_fulltext,https://core.ac.uk/works/12267527,53334,,5b5a9b8bd7a65d7c9e1a5f0578c2d01b0464138e85973fbb11eb17225a72c7ce,epmc:no pmcid | core:12267527 none; core:286783780 none; core:358905947 none; core:doi ok (12267527),2026-10-10T19:26:41+00:00
+R1019,10.13140/rg.2.2.20386.15047,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:43:59+00:00
+R1020,,not retrieved,,,0,,,epmc:no id | core:169633685 none; core:290333530 none; core:319511599 none; core:title none | pdf:no candidates,2026-10-11T14:44:01+00:00
+R1023,,not retrieved,,,0,,,epmc:no id | core:164644485 none; core:title none | record:blocked,2026-10-11T14:44:27+00:00
+R1033,10.1016/j.euroneuro.2021.05.013,not retrieved,,,0,,,epmc:no pmcid | core:143266004 none; core:doi none | unpaywall:blocked; record:not pdf (200); landing:not pdf (200),2026-10-11T14:44:32+00:00
+R1036,10.1038/s41598-021-90355-8,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8155015/fullTextXML,86975,,0db9682bdbd10b30d01d21cc9d55daf748868ad4abff0da027576f0e1e81d5a6,epmc:PMC8155015 ok,2026-10-10T19:27:37+00:00
+R1037,10.70675/8e6f4a0bz1cd6z4d74z832az294335319bb5,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:44:34+00:00
+R1038,,not retrieved,,,0,,,epmc:no id | core:137775664 none; core:title none | pdf:no candidates,2026-10-11T14:45:00+00:00
+R1039,10.5867/medwave.2021.s2.sp116,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:not pdf (404),2026-10-11T14:45:04+00:00
+R1040,10.3389/fpsyt.2021.627044,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8141632/fullTextXML,50270,,8f35e414809dacf6d379d1eb1624c4100f04201227eb160bea3839699a70b785,epmc:PMC8141632 ok,2026-10-10T19:27:40+00:00
+R1045,10.25365/thesis.70717,retrieved,pdf,https://dx.doi.org/10.25365/thesis.70717,194137,96,9dc670027a78895830f4a24601b57ff5b0f4210578bbdec9df727ee7c5b645a6,epmc:no pmcid | core:doi none | record:pdf via citation_pdf_url,2026-10-10T19:27:41+00:00
+R1048,,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:47:30+00:00
+R1051,10.1002/jclp.23196,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:47:28+00:00
+R1053,,not retrieved,,,0,,,epmc:no id | core:123598465 none; core:123607218 none; core:title none | record:not pdf (200),2026-10-11T14:45:30+00:00
+R1055,10.21203/rs.3.rs-240866/v1,retrieved,pdf,https://www.researchsquare.com/article/rs-240866/latest.pdf,52555,37,4a062bb92a2375f7761ab07a9d1ace916a6f1ab956843067f4a138f2302af1f7,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:27:44+00:00
+R1056,10.1038/s41598-021-96430-4,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8390668/fullTextXML,57027,,3ed0334d293d9ea4655fc543b77983f3db16d20e848ae7a530ce4964bb721dde,epmc:PMC8390668 ok,2026-10-10T19:27:45+00:00
+R1062,10.1192/bjo.2021.978,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8358974/fullTextXML,34899,,bc1b04c3f1e5699f7d1f44296ad7d885b2659757f21c293076c24f53af5cfe4e,epmc:PMC8358974 ok,2026-10-10T19:27:46+00:00
+R1063,,not retrieved,,,0,,,epmc:no id | core:159686031 none; core:319568429 none; core:367448988 none; core:title none | pdf:no candidates,2026-10-11T14:45:37+00:00
+R1066,10.5283/epub.51124,retrieved,manual_pdf,saved by R1 from a browser,76435,47,58cab4080d1041e5969b5aad1f69c39c245bd87ce04fe6b158fd9465327d1c86,epmc:no pmcid | core:26225288 none; core:doi none | record:not pdf (200); landing:not pdf (200) | manual pdf ok,2026-10-11T16:01:28+00:00
+R1071,10.1007/s11126-020-09825-3,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8110492/fullTextXML,25789,,b9535c0c0e43d85bdce9933804ff84649b611e5a3a8ca4f477432b340aa40198,epmc:PMC8110492 ok,2026-10-10T19:27:51+00:00
+R1076,10.36131/cogncl20210107,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:46:02+00:00
+R1079,10.3390/life11020087,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7911028/fullTextXML,28269,,19e2d0e8a22b9f4e313b39f50ded5092db9c0925294fda654a9928ea3f4ef25d,epmc:PMC7911028 ok,2026-10-10T19:27:52+00:00
+R1081,10.17605/osf.io/9vfms,retrieved,pdf,https://osf.io/download/jwp8x/,182769,91,fea77f538c4fcd88e88d751181d8d0866e970400eca16031c52e1c36c8ecec1c,epmc:no pmcid | core:167408100 none; core:doi none | osf_file:pdf,2026-10-11T14:46:04+00:00
+R1082,10.31234/osf.io/mujya,retrieved,pdf,https://osf.io/mujya/download,123175,65,b325568968f8a07e730bbe3365276a11ae3271a9b1e5f92abb45f464851dab31,epmc:no pmcid | core:159509181 none; core:doi none | unpaywall:not pdf (200); unpaywall:not pdf (200); osf:pdf,2026-10-10T19:58:25+00:00
+R1083,10.31234/osf.io/5eb39,not retrieved,,,0,,,epmc:no pmcid | core:156106874 none; core:doi none | unpaywall:not pdf (200); unpaywall:not pdf (200); osf_preprint:not pdf (200); osf:not pdf (200),2026-10-11T14:46:05+00:00
+R1086,10.3389/fpsyg.2021.709928,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8511674/fullTextXML,95726,,feb4e6220e4f737a90d2dc913b74f46de5e5aaba3433fc4b9ba20f11e3412cf9,epmc:PMC8511674 ok,2026-10-10T19:27:54+00:00
+R1087,10.1037/t83950-000,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:not pdf (403),2026-10-11T14:46:40+00:00
+R1090,10.5455/pbs.20210509040627,retrieved,pdf,https://doi.org/10.5455/pbs.20210509040627,35270,9,241536cf6ab9859cbb5d356196273544afdd957110c8558625322412c0f8eb45,epmc:no pmcid | core:144344036 none; core:doi none | unpaywall:pdf,2026-10-10T19:27:56+00:00
+R1091,10.1016/j.jocrd.2021.100657,not retrieved,,,0,,,epmc:no pmcid | core:221697370 none; core:doi none | record:not pdf (200),2026-10-11T14:46:52+00:00
+R1093,10.1080/13803395.2022.2056581,not retrieved,,,0,,,epmc:no pmcid | core:18754626 none; core:286656151 none; core:doi none | unpaywall:blocked; unpaywall:not pdf (202); unpaywall:not pdf (202); record:blocked,2026-10-11T14:47:24+00:00
+R1098,,not retrieved,,,0,,,epmc:PMC8378626 no xml | core:title none | europepmc_render:blocked; record:not pdf (403),2026-10-11T14:47:25+00:00
+R1099,10.13140/rg.2.2.21210.88004,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:47:28+00:00
+R1101,10.3390/audiolres11040051,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8544191/fullTextXML,47427,,23998c31bfbcb6802b55baf903ea2b21e95595b9172ab90e818ea786116e1230,epmc:PMC8544191 ok,2026-10-10T19:28:00+00:00
+R1112,10.13140/rg.2.2.32342.57929,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked; landing:blocked,2026-10-11T14:47:30+00:00
+R1122,10.1016/j.jocrd.2021.100644,not retrieved,,,0,,,epmc:no pmcid | core:112458576 none; core:doi none | record:not pdf (200),2026-10-11T14:47:33+00:00
+R1124,10.21608/cpc.2021.193728,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:network; unpaywall:blocked; landing:network,2026-10-11T14:47:42+00:00
+R1126,10.1371/journal.pone.0227118.t002,not retrieved,,,0,,,epmc:no pmcid | core:284928431 none; core:doi none | landing:not pdf (200),2026-10-11T14:47:50+00:00
+R1127,10.1371/journal.pone.0227118.g002,not retrieved,,,0,,,epmc:no pmcid | core:284928517 none; core:doi none | landing:not pdf (200),2026-10-11T14:48:03+00:00
+R1128,10.1371/journal.pone.0227118.g001,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:48:36+00:00
+R1129,10.1371/journal.pone.0231390.t001,not retrieved,,,0,,,epmc:no pmcid | core:285402953 none; core:doi none | landing:not pdf (200),2026-10-11T14:48:08+00:00
+R1132,10.1371/journal.pone.0231390.t003,not retrieved,,,0,,,epmc:no pmcid | core:285402949 none; core:doi none | landing:not pdf (200),2026-10-11T14:48:29+00:00
+R1134,10.1371/journal.pone.0231390.g001,not retrieved,,,0,,,epmc:no pmcid | core:285402954 none; core:doi none | landing:not pdf (200),2026-10-11T14:48:31+00:00
+R1135,,not retrieved,,,0,,,epmc:no id | core:134408033 none; core:title none | record:network,2026-10-11T14:48:33+00:00
+R1137,,retrieved,pdf,https://hdl.handle.net/10316/89799,60234,39,cc9dc039181f86c61520e7177578e5f007c927e450fcf13e01eff09580ca9b3e,epmc:no id | core:title none | record:pdf via citation_pdf_url,2026-10-11T14:48:35+00:00
+R1139,10.3389/fpsyg.2020.519681,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7840505/fullTextXML,32254,,f37c0119cb582e2ce5fb81a9310448c9a88e2dbee82ed13287a0f56f94ffe9f2,epmc:PMC7840505 ok,2026-10-10T19:28:12+00:00
+R1140,10.3389/fpsyt.2020.00847,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7485014/fullTextXML,31500,,be55e9f1963f727eef06c811e137b7e7883b8d8c0158ec7acb02819ab3eb03fb,epmc:PMC7485014 ok,2026-10-10T19:28:12+00:00
+R1141,10.1101/2020.10.29.346650,retrieved,pdf,https://www.biorxiv.org/content/biorxiv/early/2020/10/29/2020.10.29.346650.full.pdf,95691,26,d9cf023bce6cd076625506b197373f312720b181dc9da64e3ce4b96bb9d105c1,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:28:13+00:00
+R1142,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:48:35+00:00
+R1144,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/68376404,5556,,9b5712c0be92bf5eed245185f30e4c62bab486baf81c4ae8d0e0dc3a39c54562,epmc:no id | core:68376404 ok,2026-10-10T19:28:14+00:00
+R1146,,retrieved,pdf,https://hdl.handle.net/10316/90099,59275,38,2b0eb3f348b940ad84843e874d23d480d542e612ccfe55fd33b0bcd0c5bc12b1,epmc:no id | core:title none | record:pdf via citation_pdf_url,2026-10-11T14:48:36+00:00
+R1149,10.1371/journal.pone.0227118,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6964854/fullTextXML,32193,,d64248cfb1ca88cb96e9c219d203909693256f6de56dc72f08bfe437cfcb1031,epmc:PMC6964854 ok,2026-10-10T19:28:17+00:00
+R1153,10.1101/2020.09.12.292391,retrieved,pdf,https://www.biorxiv.org/content/biorxiv/early/2020/09/15/2020.09.12.292391.full.pdf,70180,37,abaa485bbf0f9ea9c0fe029f9a83eeff6656c5702560d718b249b15fccadd6b6,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-10T19:28:18+00:00
+R1154,,not retrieved,,,0,,,epmc:no id | core:title none | record:network,2026-10-11T14:48:37+00:00
+R1156,10.1212/wnl.94.15_supplement.5034,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:blocked,2026-10-11T14:48:37+00:00
+R1161,,retrieved,pdf,http://urn.kb.se/resolve?urn=urn:nbn:se:umu:diva-171571,109103,55,785992299890191994bd4da9aecd21bc5a65ad5431bf49792a6a1b5e60136d85,epmc:no id | core:31775533 none; core:354077397 none; core:354082414 none | record:pdf via citation_pdf_url,2026-10-10T19:28:23+00:00
+R1164,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:48:38+00:00
+R1177,,not retrieved,,,0,,,epmc:no id | core:title none | record:network,2026-10-11T14:48:39+00:00
+R1182,10.26650/sp2020-845239,retrieved,pdf,https://cdn.istanbul.edu.tr/file/JTA6CLJ8T5/D1759D273B2A4418831C75A21843C01E,63365,26,5a3595f8cc426d00a13ae8575942db33fbdd69249c3743cf7a1486ba3a2d3298,epmc:no pmcid | core:289727865 none; core:doi none | unpaywall:pdf,2026-10-10T20:00:54+00:00
+R1187,10.3390/ijerph17051797,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7084437/fullTextXML,44149,,ed516ae9a70bd1d85d80827cdb1ebb0914338af25463b1097b3dff84f20947cb,epmc:PMC7084437 ok,2026-10-10T19:28:34+00:00
+R1188,10.3390/ijerph17155464,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7432123/fullTextXML,30433,,72e9bd8c976c55afc7c7f3784f341fb8d4d80c38acfbe3136ee0deb3cf816f78,epmc:PMC7432123 ok,2026-10-10T19:28:35+00:00
+R1194,,not retrieved,,,0,,,epmc:no id | core:10475284 none; core:title none | pdf:no candidates,2026-10-11T14:48:40+00:00
+R1198,10.25772/yeq1-3915,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/68380066,222289,,5d10148dfec4e2fde657525efe1de9b4f1108e778fdb95d6adaf75957544a862,epmc:no pmcid | core:68380066 ok,2026-10-10T19:28:37+00:00
+R1206,10.1016/j.euroneuro.2019.09.499,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:48:42+00:00
+R1207,,not retrieved,,,0,,,epmc:no id | core:14154496 none; core:title none | pdf:no candidates,2026-10-11T14:48:45+00:00
+R1209,10.26226/morressier.5d1a037b57558b317a140b7b,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (200); landing:not pdf (200),2026-10-11T14:48:55+00:00
+R1210,10.26226/morressier.5d1a037b57558b317a140b81,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (200); record:not pdf (200),2026-10-11T14:48:58+00:00
+R1212,,not retrieved,,,0,,,epmc:no id | core:14190535 none; core:title none | pdf:no candidates,2026-10-11T14:48:59+00:00
+R1214,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/134790180,121104,,86e8256de4b723a4a241b7b4abdeb77b140acfa4e03c6658e4b3e3b57992d275,epmc:no id | core:134790180 ok,2026-10-10T19:28:47+00:00
+R1215,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:49:02+00:00
+R1224,10.29252/shefa.7.2.13,retrieved,pdf,https://doi.org/10.29252/shefa.7.2.13,30030,10,5b2757afef726a0db6e1e9f206e6f513e594cfe91cca38600f16921a083b7bf0,epmc:no pmcid | core:doi none | unpaywall:pdf via citation_pdf_url,2026-10-10T19:28:48+00:00
+R1236,10.6084/m9.figshare.7862000,retrieved,pdf,https://ndownloader.figshare.com/files/14636384,2229,2,b2ace79a930393d90ea207e288dc5a1bd48c1932d81ce4118e35ac8d9b583e81,epmc:no pmcid | core:284535660 none; core:doi none | figshare:pdf,2026-10-10T20:01:20+00:00
+R1241,,retrieved,pdf,https://eric.ed.gov/?id=EJ1228969,51065,12,4c394a84c3c6d0b7452a255c3f49264a1b5fe3f7325f6c54db3a308ed2cbe76b,epmc:no id | core:no id | record:pdf via citation_pdf_url,2026-10-10T19:28:49+00:00
+R1245,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:49:02+00:00
+R1247,,not retrieved,,,0,,,epmc:no id | core:69478837 none; core:title none | pdf:no candidates,2026-10-11T14:49:03+00:00
+R1248,10.1037/cns0000168,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:not pdf (403),2026-10-11T14:49:04+00:00
+R1251,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:49:08+00:00
+R1255,10.1016/j.bjorl.2018.02.005,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9442865/fullTextXML,24259,,6233b770d03738238efa405e5e21b0c7a1dceecc254058eff236414d117aefa5,epmc:PMC9442865 ok,2026-10-10T19:28:51+00:00
+R1257,10.17605/osf.io/2ws9b,not retrieved,,,0,,,epmc:no pmcid | core:156261662 none; core:doi none | osf:network; record:not pdf (200); landing:not pdf (200),2026-10-11T14:49:09+00:00
+R1260,10.7910/dvn/gpqh77,not retrieved,,,0,,,epmc:no pmcid | core:169849297 none; core:74983295 none; core:doi none | landing:not pdf (202),2026-10-11T14:49:11+00:00
+R1262,10.21608/jaid.2019.66401,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:network; record:network,2026-10-11T14:49:13+00:00
+R1270,,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/342973051,2946,,daf51bda2b309f09ec1feee8f1ce7dd08204e5298d1dcecac6397dcedb862a91,epmc:no id | core:342973051 ok,2026-10-10T19:28:54+00:00
+R1285,,not retrieved,,,0,,,epmc:no id | core:title none | record:network,2026-10-11T14:49:13+00:00
+R1286,10.1016/j.jocrd.2018.06.004,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:49:17+00:00
+R1287,10.1016/j.biopsych.2018.02.410,not retrieved,,,0,,,epmc:no pmcid | core:197769179 none; core:doi none | record:not pdf (200),2026-10-11T14:49:18+00:00
+R1291,,not retrieved,,,0,,,epmc:no id | core:339171488 none; core:62055904 none; core:title none | pdf:no candidates,2026-10-11T14:49:20+00:00
+R1298,10.7717/peerj.5351,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6084287/fullTextXML,31767,,b901398aa7e7411b64a12be0914bba3599e242fe6de67da7f15d1b724be8870a,epmc:PMC6084287 ok,2026-10-10T19:29:00+00:00
+R1302,10.1016/j.beth.2017.07.002,not retrieved,,,0,,,epmc:no pmcid | core:191043226 none; core:doi none | record:not pdf (200),2026-10-11T14:49:22+00:00
+R1309,10.3390/ijerph15071410,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6069390/fullTextXML,14605,,6f7d96d737cc350bfcfbcbbaf40e9f5367187ead2e3771a829c31377f61a8971,epmc:PMC6069390 ok,2026-10-10T19:29:03+00:00
+R1312,10.1167/18.10.1144,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked,2026-10-11T14:49:24+00:00
+R1318,10.1002/acp.3387,not retrieved,,,0,,,epmc:no pmcid | core:92240345 none; core:doi none | record:blocked,2026-10-11T14:49:26+00:00
+R1322,10.26226/morressier.5a6ef3ead462b80290b57eb7,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:49:27+00:00
+R1323,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:49:30+00:00
+R1324,10.31234/osf.io/fqbm3,not retrieved,,,0,,,epmc:no pmcid | core:156255575 none; core:159507049 none; core:319582445 none; core:doi none | osf:not pdf (410); record:not pdf (200),2026-10-11T14:49:30+00:00
+R1333,10.25772/48j8-h738,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/45202502,119701,,29316dac67ff86de66520b1b78e94fcddd1f9569a61c4ff957488817ed5b0589,epmc:no pmcid | core:45202502 ok,2026-10-10T19:29:10+00:00
+R1336,10.1016/s0924-977x(17)31330-5,not retrieved,,,0,,,epmc:no pmcid | core:191156513 none; core:doi none | record:not pdf (200); landing:not pdf (200),2026-10-11T14:49:33+00:00
+R1350,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:49:36+00:00
+R1372,10.1016/j.jocrd.2017.05.001,not retrieved,,,0,,,epmc:no pmcid | core:104076768 none; core:doi none | record:not pdf (200),2026-10-11T14:49:38+00:00
+R1384,10.13140/rg.2.1.3102.8887,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:blocked,2026-10-11T14:49:39+00:00
+R1392,10.1111/criq.12304,not retrieved,,,0,,,epmc:no pmcid | core:111011400 none; core:doi none | record:blocked,2026-10-11T14:49:40+00:00
+R1393,10.13140/rg.2.2.34264.70406,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:blocked,2026-10-11T14:49:42+00:00
+R1394,,not retrieved,,,0,,,epmc:no id | core:419596841 none; core:title none | pdf:no candidates,2026-10-11T14:49:42+00:00
+R1402,10.25772/je67-v432,retrieved,core_fulltext,https://api.core.ac.uk/v3/works/45482351,347650,,5ca55857dc18cdf7fa5024632a9ac073de3e3b7d34977a87d51ae1fc1bd6b4b7,epmc:no pmcid | core:45482351 ok,2026-10-10T19:29:22+00:00
+R1413,10.53738/revmed.2015.11.482.1504,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:49:44+00:00
+R1419,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:49:45+00:00
+R1420,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:49:45+00:00
+R1429,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:49:48+00:00
+R1430,10.1016/s0924-977x(15)30374-6,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:49:49+00:00
+R1431,10.53738/revmed.2015.11.474.1088,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:49:50+00:00
+R1448,10.1136/jnnp-2014-308883.38,not retrieved,,,0,,,epmc:no pmcid | core:356130630 none; core:379534672 none; core:386858214 none; core:doi none | unpaywall:not pdf (202); unpaywall:not pdf (202); record:blocked,2026-10-11T14:49:52+00:00
+R1449,10.1007/s10862-014-9442-1,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:not pdf (200),2026-10-11T14:49:53+00:00
+R1452,10.1177/0194599813517987,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:blocked,2026-10-11T14:49:58+00:00
+R1459,10.1037/t64468-000,not retrieved,,,0,,,epmc:no pmcid | core:117003935 none; core:doi none | landing:not pdf (403),2026-10-11T14:50:01+00:00
+R1460,10.1002/jclp.22098,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:50:04+00:00
+R1463,,not retrieved,,,0,,,epmc:no id | core:308252384 none; core:title none | pdf:no candidates,2026-10-11T14:50:02+00:00
+R1464,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:50:04+00:00
+R1467,,not retrieved,,,0,,,epmc:no id | core:10315372 none; core:title none | pdf:no candidates,2026-10-11T14:50:05+00:00
+R1468,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:50:06+00:00
+R1478,10.1016/s0924-977x(13)70269-4,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:50:06+00:00
+R1499,10.1016/j.anl.2009.05.001,not retrieved,,,0,,,epmc:no pmcid | core:doi none | record:not pdf (200),2026-10-11T14:50:08+00:00
+R1517,,not retrieved,,,0,,,epmc:no pmcid | core:title none | record:not pdf (403),2026-10-11T14:50:08+00:00
+R1533,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:50:09+00:00
+R1535,10.1016/j.bjorlp.2017.08.011,not retrieved,,,0,,,epmc:no pmcid | core:doi none | landing:not pdf (200),2026-10-11T14:50:10+00:00
+R1544,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:50:11+00:00
+R1553,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:50:14+00:00
+R1556,,not retrieved,,,0,,,epmc:no id | core:title none | record:network,2026-10-11T14:50:15+00:00
+R1562,,not retrieved,,,0,,,"error: ValueError(""unknown url type: '/void(0)'"")",2026-10-11T14:50:49+00:00
+R1565,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:50:17+00:00
+R1566,,not retrieved,,,0,,,epmc:no id | core:title none | pdf:no candidates,2026-10-11T14:50:20+00:00
+R2001,10.1002/14651858.cd007330.pub2,not retrieved,,,0,,,epmc:PMC7209976 no xml | core:doi none | unpaywall:blocked; unpaywall:blocked; europepmc_render:blocked; record:blocked,2026-10-14T19:18:10+00:00
+R2002,10.4103/1463-1741.165065,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4900497/fullTextXML,24177,,01f3e3b729ed5ecf36274c82f6c8cd9276956a8587e897e241f825007c02f950,epmc:PMC4900497 ok,2026-10-14T19:18:10+00:00
+R2003,10.3389/fneur.2015.00105,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4432660/fullTextXML,26861,,3f80e489c6b16909b8351d7c90cb03bb6cd2ab32f4171005ddd0bf440aa75f87,epmc:PMC4432660 ok,2026-10-14T19:18:10+00:00
+R2004,10.3758/pbr.16.2.225,retrieved,pdf,https://link.springer.com/content/pdf/10.3758/PBR.16.2.225.pdf,66323,13,4c16a3e6fcc85a496b38aa61b85cff6c0aac7fe8b194a685972319e2ae17db4c,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:18:10+00:00
+R2005,10.1525/mp.2013.31.2.118,retrieved,core_fulltext,https://core.ac.uk/works/172587547,98023,,ad47c04f4bebea1616b41ff3d207362854154ca84d0b45f5a7160544c122ed73,epmc:no pmcid | core:doi ok (172587547),2026-10-14T19:18:10+00:00
+R2006,10.1203/pdr.0b013e3182130c54,not retrieved,,,0,,,epmc:PMC3086654 no xml | core:doi none | unpaywall:not pdf (200); unpaywall:blocked; europepmc_render:blocked; record:not pdf (200),2026-10-14T19:18:10+00:00
+R2007,10.3389/fneur.2014.00196,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4186305/fullTextXML,72742,,de175677ea46b9f5cdc52e1b550174571f940d6faac06e6882eac693154e4039,epmc:PMC4186305 ok,2026-10-14T19:18:10+00:00
+R2008,10.3389/fnhum.2015.00171,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4376066/fullTextXML,44128,,893b33267a2c84bb67467df747561d66a69366fdf4f9cb44de4b570360757079,epmc:PMC4376066 ok,2026-10-14T19:18:10+00:00
+R2009,10.3389/fpsyg.2011.00056,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3110771/fullTextXML,16591,,fd5c33d232795f1d98944a69982120cd1678c452ab7d81971f5ec6877520caa8,epmc:PMC3110771 ok,2026-10-14T19:18:11+00:00
+R2010,10.1523/jneurosci.5401-11.2012,not retrieved,,,0,,,epmc:PMC6703581 no xml | core:doi none | unpaywall:blocked; unpaywall:blocked; unpaywall:not pdf (200); europepmc_render:blocked; record:blocked,2026-10-14T19:18:12+00:00
+R2011,10.3389/fneur.2014.00206,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4208401/fullTextXML,75630,,36ec98c36dad5a0117202370a6cef059979203fe6c0f0bfc2250a19ec7c97270,epmc:PMC4208401 ok,2026-10-14T19:18:12+00:00
+R2012,10.3389/fnint.2013.00082,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3872719/fullTextXML,93168,,07cf8a036626f9870e0608e97f220a4c7826601a8ec621ce36f8fc4d9a6f7deb,epmc:PMC3872719 ok,2026-10-14T19:18:12+00:00
+R2013,10.3109/08958378.2014.955932,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4389712/fullTextXML,66959,,1a5119f66389d1d89ebc8f38ddb349ca0a178d627f5189106e75cf052702d010,epmc:PMC4389712 ok,2026-10-14T19:18:12+00:00
+R2014,10.1371/journal.pone.0038660,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3369848/fullTextXML,20926,,dd845ff1a98069389a394aa41c23f030e09f0f1683b746e3f50a703bd7b08b6b,epmc:PMC3369848 ok,2026-10-14T19:18:13+00:00
+R2015,10.1007/s10803-010-1007-x,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2980623/fullTextXML,40244,,55bd0e16abc2b19ff5afe78bf384a9d9050ca69d856f419f479c26678954389c,epmc:PMC2980623 ok,2026-10-14T19:18:13+00:00
+R2016,10.1155/2015/290425,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4628763/fullTextXML,46372,,dd46bc49aeaf367165b615f38eb0c8a588dca27bca57c3ac79cab0db42cccf1e,epmc:PMC4628763 ok,2026-10-14T19:18:13+00:00
+R2017,10.1176/appi.ajp.2014.13121691,not retrieved,,,0,,,epmc:PMC4501403 no xml | core:doi none | unpaywall:blocked; unpaywall:blocked; europepmc_render:blocked; record:blocked,2026-10-14T19:18:14+00:00
+R2018,10.1523/jneurosci.4028-10.2010,not retrieved,,,0,,,epmc:PMC3073522 no xml | core:doi none | unpaywall:blocked; unpaywall:blocked; europepmc_render:blocked; record:blocked,2026-10-14T19:18:14+00:00
+R2019,10.1093/scan/nsn017,not retrieved,,,0,,,epmc:PMC2566767 no xml | core:doi none | unpaywall:blocked; unpaywall:blocked; unpaywall:blocked; europepmc_render:blocked; record:blocked,2026-10-14T19:18:14+00:00
+R2020,10.1155/2016/2570107,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4770139/fullTextXML,13281,,ad700f64dae71e47042c25b425b540af2fc644e692d7198a96a6b06a3532162d,epmc:PMC4770139 ok,2026-10-14T19:18:14+00:00
+R2021,10.1007/s10803-015-2693-1,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4826419/fullTextXML,46543,,29ca54ab4bb8ec618d9761269784eda1cb78ec67085489135e1e50cc202d876d,epmc:PMC4826419 ok,2026-10-14T19:18:15+00:00
+R2022,10.1007/s10162-016-0555-y,not retrieved,,,0,,,epmc:PMC4854822 no xml | core:doi none | unpaywall:not pdf (200); unpaywall:blocked; europepmc_render:blocked; record:not pdf (200),2026-10-14T19:18:15+00:00
+R2023,10.1097/hrp.0000000000000082,retrieved,pdf,http://hdl.handle.net/10316/93299,98728,16,34de1fc92fbbb5f8b3d60bd939457830739a9aed563abb3020e1253fc3cd5069,epmc:no pmcid | core:doi none | unpaywall:pdf via citation_pdf_url,2026-10-14T19:18:18+00:00
+R2024,10.1055/s-0035-1546958,not retrieved,,,0,,,epmc:PMC4906300 no xml | core:doi none | unpaywall:not pdf (200); unpaywall:blocked; europepmc_render:blocked; record:not pdf (200),2026-10-14T19:18:26+00:00
+R2025,10.4295/audiology.56.234,retrieved,pdf,https://www.jstage.jst.go.jp/article/audiology/56/3/56_234/_pdf,15183,9,f61a929535be5299628dbf00485fa314f49bf1c1b58294aeea711cde1ea08c48,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:18:48+00:00
+R2026,10.1111/psyp.12668,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5031225/fullTextXML,27144,,d0a4d5d6186b9b321f33bb8a70333623d2e0323bc36099cc0c8f38fab2993952,epmc:PMC5031225 ok,2026-10-14T19:18:49+00:00
+R2027,10.3389/fnins.2016.00268,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4911400/fullTextXML,88784,,4c791729613169cf297bcd6b6f4b4a4873f0e9ec5d687612cdae3f9e8f6191ec,epmc:PMC4911400 ok,2026-10-14T19:18:50+00:00
+R2028,10.4092/jsre.2.1,retrieved,pdf,https://www.jstage.jst.go.jp/article/jsre1993/2/1/2_1_1/_pdf,69309,20,7801a9494b40fad6b9ca63407b68be669567b0c017b13c6f3e44671d0e95e027,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:18:50+00:00
+R2029,10.3389/fpsyg.2016.01565,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5061730/fullTextXML,22064,,0f075605fa9db76097745c7bcd483f2015ed13955a0bdce3a65de3e107b1c950,epmc:PMC5061730 ok,2026-10-14T19:18:50+00:00
+R2030,10.1136/bmj.i4919,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5062054/fullTextXML,28949,,8a2f5f3e6d7c927024c9ec00e19347826fb0da146d935fe8df2868320b011e79,epmc:PMC5062054 ok,2026-10-14T19:18:50+00:00
+R2031,10.1093/cercor/bhw397,retrieved,core_fulltext,https://core.ac.uk/works/63253420,80900,,97d0051490adc80d164e20ccf05ab1c3efd99132ddd0e19bc59c0554415d0a42,epmc:no pmcid | core:doi ok (63253420),2026-10-14T19:18:51+00:00
+R2032,10.1038/srep39236,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5157031/fullTextXML,35407,,b9aef059cb24c5fe255784daeb2f9ce8a9657847dbfb11bd42ac52bdbc309629,epmc:PMC5157031 ok,2026-10-14T19:18:51+00:00
+R2033,10.1152/physrev.00034.2015,not retrieved,,,0,,,epmc:PMC5539409 no xml | core:doi none | unpaywall:blocked; unpaywall:blocked; europepmc_render:blocked; record:blocked,2026-10-14T19:18:51+00:00
+R2034,10.3389/fpsyg.2017.00247,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5322228/fullTextXML,43130,,1ae2953f75daafbffba324fdfe1705df23c757df71b123a817009a6f7db1f47f,epmc:PMC5322228 ok,2026-10-14T19:18:51+00:00
+R2035,10.1016/j.cognition.2017.04.002,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (403); record:not pdf (200),2026-10-14T19:18:52+00:00
+R2036,10.3390/brainsci7100129,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5664056/fullTextXML,22824,,ec15bbf96b274f5bb7c84e98d2819f491e264f6e60ae32f3c3d2dbd3f6de1c0d,epmc:PMC5664056 ok,2026-10-14T19:18:52+00:00
+R2037,10.1016/j.comppsych.2017.10.008,retrieved,core_fulltext,https://core.ac.uk/works/8375389,56017,,021b745e8ca95b9e4144bd9c6908098f18847685e5f18db8ecb73d0d5bcbe104,epmc:no pmcid | core:doi ok (8375389),2026-10-14T19:18:52+00:00
+R2038,10.3389/fncel.2017.00325,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5651232/fullTextXML,45800,,aac8ff007f0d8752df61185a7ba8530031da5170a3a3dfdcc3a91671500c2273,epmc:PMC5651232 ok,2026-10-14T19:18:53+00:00
+R2039,10.3950/jibiinkoka.121.679,retrieved,pdf,https://www.jstage.jst.go.jp/article/jibiinkoka/121/5/121_679/_pdf,16548,9,525ba929f9301293867f919dcfe6c779c150520f8fa8232d148c3af21f332711,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:18:54+00:00
+R2040,10.15171/bi.2018.32,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6209833/fullTextXML,36308,,11022df89f033c518e079c7da0e3b1da8697b6257c3c0f2c4608fc5651db1e49,epmc:PMC6209833 ok,2026-10-14T19:18:54+00:00
+R2041,10.1080/14992027.2018.1484184,retrieved,core_fulltext,https://core.ac.uk/works/8169048,43650,,4ad0f2a3432aa1cb6ec9f971253a46945d17498486a5eb2fa06ea41369ae7acb,epmc:no pmcid | core:doi ok (8169048),2026-10-14T19:18:55+00:00
+R2042,10.3389/fneur.2018.01069,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6305320/fullTextXML,75731,,68e386febf89e0c5818c7755d9665bb4160e10c09ef25017dd288abb1d036050,epmc:PMC6305320 ok,2026-10-14T19:18:56+00:00
+R2043,10.3389/fnagi.2019.00053,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6433929/fullTextXML,33421,,cec55b2585abc603bf22dbf307e49c0cd508ffaf8f19194a8ec2e1b90c314fbd,epmc:PMC6433929 ok,2026-10-14T19:18:58+00:00
+R2044,10.1177/0333102419828967,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6501455/fullTextXML,85562,,ef1007186e34a399881415aa26b07688f070b4d02924b263e38601a1faba0d6b,epmc:PMC6501455 ok,2026-10-14T19:18:58+00:00
+R2045,10.1007/s00106-019-0633-7,retrieved,pdf,https://link.springer.com/content/pdf/10.1007/s00106-019-0633-7.pdf,184104,33,c6b76c7d7469be349d16439e6038069de68dd03e06adde427878c6c3df59f534,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:18:58+00:00
+R2046,10.3390/brainsci9070153,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6680650/fullTextXML,37060,,cfc639431aa51ec1fa0075e8ec6133025db757c4d84cf961070e10c92f3e5eee,epmc:PMC6680650 ok,2026-10-14T19:18:59+00:00
+R2047,,not retrieved,,,0,,,epmc:no id | core:title none | record:blocked,2026-10-14T19:18:59+00:00
+R2048,10.3390/ijerph16193533,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6801404/fullTextXML,52971,,ed0f3db6a74d30de9dd2787a095992b7a5dd7495fe35ba1dd8e274ec117ab730,epmc:PMC6801404 ok,2026-10-14T19:18:59+00:00
+R2049,10.7146/mediekultur.v35i66.106133,retrieved,pdf,https://tidsskrift.dk/mediekultur/article/download/106133/164580,55679,18,a7b40a3bd0c7eefa3192f313cbfcf6fe47644259227595707f2760ea30ebd9ff,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:18:59+00:00
+R2050,10.3389/fnins.2019.01314,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6932986/fullTextXML,40727,,07390a91b19c4e65082d83b0248d9ce1d5f6ae7af4e1c3dd7e1f319778e3b52e,epmc:PMC6932986 ok,2026-10-14T19:19:00+00:00
+R2051,10.1136/bmjopen-2019-032178,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6886978/fullTextXML,50172,,0fdcffbf12a7589dad7478badb93a38242977e2411c9085c4b6fbd66c91b78f2,epmc:PMC6886978 ok,2026-10-14T19:19:00+00:00
+R2052,10.3389/fpsyt.2019.01016,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6997554/fullTextXML,64770,,910a6102fe58a4676f14623906de02aadfd3903f9b5da3041360ec916565c575,epmc:PMC6997554 ok,2026-10-14T19:19:01+00:00
+R2053,10.1371/journal.pone.0226692,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6932793/fullTextXML,34912,,1de6cb7c9035f04756ddf3e54f5c56ca6163a15a2f198d663f7fcc0d09ade5f9,epmc:PMC6932793 ok,2026-10-14T19:19:02+00:00
+R2054,10.3390/ijerph17093045,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7246428/fullTextXML,25880,,63b776178f718a7325360f7c2c19c2a6efdd5ca1a216d507162dcf453f2a80c8,epmc:PMC7246428 ok,2026-10-14T19:19:02+00:00
+R2055,10.5222/mmj.2020.97947,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7384510/fullTextXML,23328,,802acb2c5a7f777d4dcd5493d428523f2f60bdc834d2a68b26d372aa354b98a2,epmc:PMC7384510 ok,2026-10-14T19:19:02+00:00
+R2056,10.1186/s12887-020-02223-5,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7322835/fullTextXML,55226,,7f8d8e606a0abb72a936843a7ed43356278c4c199e67375edebd2c7ca1579c80,epmc:PMC7322835 ok,2026-10-14T19:19:02+00:00
+R2057,10.1111/pcn.13138,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; record:blocked,2026-10-14T19:19:03+00:00
+R2058,10.3949/ccjm.87a.20005,retrieved,pdf,https://www.ccjm.org/content/ccjom/87/12/751.full.pdf,18705,4,14ea96d05cec00082b98f9434029fe8c81451d99c9c521b9e3911bc4d15424a6,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:19:03+00:00
+R2059,10.3758/s13428-020-01514-0,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7725427/fullTextXML,40656,,651dea54fb5a3eb3c78de7511ae3f3e04e111ee9a0a9d1fde4d125945c79f69b,epmc:PMC7725427 ok,2026-10-14T19:19:04+00:00
+R2060,10.3390/ijerph18020562,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7826648/fullTextXML,39778,,ee7def14e1bfe3d4eeb7d7a8034519b62a008fa63b0ae69bf11463e96b21c824,epmc:PMC7826648 ok,2026-10-14T19:19:04+00:00
+R2061,10.1016/bs.pbr.2020.12.002,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (403); unpaywall:blocked; unpaywall:blocked; record:not pdf (200),2026-10-14T19:19:05+00:00
+R2062,10.3389/fnint.2021.647928,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8113623/fullTextXML,49385,,7eddc3d9a415cbceb88c8921ee41275776c933eeab7281a2ca21b0e4a9219f51,epmc:PMC8113623 ok,2026-10-14T19:19:05+00:00
+R2063,10.1038/s41380-021-01161-7,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8960395/fullTextXML,42620,,2d2510069313cf67fbe6728774452c3ca3fdc4f1d01cd5e5541e17c1e8b6ebe0,epmc:PMC8960395 ok,2026-10-14T19:19:06+00:00
+R2064,10.1111/bjop.12516,retrieved,core_fulltext,https://core.ac.uk/works/8154880,50006,,92ce3518963a1187f02b182ce368653c39ced72f3c1e0e0524c488cf4e7dcc2a,epmc:no pmcid | core:doi ok (8154880),2026-10-14T19:19:06+00:00
+R2065,10.1002/lary.29768,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9292021/fullTextXML,36278,,2d4a19b7ea17cbcd776488b38080f731dad45463cc615bdf8e7c58dc5313618c,epmc:PMC9292021 ok,2026-10-14T19:19:06+00:00
+R2066,10.5210/fm.v26i9.11691,retrieved,pdf,https://doi.org/10.5210/fm.v26i9.11691,63375,16,9167e48140f32175183941111c567e94e42b73d8cac0c29cbfb1c58c67684d1f,epmc:no pmcid | core:doi none | unpaywall:pdf via citation_pdf_url,2026-10-14T19:19:07+00:00
+R2067,10.3389/fneur.2021.706555,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8446270/fullTextXML,55875,,07371ab9693ad6b8df4158e650d01b8245307c2a89752f2e50fff6d8d27e3d58,epmc:PMC8446270 ok,2026-10-14T19:19:07+00:00
+R2068,10.3390/brainsci11091233,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8467200/fullTextXML,46656,,24316026f023436638b8204a5540ccddce8cd9a0211597eabe0629b21052d00d,epmc:PMC8467200 ok,2026-10-14T19:19:07+00:00
+R2069,10.1037/bul0000341,retrieved,core_fulltext,https://core.ac.uk/works/8944460,206194,,955adbefd789be71cda73e9bc1aa118452ba6ecb313b1f0c7070ca6e256e59bf,epmc:no pmcid | core:doi ok (8944460),2026-10-14T19:19:08+00:00
+R2070,10.15540/nr.8.4.184,retrieved,pdf,https://www.neuroregulation.org/article/download/21980/14341,40109,10,0fa95b6405f395abf56e1a95a6eb8d26fab2bc5322ba15ba048e898cca86b80a,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:19:08+00:00
+R2071,10.21053/ceo.2021.00318,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8901946/fullTextXML,26280,,7e9771e4a352042e599f56cfd1d81b79e8e9f0726670008278fbafa8e43dc812,epmc:PMC8901946 ok,2026-10-14T19:19:08+00:00
+R2072,10.1002/14651858.cd012614.pub2,retrieved,core_fulltext,https://core.ac.uk/works/26222178,591336,,75fe0917dbac52149e2ce88756baf587af0297992e50efeb5d81991a38c9b66f,epmc:PMC6956618 no xml | core:doi ok (26222178),2026-10-14T19:19:08+00:00
+R2073,10.31487/j.acr.2022.01.02,retrieved,pdf,https://www.sciencerepository.org/articles/does-triggering-an-autonomous_ACR-2022-1-102.pdf,33273,7,bf1698903dcd7610cf0f0fc237ab7e7dad2a64c928940cb1d4fcf5aa2601aa86,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:19:09+00:00
+R2074,10.3390/ijerph19063497,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8954484/fullTextXML,55708,,2261e5a3e0872d6cc7d91567eb0d6606fec19615475e536f61ac53f39a55c759,epmc:PMC8954484 ok,2026-10-14T19:19:09+00:00
+R2075,10.3390/geriatrics7020030,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8938842/fullTextXML,24888,,91f63fe084ee5f979cfec50215411bc66b098e9ddd23a2c86a7767c6cfc2ad7e,epmc:PMC8938842 ok,2026-10-14T19:19:10+00:00
+R2076,10.1007/s00221-022-06377-9,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9142458/fullTextXML,67822,,f64009a0eaa8971245543022f3b8eab599fafacc4cfdcebbcfba1881e6418539,epmc:PMC9142458 ok,2026-10-14T19:19:11+00:00
+R2077,10.7577/seminar.4669,retrieved,pdf,https://journals.oslomet.no/index.php/seminar/article/download/4669/4360,64087,23,8cf8f61b69eaa28460d6fd36d84ad1bf7190e9bbb39db3404e651d28d4c05775,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:19:12+00:00
+R2078,10.15626/mp.2020.2626,retrieved,core_fulltext,https://core.ac.uk/works/120433555,53613,,056a936ea2530afc8514123bbf1b6d40cbf61bdb6ee5257aff2dff4e63d94178,epmc:no pmcid | core:doi ok (120433555),2026-10-14T19:19:13+00:00
+R2079,10.1016/j.joto.2022.08.004,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9547110/fullTextXML,25911,,5412f486afffb26e139d8c7a9b13e3a1ce335eb8a21a6489c4f39e38f2d8a120,epmc:PMC9547110 ok,2026-10-14T19:19:13+00:00
+R2080,10.1007/s10802-022-00962-w,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9867656/fullTextXML,38954,,239e09e767032ece024df370d1642af917137bc38fba3b2be16ccf072c0d3b61,epmc:PMC9867656 ok,2026-10-14T19:19:13+00:00
+R2081,10.3389/fpsyg.2022.990565,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9558233/fullTextXML,42042,,4310a3a935a87c2133a6e1865ddadc5ca07b9d3724601d9919badce4a9ce8ba7,epmc:PMC9558233 ok,2026-10-14T19:19:13+00:00
+R2082,10.1016/j.biopsych.2022.09.032,not retrieved,,,0,,,epmc:PMC10038930 no xml | core:doi none | unpaywall:not pdf (200); unpaywall:blocked; europepmc_render:blocked,2026-10-14T19:19:14+00:00
+R2083,10.1007/s10826-022-02489-6,retrieved,core_fulltext,https://core.ac.uk/works/294838496,98188,,f67f7668dc4b017447a1f174f3528844acedbf313da1a236b7db6bda49c7e1a0,epmc:no pmcid | core:doi ok (294838496),2026-10-14T19:19:15+00:00
+R2084,10.3389/fnins.2023.1025745,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9909086/fullTextXML,30722,,7bb900dbd903453b86a0128010db0ed76cd64d8783c584fd0d6a1dc8dab89456,epmc:PMC9909086 ok,2026-10-14T19:19:16+00:00
+R2085,10.1016/j.jocrd.2023.100789,not retrieved,,,0,,,epmc:PMC9997671 no xml | core:doi none | unpaywall:blocked; europepmc_render:blocked; record:not pdf (200),2026-10-14T19:19:16+00:00
+R2086,10.1111/psyp.14277,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; record:blocked,2026-10-14T19:19:17+00:00
+R2087,10.36105/theanahuacjour.2022v22n2.01,retrieved,core_fulltext,https://core.ac.uk/works/291622393,75156,,e423eab141442d6a16dbac7abcd0cf765f667b4c7efaaf6bf1027d175aef1aed,epmc:no pmcid | core:doi ok (291622393),2026-10-14T19:19:18+00:00
+R2088,10.3389/fpsyg.2023.1106741,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10022735/fullTextXML,51496,,b61ee64e71ee6eb1315c3112e661d1112b2452ac15c3d4d17387ca5fe33f9c7a,epmc:PMC10022735 ok,2026-10-14T19:19:21+00:00
+R2089,10.1097/hrp.0000000000000360,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9997627/fullTextXML,14444,,2a1d6b8ac775685f89465e1e944a741f887e0ee97bb16c3c5c3d9295022e56ef,epmc:PMC9997627 ok,2026-10-14T19:19:22+00:00
+R2090,10.1007/s00702-023-02595-9,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10033482/fullTextXML,178918,,e4d846f2b1eb082580d3af00ba0faac1bbc7045ae0ab5c18d4dafd6aae4b016c,epmc:PMC10033482 ok,2026-10-14T19:19:22+00:00
+R2091,10.32597/dissertations/1786/,retrieved,core_fulltext,https://core.ac.uk/works/145738122,330131,,ebce86019a60e4c4fa8d3dcfd4bc3f86f561a22d966202a0619200e15d1e4f11,epmc:no pmcid | core:doi ok (145738122),2026-10-14T19:19:23+00:00
+R2092,10.1145/3585088.3593887,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; record:blocked,2026-10-14T19:19:23+00:00
+R2093,10.15659/ttad.15.1.164,retrieved,pdf,http://dx.doi.org/10.15659/ttad.15.1.164,93125,47,7426f8297443c393b1135a1193b15b12435253fadc8000ded9ffa43a94b7827d,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:19:27+00:00
+R2094,10.21121/eab.1289908,retrieved,pdf,https://dergipark.org.tr/en/download/article-file/3112320,61214,16,73a8d617d31f78cc8323b3833bf219a4e355731ffce95068e5789a420e13313f,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:19:28+00:00
+R2095,10.1097/aud.0000000000001427,not retrieved,,,0,,,epmc:PMC10868671 no xml | core:doi none | unpaywall:blocked; unpaywall:not pdf (200); europepmc_render:blocked,2026-10-14T19:19:29+00:00
+R2096,10.1163/22134808-bja10108,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (403); unpaywall:not pdf (202); unpaywall:not pdf (202); record:not pdf (403),2026-10-14T19:19:30+00:00
+R2097,10.1044/2023_aja-23-00118,not retrieved,,,0,,,epmc:PMC11001428 no xml | core:doi none | unpaywall:blocked; europepmc_render:blocked; record:blocked,2026-10-14T19:19:32+00:00
+R2098,10.1038/s41598-023-37658-0,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10638287/fullTextXML,21024,,4b4e7fe028750105806362afcd78f9226804d03147879dfd9f46cff832464129,epmc:PMC10638287 ok,2026-10-14T19:19:34+00:00
+R2099,10.1007/s12671-023-02264-8,retrieved,pdf,https://link.springer.com/content/pdf/10.1007/s12671-023-02264-8.pdf,81003,17,aa99c36da3327eb9b8384ab8fe421e6ae58520fb5c16e3ac40308391258b3f53,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:19:35+00:00
+R2100,10.3390/genes15010022,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10815708/fullTextXML,26156,,1864f54aabfad58c62ea4d11e2d29e4cef5ef26e37ab22639d500dd77a7322a9,epmc:PMC10815708 ok,2026-10-14T19:19:35+00:00
+R2101,10.1002/lio2.1208,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10866592/fullTextXML,40648,,025b3b43a8dd2959048fa3ddcd66a7540bcd7dda25b4ff033e348b4acadecf14,epmc:PMC10866592 ok,2026-10-14T19:19:35+00:00
+R2102,10.61838/kman.jayps.3.2.24,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:network; unpaywall:not pdf (200); record:not pdf (200),2026-10-14T19:19:36+00:00
+R2103,10.1007/s10162-024-00925-6,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10907330/fullTextXML,60665,,65433243dfe7bbc50179ba4f70d88364de191757c991e8291fd5bca49ea4f9ce,epmc:PMC10907330 ok,2026-10-14T19:19:37+00:00
+R2104,10.1002/eat.24184,retrieved,pdf,https://unsworks.unsw.edu.au/bitstreams/4294ad0e-ac3d-455e-8932-daa587e69950/download,110966,25,01705e4c10f905f34bfeb1774e634a4f986439a55c048166b1fe09990ecc9b98,epmc:no pmcid | core:doi none | unpaywall:blocked; unpaywall:pdf,2026-10-14T19:19:37+00:00
+R2105,10.1007/s12070-024-04645-4,not retrieved,,,0,,,epmc:PMC11306702 no xml | core:doi none | unpaywall:blocked; europepmc_render:blocked; record:not pdf (200),2026-10-14T19:19:41+00:00
+R2106,10.1515/9783839471289-018,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:not pdf (202); record:not pdf (200),2026-10-14T19:19:45+00:00
+R2107,10.3390/jcm13092638,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11084475/fullTextXML,25689,,39498ab7f8e00649b07d021af06787dfcc6efd35f96cb717f513a26b7debd4b8,epmc:PMC11084475 ok,2026-10-14T19:19:50+00:00
+R2108,10.3389/fpubh.2024.1404493,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11183294/fullTextXML,46060,,daf0a3e2a3728dbb82974ba33afa093e0714464c2bf7c7fe7fc6463e7fb46dc9,epmc:PMC11183294 ok,2026-10-14T19:19:51+00:00
+R2109,10.1038/s44271-024-00106-4,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11332028/fullTextXML,52365,,cdeae3e42ab536deee1b321f1ca8c7515e8103455a91818f7f80f3448532e95a,epmc:PMC11332028 ok,2026-10-14T19:19:51+00:00
+R2110,10.1111/2047-3095.12470,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; record:blocked,2026-10-14T19:19:52+00:00
+R2111,10.1002/advs.202402872,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11434246/fullTextXML,33356,,906bf73c7b3e68999bc6a6a87e17e0c220202931a06c681b570fb25685ee1a3f,epmc:PMC11434246 ok,2026-10-14T19:19:52+00:00
+R2112,10.1098/rstb.2023.0242,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11444221/fullTextXML,26386,,ff2b0498359c6ba1a5d97617d4272bf1c9e4f1cf1c134b5c6816b3ec66a76f6d,epmc:PMC11444221 ok,2026-10-14T19:19:52+00:00
+R2113,10.3390/brainsci14070726,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11275185/fullTextXML,31996,,af7938939bcf40ddd4aaf8c6e4ee23f82c63d93f0553afbb28157ef16bff5732,epmc:PMC11275185 ok,2026-10-14T19:19:53+00:00
+R2114,10.37609/akya.3203,retrieved,pdf,https://books.akademisyen.net/index.php/akya/catalog/download/3203/6636/76525,160136,64,7fe6c44993a34cda543138b710a32af15c633c2e301ef661c31cae5413f26bda,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:19:53+00:00
+R2115,10.1186/s11689-024-09562-9,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11318295/fullTextXML,40292,,cb0608923b7971f09e8127e94722935c11c4abcf18a6f1e7b6fd1828e1624345,epmc:PMC11318295 ok,2026-10-14T19:19:53+00:00
+R2116,10.3389/fpsyg.2024.1365144,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11404038/fullTextXML,57220,,1036edc4a2f238a7b500805528aefbdcdddaf9055a1911aa19ea3df0db37b5f1,epmc:PMC11404038 ok,2026-10-14T19:19:53+00:00
+R2117,10.2147/prbm.s482404,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11571077/fullTextXML,35835,,a159b88c5fde4b4562aad0a0eddda366e1ed85099f06fa7a439bf18ea0d47abe,epmc:PMC11571077 ok,2026-10-14T19:19:54+00:00
+R2118,10.1038/s41598-024-78274-w,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11564524/fullTextXML,42254,,c5a7a4a4937bcb1fdb0e38744ff222c50b30ea42df05b62d8922eb06680a8d17,epmc:PMC11564524 ok,2026-10-14T19:19:54+00:00
+R2119,10.1016/j.jpain.2024.104741,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11213080/fullTextXML,50335,,eae71dedce334045b1613fe587aba6d60c511e969f36237fb32660f911a54832,epmc:PMC11213080 ok,2026-10-14T19:19:54+00:00
+R2120,10.1163/22134808-bja10136,retrieved,core_fulltext,https://core.ac.uk/works/163622488,82336,,d508f31e4a6e9fd4e2a24415af2cd55efe3f1dfee7a1ffea7f545c8423ebbd67,epmc:no pmcid | core:doi ok (163622488),2026-10-14T19:19:55+00:00
+R2121,10.1038/s44220-025-00385-8,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11100871/fullTextXML,46834,,597bc6c66b64fd69f92f389a4464f70dfa99fd58c3c63847ce801f0a6040a20a,epmc:PMC11100871 ok,2026-10-14T19:19:55+00:00
+R2122,10.1044/2025_aja-24-00229,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12151283/fullTextXML,41534,,fde2d425628644be569588f15e08d3961514ebff0f8b7b337fc672d9f73b18fa,epmc:PMC12151283 ok,2026-10-14T19:19:55+00:00
+R2123,10.1145/3713043.3731554,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; record:blocked,2026-10-14T19:19:55+00:00
+R2124,10.1111/jcpp.70027,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13102050/fullTextXML,42693,,968adad1c8f39df97a6cb25e0888b39b5ccbd3bf6d8179b73108f2b8cb734e88,epmc:PMC13102050 ok,2026-10-14T19:19:56+00:00
+R2125,10.1093/cercor/bhaf280,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12517168/fullTextXML,39871,,26ce35046dba550f504df01aadc12bb71be0d6d11bc4b9576bd6ec1bcd50a6d2,epmc:PMC12517168 ok,2026-10-14T19:19:56+00:00
+R2126,10.17430/jhs/211199,retrieved,pdf,https://www.journalofhearingscience.com/pdf-211199-129530?filename=KEY INSIGHTS FROM THE III.pdf,59073,11,381a4ce574f03fc0b3a57946d0f318eb499c663860b673ace575a81dd2805948,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:19:57+00:00
+R2127,10.1145/3771594.3771651,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; record:blocked,2026-10-14T19:19:57+00:00
+R2128,10.3390/brainsci16010053,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12839194/fullTextXML,87094,,5fe6502c4504a01a956ac5fe807ef1bdd9d67c61bfc41cc7f79a5ccb705880c7,epmc:PMC12839194 ok,2026-10-14T19:19:58+00:00
+R2129,10.3389/fnhum.2025.1723675,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12819818/fullTextXML,44541,,4e0a844ef45d98ac6146da2fe88ea61280288a4df7d39016756766639e0f8d49,epmc:PMC12819818 ok,2026-10-14T19:19:59+00:00
+R2130,10.3389/fpsyg.2026.1704433,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12872744/fullTextXML,50359,,1b57437162a0896c84461d521eb3d5f5ab6242b12e1fd4159f67a332fc727b81,epmc:PMC12872744 ok,2026-10-14T19:19:59+00:00
+R2131,10.1016/j.rin.2026.100015,retrieved,pdf,https://strathprints.strath.ac.uk/95516/7/Daniel-etal-RN-2026-Sensory-processing-informed-autism-practice-for-child-centred-therapists.pdf,129896,18,9bdad6a4a46203f6729f687d059e6da09f52d1214a8dd099ffa3045757eeeef0,epmc:no pmcid | core:doi none | unpaywall:not pdf (200); unpaywall:pdf,2026-10-14T19:19:59+00:00
+R2132,10.3390/sci8020042,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; record:blocked,2026-10-14T19:19:59+00:00
+R2133,10.1080/23311886.2026.2645738,not retrieved,,,0,,,epmc:no pmcid | core:doi none | unpaywall:blocked; unpaywall:blocked; unpaywall:not pdf (200); record:blocked,2026-10-14T19:20:01+00:00
+R2134,10.3389/fpsyg.2026.1740614,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13066313/fullTextXML,54485,,74db6827e4384bf6ae458a840bfed5ae2ad9d12342da93f79afd5c8392b9a13b,epmc:PMC13066313 ok,2026-10-14T19:20:01+00:00
+R2135,10.3389/fpsyg.2026.1805150,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13066208/fullTextXML,52452,,b53c834a1a0a8ffc278fe1049dc6a1b9d2c8d4f4d26023b7969de81f513ff73c,epmc:PMC13066208 ok,2026-10-14T19:20:02+00:00
+R2136,10.1111/jnc.70477,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13184440/fullTextXML,110792,,5f9e3b151416a295680a8096bd791b8a4916a9b6ecee7460876a1087e36ab2c1,epmc:PMC13184440 ok,2026-10-14T19:20:03+00:00
+R2137,10.1016/j.isci.2026.116080,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13255023/fullTextXML,46472,,1a45be2e4b03f5f7965e5217d7283863c439b6a800cddfd8101565af28ed93d6,epmc:PMC13255023 ok,2026-10-14T19:20:03+00:00
+R2138,10.1097/pr9.0000000000001487,retrieved,europepmc_xml,https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13446973/fullTextXML,27087,,55e8745fe19b1f7745d324824032b60af5466ba0b2ff307e1a29aca3fa658b47,epmc:PMC13446973 ok,2026-10-14T19:20:04+00:00
+R2139,10.14412/2074-2711-2026-4-40-43,retrieved,pdf,https://nnp.ima-press.net/nnp/article/download/2899/2019,21222,4,aa4ebabdcb83040515a8084ef74329296ae81e4b6e569e13660db57b19077d60,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:20:05+00:00
+R2140,10.3389/feduc.2026.1900405,retrieved,pdf,https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1900405/pdf,67458,11,ea87efb8c3be5418b4152d3cf905035e89d4b056d7502cf69eff7c58ffa910cf,epmc:no pmcid | core:doi none | unpaywall:pdf,2026-10-14T19:20:06+00:00

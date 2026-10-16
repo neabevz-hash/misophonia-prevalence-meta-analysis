@@ -1,0 +1,23 @@
+{
+  "records_per_source": {
+    "pubmed": 478,
+    "europepmc": 527,
+    "openalex": 1134,
+    "s2": 790,
+    "citations": 1500
+  },
+  "records_total": 4429,
+  "unique_records": 1323,
+  "duplicates_removed": 3106,
+  "auto_removed_non_study_records": 78,
+  "records_to_screen": 1245,
+  "unique_only_via_instrument_citations": 79,
+  "flagged_possible_duplicates": 216,
+  "unique_by_n_sources": {
+    "1": 493,
+    "2": 250,
+    "3": 159,
+    "4": 119,
+    "5": 302
+  }
+}

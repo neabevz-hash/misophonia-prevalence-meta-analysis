@@ -1,0 +1,401 @@
+{
+  "estimates": {
+    "quotes_checked": 516,
+    "found_verbatim": 468,
+    "too_short_to_check": 49,
+    "share_found": 0.907
+  },
+  "key_fields": {
+    "quotes_checked": 368,
+    "found_verbatim": 361,
+    "too_short_to_check": 7,
+    "share_found": 0.981
+  },
+  "not_found": [
+    {
+      "job": "R0075",
+      "sample": "University of Health Sciences students (medicine, dentistry, nursing, psychology",
+      "item": "E3",
+      "quote": "Total Sample (n = 562) | MQ ≥ 7 (n = 92) ... Sex, Female, n (%) | 356 (63.3) | 62 (67.4); 36.7% were male (n = 206)",
+      "not_found": "62674367weremalen206"
+    },
+    {
+      "job": "R0821",
+      "sample": "Adults of various occupations, Telangana, India (n=30)",
+      "item": "E2",
+      "quote": "Moderate ... AWT 1 (0.50%) Student 2 (0.50%) Musician 1 (0.50%) ... Severe Homemaker 1 (0.20%) Musician 1 (0.50%)",
+      "not_found": "awt1050student2050musician1050"
+    },
+    {
+      "job": "R0528",
+      "sample": "Medical faculty students, Süleyman Demirel University, Isparta, Turkey (n=445)",
+      "item": "population",
+      "quote": "500 students between the ages of 18 and 28 at the Isparta Süleyman Demirel University Faculty of Medicine",
+      "not_found": "500studentsbetweentheagesof18and28attheispartasüleymandemireluniversityfacultyofmedicine"
+    },
+    {
+      "job": "R1188",
+      "sample": "Psychiatric inpatients with depression, Kraków and Warsaw hospitals, POL, n=94",
+      "item": "E2",
+      "quote": "There were also 4 patients (52, 59, 59, and 60 points) who met criteria for mild misophonia [6] in face-to-face interviews ... If we included the 4 cases with mild misophonia, with very limited impact on one's life, this would be 12.76%.",
+      "not_found": "therewerealso4patients525959and60pointswhometcriteriaformildmisophoniainfacetofaceinterviews"
+    },
+    {
+      "job": "R0998",
+      "sample": "SPARK independent autistic adults, USA, n=936",
+      "item": "E3",
+      "quote": "Female | ... | 590 (63.0%) | 463 (71.6%) | 261 (78.6%); (44.2% of autistic females and 20.5% of autistic males)",
+      "not_found": "261786442ofautisticfemalesand205ofautisticmales"
+    },
+    {
+      "job": "R0524",
+      "sample": "Healthy volunteers (matched controls), Maryland, USA, n=28",
+      "item": "E1",
+      "quote": "four participants with SZ gave at least one item from the MQ Emotional Behavior section a rating of 4 ... This was true for no HVs.",
+      "not_found": "thiswastruefornohvs"
+    },
+    {
+      "job": "R0651",
+      "sample": "University of Tasmania students and public volunteers, online survey, Australia,",
+      "item": "population",
+      "quote": "Of our sample, 148 (80%) were current university students. Undergraduate psychology students received one-hour of research credit ... Other university students and members of the public were entered into a draw",
+      "not_found": "otheruniversitystudentsandmembersofthepublicwereenteredintoadraw"
+    },
+    {
+      "job": "R1137",
+      "sample": "Primary care attenders, USF Barrinha, Aveiro, Portugal, n=20",
+      "item": "E1",
+      "quote": "Subclinic [1-4] 7 35 ... Mild [5-9] 3 15 ... Moderate [10-14] 2 10 ... Severe [15-19] 0 0 ... Extreme [20-24] 0 0",
+      "not_found": "subclinic735"
+    },
+    {
+      "job": "R1137",
+      "sample": "Primary care attenders, USF Barrinha, Aveiro, Portugal, n=20",
+      "item": "E3",
+      "quote": "Moderate [10-14] 2 10 ... Severe [15-19] 0 0 ... Extreme [20-24] 0 0",
+      "not_found": "moderate210"
+    },
+    {
+      "job": "R1137",
+      "sample": "Psychiatric outpatients, private psychiatric unit, Coimbra, Portugal, n=24",
+      "item": "E1",
+      "quote": "Subclinic [1-4] 4 17 ... Mild [5-9] 5 21 ... Moderate [10-14] 1 4 ... Severe [15-19] 0 0 ... Extreme [20-24] 0 0",
+      "not_found": "subclinic417"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E3",
+      "quote": "Screening: subklinisch 17,4; mild 19,6; moderat 28,3; schwer 26; extrem 8,7 (Angaben in Prozent) [percent of 46 screen-positives]",
+      "not_found": "screeningsubklinisch174mild196moderat283schwer26extrem87angabeninprozent"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E4",
+      "quote": "0-2: 14; 3-4: 17; 5-6: 13; 7-8: 12; 9-10: 4 (Schweregrad Kurztest Misophonie)",
+      "not_found": "02143417561378129104schweregradkurztestmisophonie"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E6",
+      "quote": "9-10: 4 (Schweregrad Kurztest Misophonie)",
+      "not_found": "9104schweregradkurztestmisophonie"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E13",
+      "quote": "Abb. 12: F1 auffällig 19, unaufällig 41; Abb. 9: F1 60",
+      "not_found": "abb12f1auffällig19unaufällig41abb9f160"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E14",
+      "quote": "Abb. 12: F2 auffällig 2, unaufällig 22; Abb. 9: F2 24",
+      "not_found": "abb12f2auffällig2unaufällig22abb9f224"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E15",
+      "quote": "Abb. 12: F3 auffällig 33, unaufällig 88; Abb. 9: F3 121",
+      "not_found": "abb12f3auffällig33unaufällig88abb9f3121"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E16",
+      "quote": "F30: manische Episode auffällig 0, unauffällig 1",
+      "not_found": "f30manischeepisodeauffällig0unauffällig1"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E17",
+      "quote": "F31: bipolare affektive Störung auffällig 4, unauffällig 10; Abb. 10: F31 14",
+      "not_found": "f31bipolareaffektivestörungauffällig4unauffällig10abb10f3114"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E18",
+      "quote": "F32: depressive Episode auffällig 6, unauffällig 29; Abb. 10: F32 35",
+      "not_found": "f32depressiveepisodeauffällig6unauffällig29abb10f3235"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E19",
+      "quote": "F33: rezidivierende depressive Störung auffällig 23, unauffällig 48; Abb. 10: F33 71",
+      "not_found": "f33rezidivierendedepressivestörungauffällig23unauffällig48abb10f3371"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E20",
+      "quote": "Abb. 12: F4 auffällig 11, unaufällig 31; Abb. 9: F4 42",
+      "not_found": "abb12f4auffällig11unaufällig31abb9f442"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E21",
+      "quote": "Abb. 12: F6 auffällig 5, unaufällig 9; Abb. 9: F6 14",
+      "not_found": "abb12f6auffällig5unaufällig9abb9f614"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E22",
+      "quote": "Abb. 12: F0 auffällig 0, unaufällig 5",
+      "not_found": "abb12f0auffällig0unaufällig5"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E23",
+      "quote": "Abb. 12: F5 auffällig 1, unaufällig 2",
+      "not_found": "abb12f5auffällig1unaufällig2"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E24",
+      "quote": "Abb. 12: F7 auffällig 0, unaufällig 3",
+      "not_found": "abb12f7auffällig0unaufällig3"
+    },
+    {
+      "job": "R1066",
+      "sample": "Psychiatric inpatients, Klinik für Psychiatrie Bamberg, Germany, n=194",
+      "item": "E25",
+      "quote": "Abb. 12: F9 auffällig 0, unaufällig 3",
+      "not_found": "abb12f9auffällig0unaufällig3"
+    },
+    {
+      "job": "R0922",
+      "sample": "German general population household survey (USUMA/Leipzig), DEU, n=2519",
+      "item": "E6",
+      "quote": "126 individuals... had a MQ Severity of >7; Gender, female ... | 72 | 57.1%; 1,197 (47.5%) were male",
+      "not_found": "hadamqseverityof7genderfemale"
+    },
+    {
+      "job": "R1402",
+      "sample": "VCU undergraduate participant pool, USA, n=451",
+      "item": "E2",
+      "quote": "#Amsterdam Misophonia Scale Total Score Mild (5 to 9) Moderate (10 to 14) Severe (15 to 19) Extreme (20 to 24) 42.4% 19.7% 2.2% 0.0%",
+      "not_found": "amsterdammisophoniascaletotalscoremild5to9moderate10to14severe15to19extreme20to244241972200"
+    },
+    {
+      "job": "R1402",
+      "sample": "VCU undergraduate participant pool, USA, n=451",
+      "item": "E3",
+      "quote": "Moderate (10 to 14) Severe (15 to 19) Extreme (20 to 24) 19.7% 2.2% 0.0%",
+      "not_found": "moderate10to14severe15to19extreme20to241972200"
+    },
+    {
+      "job": "R1402",
+      "sample": "VCU undergraduate participant pool, USA, n=451",
+      "item": "E4",
+      "quote": "Severe (15 to 19) Extreme (20 to 24) 2.2% 0.0%",
+      "not_found": "severe15to19extreme20to242200"
+    },
+    {
+      "job": "R1402",
+      "sample": "Amazon MTurk community adults, USA, n=375",
+      "item": "E5",
+      "quote": "Percentage of participants reporting having received sound-related diagnoses (community sample only) Misophonia .7%",
+      "not_found": "percentageofparticipantsreportinghavingreceivedsoundrelateddiagnosescommunitysampleonlymisophonia7"
+    },
+    {
+      "job": "R1402",
+      "sample": "Amazon MTurk community adults, USA, n=375",
+      "item": "E6",
+      "quote": "Total 18 (4.89%) 31 (8.42%) 49 (13.32%)",
+      "not_found": "total1848931842491332"
+    },
+    {
+      "job": "R1402",
+      "sample": "Amazon MTurk community adults, USA, n=375",
+      "item": "E7",
+      "quote": "Total 35 (9.51%) 129 (35.05%) 164 (44.57%)",
+      "not_found": "total3595112935051644457"
+    },
+    {
+      "job": "R1090",
+      "sample": "Turkish high school and university students, online social-media convenience sam",
+      "item": "E1",
+      "quote": "Moderate (10-14) ... 152 12.8 Severe (15-19) ... 12 1 Extreme (20-24) ... 0 0; Moderate or more severe misophonia symptoms were seen in 13.8% of participants.",
+      "not_found": "00moderateormoreseveremisophoniasymptomswereseenin138ofparticipants"
+    },
+    {
+      "job": "R1090",
+      "sample": "Turkish high school and university students, online social-media convenience sam",
+      "item": "E4",
+      "quote": "Moderate (10-14) 50 15.5 ... Severe (15-19) 5 1.6; 17.2% of adolescents ... had moderate and severe misophonia symptoms",
+      "not_found": "severe1519516172ofadolescents"
+    },
+    {
+      "job": "R1090",
+      "sample": "Turkish high school and university students, online social-media convenience sam",
+      "item": "E5",
+      "quote": "Mild (Score 5-9) 131 40.7 ... Moderate (10-14) 50 15.5 ... Severe (15-19) 5 1.6; 57.2 % of the adolescent group ... showed mild or higher misophonia symptoms",
+      "not_found": "severe1519516572oftheadolescentgroup"
+    },
+    {
+      "job": "R1090",
+      "sample": "Turkish high school and university students, online social-media convenience sam",
+      "item": "E7",
+      "quote": "Moderate (10-14) ... 102 11.8 Severe (15-19) ... 7 0.8; 12.6% of adults had moderate and severe misophonia symptoms",
+      "not_found": "102118severe1519"
+    },
+    {
+      "job": "R1090",
+      "sample": "Turkish high school and university students, online social-media convenience sam",
+      "item": "E8",
+      "quote": "Mild (Score 5-9) ... 366 42.3 ... 102 11.8 ... 7 0.8; 54.8% of the adult group showed mild or higher misophonia symptoms",
+      "not_found": "708548oftheadultgroupshowedmildorhighermisophoniasymptoms"
+    },
+    {
+      "job": "R0947",
+      "sample": "Medical students, Faculty of Medicine, Serbia (inferred), 2013, n=1132",
+      "item": "E8",
+      "quote": "Criterion 1 ... 120 (16.6); Criterion 2 ... 92 (12.7); Criterion 3 ... 94 (13.0); Criterion 4 ... 43 (5.9); Criterion 5 ... 19 (2.6)",
+      "not_found": "120166criterion2"
+    },
+    {
+      "job": "R0947",
+      "sample": "Medical students, Faculty of Medicine, Serbia (inferred), 2013, n=1132",
+      "item": "E9",
+      "quote": "Criterion 1 ... 67 (16.4); Criterion 2 ... 48 (11.7); Criterion 3 ... 52 (12.7); Criterion 4 ... 28 (6.8); Criterion 5 ... 12 (2.9)",
+      "not_found": "67164criterion2"
+    },
+    {
+      "job": "R0625",
+      "sample": "Students (technical/high school, adult education and undergraduate), Federal Ins",
+      "item": "E1",
+      "quote": "we assessed misophonia using the MisoQuest tool, with scores ranging from 14 to 70 and a predefined cutoff value of 61 [14,22]. Considering this value, 4.5% of the participants were positive for misophonia.",
+      "not_found": "weassessedmisophoniausingthemisoquesttoolwithscoresrangingfrom14to70andapredefinedcutoffvalueof61consideringthisvalue45oftheparticipantswerepositiveformisophoni"
+    },
+    {
+      "job": "R0625",
+      "sample": "Students (technical/high school, adult education and undergraduate), Federal Ins",
+      "item": "E3",
+      "quote": "8,2% dos que se autodeclaram misofônicos tiveram diagnóstico confirmado pelo Misoquest [8.2% of self-declarers had diagnosis confirmed by MisoQuest]; 99,7% dos indivíduos que responderam ‘não sei’ e ‘não’ apresentaram score abaixo de 61.",
+      "not_found": "82dosqueseautodeclarammisofônicostiveramdiagnósticoconfirmadopelomisoquest997dosindivíduosqueresponderamnãoseienãoapresentaramscoreabaixode61"
+    },
+    {
+      "job": "R0733",
+      "sample": "Youth with suspected anxiety disorders (comparison group), recruited online, USA",
+      "item": "E1",
+      "quote": "of the 140 in the anxiety group, 94 were included. Reasons for exclusion in the anxiety group included: MASC score below the clinical cutoff, n = 26 (19%), A-MISO-S score too high, 9 (6%)",
+      "not_found": "ofthe140intheanxietygroup94wereincludedreasonsforexclusionintheanxietygroupincludedmascscorebelowtheclinicalcutoffn2619amisosscoretoohigh96"
+    },
+    {
+      "job": "R0733",
+      "sample": "Youth with suspected anxiety disorders (comparison group), recruited online, USA",
+      "item": "n_analysed",
+      "quote": "of the 140 in the anxiety group, 94 were included. Reasons for exclusion in the anxiety group included: MASC score below the clinical cutoff, n = 26 (19%), A-MISO-S score too high, 9 (6%)",
+      "not_found": "ofthe140intheanxietygroup94wereincludedreasonsforexclusionintheanxietygroupincludedmascscorebelowtheclinicalcutoffn2619amisosscoretoohigh96"
+    },
+    {
+      "job": "R0733",
+      "sample": "Youth with suspected anxiety disorders (comparison group), recruited online, USA",
+      "item": "population",
+      "quote": "Youth with suspected anxiety disorders were also recruited to serve as a non-misophonia clinical comparison group",
+      "not_found": "youthwithsuspectedanxietydisorderswerealsorecruitedtoserveasanonmisophoniaclinicalcomparisongroup"
+    },
+    {
+      "job": "R1018",
+      "sample": "International online tinnitus survey (COVID-19), adults with tinnitus, n=2,980",
+      "item": "sampling",
+      "quote": "distributed via patient organizations' social media outlets (i.e., Twitter, LinkedIn, and Facebook) and tinnitus clinics",
+      "not_found": "distributedviapatientorganizationssocialmediaoutletsietwitterlinkedinandfacebookandtinnitusclinics"
+    },
+    {
+      "job": "R0925",
+      "sample": "MS outpatients, Ankara City Hospital, Turkey, n=59",
+      "item": "E1",
+      "quote": "MS (n=59) ... Misophonia Absent 37 (62.7) Present 22; the frequency of misophonia was significantly higher in the MS group (37.3%)",
+      "not_found": "misophoniaabsent37627present22thefrequencyofmisophoniawassignificantlyhigherinthemsgroup373"
+    },
+    {
+      "job": "R0925",
+      "sample": "MS outpatients, Ankara City Hospital, Turkey, n=59",
+      "item": "n_analysed",
+      "quote": "MS (n=59) ... Absent 37 (62.7) ... Present 22",
+      "not_found": "absent37627"
+    },
+    {
+      "job": "R0925",
+      "sample": "Healthy controls, Ankara (Turkey), n=63 (62 classified)",
+      "item": "E1",
+      "quote": "Control (n=63) ... Absent 50 (80.6) ... Present 12; compared to controls (19.4%)",
+      "not_found": "present12comparedtocontrols194"
+    },
+    {
+      "job": "R0977",
+      "sample": "Survey-company online panel of adults (社会人), Japan, n=400 (Tada et al. 2022)",
+      "item": "E1",
+      "quote": "The prevalence of misophonia... was estimated at 54 %. / 分析対象を大学生に限定した場合，音嫌悪症の割合は41.4 % であった。",
+      "not_found": "wasestimatedat54分析対象を大学生に限定した場合音嫌悪症の割合は414であった"
+    },
+    {
+      "job": "R0977",
+      "sample": "Survey-company online panel of adults (社会人), Japan, n=400 (Tada et al. 2022)",
+      "item": "E2",
+      "quote": "The prevalence of misophonia, previously unknown in Japan, was estimated at 54 %. / MQ 得点に基づく音嫌悪症を呈する割合は，驚くべきことに50 % を超えていた。",
+      "not_found": "theprevalenceofmisophoniapreviouslyunknowninjapanwasestimatedat54mq得点に基づく音嫌悪症を呈する割合は驚くべきことに50を超えていた"
+    },
+    {
+      "job": "R0858",
+      "sample": "Mysore University students, India, online survey, n=170",
+      "item": "E4",
+      "quote": "15-19 0 (0%) Severe; The maximum score obtained was 14",
+      "not_found": "151900severethemaximumscoreobtainedwas14"
+    },
+    {
+      "job": "R0858",
+      "sample": "Mysore University students, India, online survey, n=170",
+      "item": "E6",
+      "quote": "25-37 4 (2.35%) Moderate; 38-50 2 (1.18%) Severe",
+      "not_found": "25374235moderate38502118severe"
+    },
+    {
+      "job": "R0068",
+      "sample": "Laboratory hyperacusis-test validation sample, Québec City, Canada (n=49; 20 hyp",
+      "item": "population",
+      "quote": "recruitment ads distributed to subscribers of a research participant mailing list created by Université Laval (listesULrecherche)",
+      "not_found": "recruitmentadsdistributedtosubscribersofaresearchparticipantmailinglistcreatedbyuniversitélavallistesulrecherche"
+    },
+    {
+      "job": "R0204",
+      "sample": "Child and adolescent psychiatry outpatients, Ankara, Türkiye, n=200",
+      "item": "E5",
+      "quote": "Misophonia (+) (n = 94) ... females ... (72.3%); Male 77 (38.5)",
+      "not_found": "723male77385"
+    }
+  ]
+}

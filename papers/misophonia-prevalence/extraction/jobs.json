@@ -1,0 +1,1139 @@
+[
+ {
+  "job_id": "R0031",
+  "study_id": "ST001",
+  "main": "R0031",
+  "attached": [
+   "R0267"
+  ],
+  "listed_only": [],
+  "link_reason": "bioRxiv preprint (R0267) and article (R0031): same 140 adults, 128 from Prolific (Black et al.)",
+  "samples": "Extract the Prolific subsample (n = 128) only; the 12 volunteers from misophonia newsletters are a selected group (E1): list them in excluded_samples.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0057",
+  "study_id": "ST005",
+  "main": "R0057",
+  "attached": [
+   "R0441"
+  ],
+  "listed_only": [],
+  "link_reason": "NDD study (Dwyer et al. 2024): R0057 says the sample is described in Dwyer et al. 2024; R0441 reports it as the 'NDD' sample (n = 478 there, 492 in R0057)",
+  "samples": "Extract the groups recruited by diagnostic status as separate samples (comparison group without autism or ADHD; ADHD only; autistic only; autistic and ADHD).",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0196",
+  "study_id": "ST019",
+  "main": "R0196",
+  "attached": [
+   "R0195"
+  ],
+  "listed_only": [],
+  "link_reason": "medRxiv preprint (R0195) and article (R0196): same 1,050 autistic adults of the Netherlands Autism Register",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0350",
+  "study_id": "ST026",
+  "main": "R0350",
+  "attached": [
+   "R0349",
+   "R0197",
+   "R0437"
+  ],
+  "listed_only": [],
+  "link_reason": "Wilfrid Laurier University undergraduate survey 2023-24 (N about 2,080-2,095): PsyArXiv preprint R0349 and PLoS ONE article R0350; R0197 and R0437 analyse the same survey and cite it",
+  "samples": "One sample (Wilfrid Laurier undergraduates). Take the counts from the main report; where the attached reports give a different count for the same definition, keep the main report's value and describe the difference in consistency_notes.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0393",
+  "study_id": "ST031",
+  "main": "R0393",
+  "attached": [
+   "R0811"
+  ],
+  "listed_only": [],
+  "link_reason": "ALSPAC 'Life at 28+' wave, Sussex Screener for Misophonia: both report 333 of 4,253",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0441",
+  "study_id": "ST005",
+  "main": "R0441",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "Williams dissertation chapter: only the AUT sample (n = 295) is reported nowhere else; PROA is extracted from R0998 and NDD from R0057; ClinDST and LAB were recruited partly for sound intolerance (E1)",
+  "samples": "Extract only the AUT sample (autistic adults, n = 295). Do not extract PROA (extracted from R0998), NDD (extracted from R0057), ClinDST or LAB (recruited partly for sound intolerance); list them in excluded_samples.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0446",
+  "study_id": "ST034",
+  "main": "R0446",
+  "attached": [
+   "R0660"
+  ],
+  "listed_only": [],
+  "link_reason": "Japanese university students (n = 439, 2023): article R0446 and convention abstract R0660",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0625",
+  "study_id": "ST045",
+  "main": "R0625",
+  "attached": [
+   "R0522"
+  ],
+  "listed_only": [],
+  "link_reason": "Federal Institute of Goias students: both cite ethics approval 5.631.371; the 322 undergraduates of R0522 are probably part of the 549 students of R0625",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0823",
+  "study_id": "ST058",
+  "main": "R0823",
+  "attached": [
+   "R0822",
+   "R0986"
+  ],
+  "listed_only": [],
+  "link_reason": "UK representative Prolific sample (n = 772, S-Five): UK Data Service record R0822, preprint R0986, PLoS ONE article R0823",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0941",
+  "study_id": "ST071",
+  "main": "R0941",
+  "attached": [
+   "R0260",
+   "R0488"
+  ],
+  "listed_only": [],
+  "link_reason": "University of Oklahoma 343 undergraduates (Norris et al. 2022); the two tutorials R0260 and R0488 reuse a listwise-deleted subset of this dataset and cite it",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R0082 (ST012): Both University of Oklahoma students with the MQ (777 vs 343); R0082 calls its data 'collected for other purposes' and does not say it reuses Norris et al. 2022"
+  ]
+ },
+ {
+  "job_id": "R0956",
+  "study_id": "ST073",
+  "main": "R0956",
+  "attached": [
+   "R0787"
+  ],
+  "listed_only": [],
+  "link_reason": "Multisense cohort, 142 children aged 10-14 tested Nov 2020-Mar 2021: R0787 Experiment 2 is the same sample as R0956",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0963",
+  "study_id": "ST074",
+  "main": "R0963",
+  "attached": [
+   "R0940"
+  ],
+  "listed_only": [],
+  "link_reason": "UC Santa Cruz Study 3 (n = 102): OSF record R0940 and Frontiers article R0963",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0972",
+  "study_id": "ST076",
+  "main": "R0972",
+  "attached": [
+   "R0973"
+  ],
+  "listed_only": [],
+  "link_reason": "23andMe chewing-rage item (n = 80,607): medRxiv preprint R0973 and article R0972",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0985",
+  "study_id": "ST078",
+  "main": "R0985",
+  "attached": [
+   "R0984"
+  ],
+  "listed_only": [],
+  "link_reason": "Mandarin S-Five sample (n = 256): PsyArXiv preprint R0984 and article R0985",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0998",
+  "study_id": "ST005",
+  "main": "R0998",
+  "attached": [
+   "R0652",
+   "R0440"
+  ],
+  "listed_only": [
+   "R0441"
+  ],
+  "link_reason": "Williams et al.: Prolific general-population adults (n = 1,403; 'PROA' in R0441) and SPARK autistic adults (n = 936; also R0652, R0440 and the dissertation chapter R0441)",
+  "samples": "Extract two samples: (1) Prolific general-population adults (n = 1,403); (2) SPARK autistic adults (n = 936).",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1056",
+  "study_id": "ST082",
+  "main": "R1056",
+  "attached": [
+   "R1055"
+  ],
+  "listed_only": [],
+  "link_reason": "Misokinesia samples (pilot 2,751; Study 1 650; Study 2 765): Research Square preprint R1055 and Scientific Reports article R1056",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1086",
+  "study_id": "ST086",
+  "main": "R1086",
+  "attached": [
+   "R0489"
+  ],
+  "listed_only": [],
+  "link_reason": "Duke Misophonia Questionnaire development: the ResearchGate record R0489 carries the text of the Frontiers article R1086 (same MTurk Phase 2 sample, n = 424)",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1137",
+  "study_id": "ST089",
+  "main": "R1137",
+  "attached": [
+   "R1146"
+  ],
+  "listed_only": [],
+  "link_reason": "Two Coimbra master's theses on the same 44 patients (primary care, Aveiro; psychiatric outpatients, Coimbra; Oct-Nov 2018)",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1188",
+  "study_id": "ST092",
+  "main": "R1188",
+  "attached": [
+   "R0810"
+  ],
+  "listed_only": [],
+  "link_reason": "Siepsiak et al. 2020, depression inpatients (n = 94): the doctoral thesis R0810 reproduces the article",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0035",
+  "study_id": "ST002",
+  "main": "R0035",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0044",
+  "study_id": "ST003",
+  "main": "R0044",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0048",
+  "study_id": "ST004",
+  "main": "R0048",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0058",
+  "study_id": "ST006",
+  "main": "R0058",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0061",
+  "study_id": "ST007",
+  "main": "R0061",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0068",
+  "study_id": "ST008",
+  "main": "R0068",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0069",
+  "study_id": "ST009",
+  "main": "R0069",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0075",
+  "study_id": "ST010",
+  "main": "R0075",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0077",
+  "study_id": "ST011",
+  "main": "R0077",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0082",
+  "study_id": "ST012",
+  "main": "R0082",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R0941 (ST071): Both University of Oklahoma students with the MQ (777 vs 343); R0082 calls its data 'collected for other purposes' and does not say it reuses Norris et al. 2022"
+  ]
+ },
+ {
+  "job_id": "R0094",
+  "study_id": "ST013",
+  "main": "R0094",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0118",
+  "study_id": "ST014",
+  "main": "R0118",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0150",
+  "study_id": "ST015",
+  "main": "R0150",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0158",
+  "study_id": "ST016",
+  "main": "R0158",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0161",
+  "study_id": "ST017",
+  "main": "R0161",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0164",
+  "study_id": "ST018",
+  "main": "R0164",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0204",
+  "study_id": "ST020",
+  "main": "R0204",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0210",
+  "study_id": "ST021",
+  "main": "R0210",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0236",
+  "study_id": "ST022",
+  "main": "R0236",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0274",
+  "study_id": "ST023",
+  "main": "R0274",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0314",
+  "study_id": "ST024",
+  "main": "R0314",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R0368 (ST027), R0385 (ST030), R0910 (ST067): Carnegie Mellon University experiments of one lab; separate experiments and years, participant pools may overlap"
+  ]
+ },
+ {
+  "job_id": "R0323",
+  "study_id": "ST025",
+  "main": "R0323",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0368",
+  "study_id": "ST027",
+  "main": "R0368",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R0314 (ST024), R0385 (ST030), R0910 (ST067): Carnegie Mellon University experiments of one lab; separate experiments and years, participant pools may overlap"
+  ]
+ },
+ {
+  "job_id": "R0375",
+  "study_id": "ST028",
+  "main": "R0375",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0381",
+  "study_id": "ST029",
+  "main": "R0381",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0385",
+  "study_id": "ST030",
+  "main": "R0385",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R0314 (ST024), R0368 (ST027), R0910 (ST067): Carnegie Mellon University experiments of one lab; separate experiments and years, participant pools may overlap"
+  ]
+ },
+ {
+  "job_id": "R0399",
+  "study_id": "ST032",
+  "main": "R0399",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0431",
+  "study_id": "ST033",
+  "main": "R0431",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0468",
+  "study_id": "ST035",
+  "main": "R0468",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0476",
+  "study_id": "ST036",
+  "main": "R0476",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0484",
+  "study_id": "ST037",
+  "main": "R0484",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0485",
+  "study_id": "ST038",
+  "main": "R0485",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0506",
+  "study_id": "ST039",
+  "main": "R0506",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0524",
+  "study_id": "ST040",
+  "main": "R0524",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0528",
+  "study_id": "ST041",
+  "main": "R0528",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0555",
+  "study_id": "ST042",
+  "main": "R0555",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0583",
+  "study_id": "ST043",
+  "main": "R0583",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0585",
+  "study_id": "ST044",
+  "main": "R0585",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0626",
+  "study_id": "ST046",
+  "main": "R0626",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0629",
+  "study_id": "ST047",
+  "main": "R0629",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0636",
+  "study_id": "ST048",
+  "main": "R0636",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0651",
+  "study_id": "ST049",
+  "main": "R0651",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0664",
+  "study_id": "ST050",
+  "main": "R0664",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0717",
+  "study_id": "ST051",
+  "main": "R0717",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0733",
+  "study_id": "ST052",
+  "main": "R0733",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "A corrigendum to this article exists (10.1016/j.jad.2023.11.045, 2024; found through Crossref); its text was not available. Mention it in the sample notes.",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0766",
+  "study_id": "ST053",
+  "main": "R0766",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0777",
+  "study_id": "ST054",
+  "main": "R0777",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0779",
+  "study_id": "ST055",
+  "main": "R0779",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0794",
+  "study_id": "ST056",
+  "main": "R0794",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R1182 (ST091): Both Baskent University students, same first author (119 vs 638); R0794 cites R1182 as a separate study"
+  ]
+ },
+ {
+  "job_id": "R0821",
+  "study_id": "ST057",
+  "main": "R0821",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0832",
+  "study_id": "ST059",
+  "main": "R0832",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0833",
+  "study_id": "ST060",
+  "main": "R0833",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0851",
+  "study_id": "ST061",
+  "main": "R0851",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0854",
+  "study_id": "ST062",
+  "main": "R0854",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0858",
+  "study_id": "ST063",
+  "main": "R0858",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0861",
+  "study_id": "ST064",
+  "main": "R0861",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0906",
+  "study_id": "ST065",
+  "main": "R0906",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0907",
+  "study_id": "ST066",
+  "main": "R0907",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0910",
+  "study_id": "ST067",
+  "main": "R0910",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R0314 (ST024), R0368 (ST027), R0385 (ST030): Carnegie Mellon University experiments of one lab; separate experiments and years, participant pools may overlap"
+  ]
+ },
+ {
+  "job_id": "R0912",
+  "study_id": "ST068",
+  "main": "R0912",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0922",
+  "study_id": "ST069",
+  "main": "R0922",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0925",
+  "study_id": "ST070",
+  "main": "R0925",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0947",
+  "study_id": "ST072",
+  "main": "R0947",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0964",
+  "study_id": "ST075",
+  "main": "R0964",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R0977",
+  "study_id": "ST077",
+  "main": "R0977",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1001",
+  "study_id": "ST079",
+  "main": "R1001",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1018",
+  "study_id": "ST080",
+  "main": "R1018",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1040",
+  "study_id": "ST081",
+  "main": "R1040",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1062",
+  "study_id": "ST083",
+  "main": "R1062",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1066",
+  "study_id": "ST084",
+  "main": "R1066",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1071",
+  "study_id": "ST085",
+  "main": "R1071",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1090",
+  "study_id": "ST087",
+  "main": "R1090",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1101",
+  "study_id": "ST088",
+  "main": "R1101",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1139",
+  "study_id": "ST090",
+  "main": "R1139",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1182",
+  "study_id": "ST091",
+  "main": "R1182",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": [
+   "possible overlap with R0794 (ST056): Both Baskent University students, same first author (119 vs 638); R0794 cites R1182 as a separate study"
+  ]
+ },
+ {
+  "job_id": "R1198",
+  "study_id": "ST093",
+  "main": "R1198",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1298",
+  "study_id": "ST094",
+  "main": "R1298",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R1402",
+  "study_id": "ST095",
+  "main": "R1402",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R2119",
+  "study_id": "ST096",
+  "main": "R2119",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ }
+]

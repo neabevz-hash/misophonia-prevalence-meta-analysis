@@ -1,0 +1,124 @@
+[judge] 112 items, 0 done, 112 to judge -> C:\Users\user\articles\papers\misophonia-prevalence\fulltext\llm\ft_chase_2026-10-15.jsonl
+[judge ok 1/112] R2112 7.0s
+[judge ok 2/112] R2042 7.1s
+[judge ok 3/112] R2139 8.5s
+[judge ok 4/112] R2051 10.6s
+[judge ok 5/112] R2020 6.6s
+[judge ok 6/112] R2089 6.9s
+[judge ok 7/112] R2118 6.5s
+[judge ok 8/112] R2101 6.7s
+[judge ok 9/112] R2125 6.1s
+[judge ok 10/112] R2054 9.8s
+[judge ok 11/112] R2045 7.3s
+[judge ok 12/112] R2060 6.4s
+[judge ok 13/112] R2031 7.1s
+[judge ok 14/112] R2111 7.0s
+[judge ok 15/112] R2026 6.9s
+[judge ok 16/112] R2100 6.8s
+[judge ok 17/112] R2068 6.5s
+[judge ok 18/112] R2011 6.8s
+[judge ok 19/112] R2059 6.8s
+[judge ok 20/112] R2140 6.9s
+[judge ok 21/112] R2079 6.9s
+[judge ok 22/112] R2034 7.9s
+[judge ok 23/112] R2062 10.0s
+[judge ok 24/112] R2067 8.6s
+[judge ok 25/112] R2070 9.4s
+[judge ok 26/112] R2108 6.8s
+[judge ok 27/112] R2078 7.0s
+[judge ok 28/112] R2028 7.7s
+[judge ok 29/112] R2053 8.8s
+[judge ok 30/112] R2050 8.6s
+[judge ok 31/112] R2023 8.7s
+[judge ok 32/112] R2074 7.4s
+[judge ok 33/112] R2104 7.7s
+[judge ok 34/112] R2115 7.1s
+[judge ok 35/112] R2121 9.5s
+[judge ok 36/112] R2099 10.3s
+[judge ok 37/112] R2041 8.3s
+[judge ok 38/112] R2065 11.3s
+[judge ok 39/112] R2063 8.4s
+[judge ok 40/112] R2038 6.8s
+[judge ok 41/112] R2032 8.7s
+[judge ok 42/112] R2130 6.9s
+[judge ok 43/112] R2005 7.1s
+[judge ok 44/112] R2091 9.0s
+[judge ok 45/112] R2075 8.3s
+[judge ok 46/112] R2138 5.9s
+[judge ok 47/112] R2135 7.4s
+[judge ok 48/112] R2056 8.1s
+[judge ok 49/112] R2077 9.9s
+[judge ok 50/112] R2073 9.4s
+[judge ok 51/112] R2076 8.4s
+[judge ok 52/112] R2004 7.4s
+[judge ok 53/112] R2043 6.9s
+[judge ok 54/112] R2027 7.5s
+[judge ok 55/112] R2080 7.6s
+[judge ok 56/112] R2058 7.0s
+[judge ok 57/112] R2117 8.0s
+[judge ok 58/112] R2037 15.4s
+[judge ok 59/112] R2083 14.4s
+[judge ok 60/112] R2044 10.2s
+[judge ok 61/112] R2048 6.8s
+[judge ok 62/112] R2029 6.7s
+[judge ok 63/112] R2036 7.2s
+[judge ok 64/112] R2113 7.4s
+[judge ok 65/112] R2129 6.7s
+[judge ok 66/112] R2136 6.8s
+[judge fail] R2007: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R2093: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R2116: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R2103: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R2087: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R2072: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R2015: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R2124: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge ok 67/112] R2016 45.3s
+[judge ok 68/112] R2049 46.7s
+[judge ok 69/112] R2126 6.7s
+[judge ok 70/112] R2071 7.9s
+[judge ok 71/112] R2090 6.8s
+[judge ok 72/112] R2046 7.4s
+[judge ok 73/112] R2094 12.2s
+[judge ok 74/112] R2055 6.8s
+[judge ok 75/112] R2014 7.7s
+[judge ok 76/112] R2025 10.1s
+[judge ok 77/112] R2114 15.2s
+[judge ok 78/112] R2069 6.8s
+[judge ok 79/112] R2021 13.8s
+[judge ok 80/112] R2107 9.2s
+[judge ok 81/112] R2052 10.6s
+[judge ok 82/112] R2084 7.4s
+[judge ok 83/112] R2098 9.3s
+[judge ok 84/112] R2013 7.1s
+[judge ok 85/112] R2120 15.0s
+[judge ok 86/112] R2119 16.7s
+[judge ok 87/112] R2134 8.9s
+[judge ok 88/112] R2040 7.0s
+[judge ok 89/112] R2030 6.7s
+[judge ok 90/112] R2137 7.6s
+[judge ok 91/112] R2039 12.2s
+[judge ok 92/112] R2064 20.5s
+[judge ok 93/112] R2012 6.9s
+[judge ok 94/112] R2109 8.9s
+[judge ok 95/112] R2081 11.9s
+[judge ok 96/112] R2122 10.1s
+[judge ok 97/112] R2131 7.1s
+[judge ok 98/112] R2088 9.2s
+[judge ok 99/112] R2008 6.8s
+[judge ok 100/112] R2009 7.1s
+[judge ok 101/112] R2002 10.1s
+[judge ok 102/112] R2128 9.1s
+[judge ok 103/112] R2003 11.5s
+[judge ok 104/112] R2066 7.0s
+[judge] finished: 104 ok, 8 failed
+[judge] 112 items, 104 done, 8 to judge -> C:\Users\user\articles\papers\misophonia-prevalence\fulltext\llm\ft_chase_2026-10-15.jsonl
+[judge ok 1/8] R2015 7.8s
+[judge ok 2/8] R2087 9.1s
+[judge ok 3/8] R2093 14.0s
+[judge ok 4/8] R2072 15.9s
+[judge ok 5/8] R2103 7.2s
+[judge ok 6/8] R2007 8.1s
+[judge ok 7/8] R2124 18.8s
+[judge ok 8/8] R2116 11.8s
+[judge] finished: 8 ok, 0 failed

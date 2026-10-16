@@ -1,0 +1,100 @@
+estimate_id,sample_id,subgroup,instrument,threshold,level,cases,n,notes
+E0019,S004,all,MQ,MQ score >=14 (apparently MQ total 0-68; cut-off borrowed from Jakubovski et al. 2022),L0,90,144,"Which MQ score the 14 was applied to is not stated. If it was the Symptom Scale (as in Jakubovski 2022), the level would be L1. A sample mean total of 19.51 (SD 12.43) fits a total-score cut-off. Denominator: patients who completed baseline and 90-day questionnaires."
+E0020,S004,mild tinnitus (THI 18-36),MQ,MQ score >=14 (apparently MQ total 0-68),L0,26,47,Clinical subgroup defined by THI severity
+E0021,S004,moderate tinnitus (THI 38-56),MQ,MQ score >=14 (apparently MQ total 0-68),L0,40,59,Clinical subgroup defined by THI severity
+E0022,S004,severe+ tinnitus (THI 58-100),MQ,MQ score >=14 (apparently MQ total 0-68),L0,24,38,Clinical subgroup defined by THI severity
+E0034,S010,all,DVMSQ,DVMSQ screening item S1 = Yes (specific sounds extremely bothersome),L0,833,1403,Screening item only; not a case definition.
+E0040,S011,all,DVMSQ,DVMSQ screening item S1 = Yes (specific sounds extremely bothersome),L0,647,936,Table 3 gives 647; text says 645 S1-positive completed the full measure; R0652 Table 1 gives 69.1%.
+E0054,S014,all,adhoc,self-reported being bothered/disgusted by specific sounds AND named sounds are known misophonia triggers (open answer judged by researchers),L0,20,43,No distress/impairment or misophonia self-identification required. The authors did not report a prevalence; the item was used to compare groups and as an exploratory ROC criterion.
+E0055,S014,hyperacusis,adhoc,self-reported being bothered/disgusted by specific sounds AND named sounds are known misophonia triggers,L0,10,18,"The hyperacusis subgroup was labelled within the sample (>=2 of: self-reported hypersensitivity, HQ>=22, LDLmin<=77 dB HL); n<139."
+E0056,S014,controls (no hyperacusis),adhoc,self-reported being bothered/disgusted by specific sounds AND named sounds are known misophonia triggers,L0,10,25,
+E0064,S019,all,other,predicted MQ total >=30 (MQ total predicted from 30 AASP items via regression),E2,31,162,Cut-off 30 from Möllmann et al. 2023. Authors say the percentage matches prior UK prevalence; not explicitly called the main estimate. 'above' vs '≥' wording.
+E0065,S019,all (after fMRI quality control),other,predicted MQ total >=30 (MQ total predicted from AASP),E2,29,153,Subset after excluding 9 participants for fMRI quality issues; same definition as the 31/162 estimate.
+E0080,S022,all,SMS-Adolescent,>=1 (misophonia-relevant) repetitive sound endorsed on SMS-A Part 1,L0,193,214,"Trigger endorsement only; listed, not pooled."
+E0081,S023,all,MAQ,"not stated: yes/no screen positive and MAQ completed (MAQ bands 0-11 subclinical, 12-24 mild, ...); exact threshold for 'misophonia' not given",NR,76,450,"Case definition unclear: it could be screen-positive alone or a MAQ band (e.g., >=12 mild). Because co-occurrence (8.89%) is higher than misokinesia (5.34%), 16.89% may mean 'misophonia only'. If so, any misophonia would be 76 + 40 = 116/450 (25.8%). Not resolvable from the text."
+E0082,S024,all,DMQ,'elevated levels of misophonia' / 'met the criteria for Misophonia' on Urdu DMQ; criterion not stated,NR,428,2000,"428/2000 = 21.4% (not reported by the authors). The Sample section says: 'Participants who met the criteria for Misophonia were retained for further screening.' The criteria are not stated. The denominator may be 2000, or 2009 (2021-12)."
+E0083,S024,all,DMQ,"symptom/trigger frequency >=4-7 times per week (applied after the unstated 'elevated' selection, apparently within the n=428)",NR,196,2000,"The denominator is unclear. The Procedure section implies the filter was applied to the n=428; the Abstract implies it was applied to all remaining participants. The filter kept those reporting 4-7 times/week, 2-5 times/day or 6+ times/day; the frequency item is not specified. This was an analytic filter, not a case definition."
+E0116,S029,all,adhoc,'yes' to screening question on being disturbed/triggered by specific sounds (self-completed),L0,244,499,"Listed, not pooled."
+E0117,S029,female,multiple,screening question 'yes' AND MQ Misophonia Severity Scale >=7,L2,45,NR,"Number of females among the 499 screened is not reported, so there is no denominator; 45 females in the clinical group."
+E0118,S029,male,multiple,screening question 'yes' AND MQ Misophonia Severity Scale >=7,L2,36,NR,"Number of males among the 499 screened is not reported, so there is no denominator; 36 males in the clinical group."
+E0119,S030,all,A-MISO-S,A-MISO-S score 1-24 (>=1),L0,36,283,"12.7%. The text does not say explicitly that the 1-24 rule was applied at screening (it is stated for group allocation). L0: listed, not pooled."
+E0152,S038,all,multiple,clinical misophonia (any measure) or hyperacusis (IHS),E2,374,2080,"Listed, not pooled. IHS cut-off for hyperacusis not specified for this combination (56 or 69). Comorbid 'both conditions' 13% (n = 280) not extracted as an estimate."
+E0157,S040,all,AMISOS-R,at least one misophonic trigger sound endorsed on the AMISOS-R trigger checklist,L0,844,2522,The abstract says 33.3% and the Discussion 34%; 844/2522 = 33.5%.
+E0160,S040,female,AMISOS-R,at least one misophonic trigger sound endorsed on the AMISOS-R trigger checklist,L0,507,1296,Derived from column percentages in Table 1.
+E0163,S040,male,AMISOS-R,at least one misophonic trigger sound endorsed on the AMISOS-R trigger checklist,L0,335,1221,Derived from column percentages in Table 1.
+E0164,S041,all,adhoc,not stated: 'met the criteria for misophonia' (screening on the study's general questionnaire; criteria not reported),NR,2615,10000,"Instrument coded adhoc on the assumption that cases came from the screening items; the report does not say. The A-MISO-S subsample (n=200) scored 1-4, which is subclinical by A-MISO-S bands."
+E0165,S041,all,adhoc,severity moderate or severe among misophonia cases (instrument and band cut-offs not stated),NR,889,10000,The severity bands do not match the A-MISO-S subsample data (range 1-4).
+E0166,S041,all,adhoc,severity severe among misophonia cases (instrument and band cut-offs not stated),NR,262,10000,
+E0167,S041,all,adhoc,"any reported sound sensitivity/intolerance or misophonia (437 subclinical + 2,615 misophonia)",L0,3052,10000,Reviewer-derived union; the authors do not report it as an estimate.
+E0168,S041,female,adhoc,not stated: 'met the criteria for misophonia',NR,1780,3927,"Denominator = 3,927 females in the normal-hearing group (Page 4)."
+E0169,S041,male,adhoc,not stated: 'met the criteria for misophonia',NR,835,6073,"Denominator = 6,073 males in the normal-hearing group (Page 4)."
+E0170,S042,all,adhoc,not stated: 'showed comorbid misophonia' / 'met criteria for misophonia',NR,85,500,Instrument coded adhoc by assumption (screen items); the criteria are not reported. Table 1 lists only 74 tinnitus participants without misophonia.
+E0171,S042,all,adhoc,severity moderate or severe among misophonia cases (instrument and band cut-offs not stated),NR,65,500,"Only 7 cases had A-MISO-S data (mean 6.4, range 3-10), so the basis of the bands is unclear."
+E0172,S042,all,adhoc,severity severe among misophonia cases (instrument not stated),NR,28,500,
+E0173,S042,female,adhoc,not stated,NR,61,135,Denominator = 135 females in the tinnitus group (Page 4).
+E0174,S042,male,adhoc,not stated,NR,24,365,Denominator = 365 males in the tinnitus group (Page 4).
+E0194,S049,all,MAQ,'misophonia' = MAQ score above an unstated threshold inside the subclinical band (0-11); includes 87 subclinical scorers,L0,107,341,"Headline estimate. 87 of the 107 cases fall in the subclinical band (0-11), so the threshold lies inside the subclinical range but is never stated."
+E0198,S049,female,MAQ,'misophonia' = MAQ score above an unstated threshold inside the subclinical band (0-11),L0,74,232,
+E0202,S049,male,MAQ,'misophonia' = MAQ score above an unstated threshold inside the subclinical band (0-11),L0,33,109,
+E0207,S051,all,MisoQuest,MisoQuest score indicating 'significant misophonia' (cut-off not stated in the report),NR,98,451,"The cut-off is not stated. If the reviewer confirms (e.g., in Table 2) that the developer cut-off >=61 (Siepsiak 2020, ref 25) was used, recode to L2 with threshold 'MisoQuest>=61'. The MisoQuest language version is not stated."
+E0223,S055,all,A-MISO-S,"A-MISO-S >10 (text says 'above 10', labelled 'Moderate')",L2,NR,NR,"Not a prevalence estimate. 44 people were invited to the high group from those who passed the quality checks (number unknown) and possibly after demographic matching. So 44/300 (14.7%) is at most a lower bound, and the true count of screened people above threshold is not reported."
+E0227,S057,all,MQ,>=1 MQ Emotions-and-Behaviors item rated 4 ('always'),NR,4,30,"Authors don't present this as a misophonia case definition. A single E&B item at 4 gives a scale mean of only about 0.57, below any MQ cut-off. A reviewer might instead consider L1 under the ad hoc frequency rule. MSS-based counts (e.g. MSS>=7) were not reported; only mean SRSS 4.741 (SD 3.717)."
+E0228,S058,all,MQ,>=1 MQ Emotions-and-Behaviors item rated 4 ('always'),NR,0,28,"Not presented as a misophonia case definition. Only means reported otherwise (SRSS 2.478, SD 2.213)."
+E0240,S060,all,DMQ,DMQ Impairment (1-5 scoring) >=12 (mild or more; 12 is the scale minimum),L0,61,71,"Not a real case definition, because 12 is the lowest possible score. Listed only. 10 of 71 unclassified."
+E0242,S060,all,adhoc,'Do sounds or noises ever bother you?' = yes,L0,27,71,Not misophonia-specific. Listed only.
+E0249,S063,"undergraduates (R0522, n=322)",MisoQuest,MisoQuest total >=61,L2,NR,322,"Count over all 322 not given. About 8.2% x 182 self-declarers = 15, plus at most about 0-1 of the non-declarers (99.7% below 61 does not match an integer of about 140). Roughly 15/322 = 4.7%. Not computed as cases because of these inconsistencies."
+E0251,S065,all,interview,STI category 'phonophobia/misophonia',E2,32,216,"Not specific to misophonia (E2): listed, not pooled. It is unclear whether the categories are mutually exclusive, since they add up to 99.4%."
+E0252,S066,all,adhoc,annoyance from certain sounds (any; ad hoc questionnaire item),L0,29,60,"Parent and/or child report (unclear). Not specific to misophonia; L0, listed, not pooled."
+E0253,S066,all,adhoc,auditory hypersensitivity / sound intolerance (ad hoc; compared with parents' opinion),E2,5,60,"Parent report combined with the child's self-perception. The definition is framed as hyperacusis/sound intolerance, not misophonia."
+E0304,S070,all,DVMSQ,meets DVMSQ misophonia criteria per Williams et al. 2022 Table 2 (clinical vs subclinical not specified),NR,1,16,"Indirect derivation, not reported by the authors. If the 15 included the one comparison participant without DVMSQ data, cases could be 2 of 16. The authors do not present this as a prevalence estimate."
+E0342,S081,all,A-MISO-S,A-MISO-S>14 (>=15),L2,3,NR,"Screened denominator not reported: probably 33 (30 + 3), or 34 if the participant excluded for error rate is not among the 30. This is an exclusion criterion, not a prevalence estimate."
+E0343,S081,all,A-MISO-S,A-MISO-S > sample median 5.5,E3,15,30,15 of 30 per 'of which 15 were categorised in each group'. Denominator excludes the 3 participants with scores >14.
+E0344,S081,all,adhoc,self-reported misophonia (yes/no item),L1,NR,30,Count of self-reported misophonics not reported.
+E0345,S081,all,SMS-Adult,at least one trigger on SMS part 1 checklist,L0,23,30,"Trigger checklist only (part 1), not the SMS part 2 score."
+E0347,S082,all,SSSQ4,SSSQ4>=1 (2-14 days in last 2 weeks),L0,108,257,"Discussion: '42% of patients ... presented with some symptoms of misophonia' (108/257 = 42.0%). L0: listed, not pooled."
+E0376,S088,all,MisoQuest,mean of 2 MisoQuest items >=4.5 (5-point scale),L1,NR,39,"Experiment 1-specific count not reported in main text (only in Supplementary Figure S1, not available). Authors do not present this as a prevalence estimate."
+E0378,S089,all,MisoQuest,mean of 2 MisoQuest items >=4.5 (5-point scale),L1,NR,21,Experiment 2-specific count not reported in main text; combined 5/60 recorded under the Experiment 1 sample.
+E0379,S090,all,MQ,"MQ MSS>=7, then 'upper quartile of the clinical group' (as stated; contradictory)",NR,32,96,"Groups were formed for a case-control comparison, and the 96 may have been selected by MQ score from a larger study; this is not a prevalence estimate as reported. If MSS>=7 alone was the definition: L2, 33.3%."
+E0380,S090,female,MQ,"MQ MSS>=7, then 'upper quartile of the clinical group' (as stated; contradictory)",NR,19,67,Same caveats as the whole-sample estimate.
+E0381,S090,male,MQ,"MQ MSS>=7, then 'upper quartile of the clinical group' (as stated; contradictory)",NR,13,29,Same caveats as the whole-sample estimate.
+E0428,S096,all,SMS-Adolescent,SMS-Adolescent >=49 (90th percentile of sample),E3,15,142,"Prevalence ~10% fixed by the percentile threshold; listed, not pooled."
+E0429,S096,female,SMS-Adolescent,SMS-Adolescent >=49 (90th percentile of sample),E3,9,65,
+E0430,S096,male,SMS-Adolescent,SMS-Adolescent >=49 (90th percentile of sample),E3,6,77,
+E0434,S098,all,MisoQuest,MisoQuest >45 (top 20% of this sample),E3,66,300,"Top 20% chosen to match a 20% prevalence from the literature. 66/300 = 22%. Listed, not pooled."
+E0435,S098,female,MisoQuest,MisoQuest >45 (top 20% of this sample),E3,33,151,Denominator = 151 females in the whole sample (Section 2.1).
+E0436,S098,male,MisoQuest,MisoQuest >45 (top 20% of this sample),E3,33,149,Assumes sex was binary (149+151=300).
+E0452,S107,all,MAQ,MpAQ sum >=2,L0,460,650,"L0, not pooled. The authors' primary outcome is misokinesia (MkAQ)."
+E0453,S107,female,MAQ,MpAQ sum >=2,L0,366,514,"n = 514 females, from Participants; 366/514 = 71.2% matches."
+E0454,S107,male,MAQ,MpAQ sum >=2,L0,83,124,"n = 124 males, from Participants; 83/124 = 66.9% matches."
+E0458,S108,female,MAQ,MpAQ sum >=2,L0,188,244,"188/244 = 77.0%, but 77.1% is printed. Whole-sample count not reported."
+E0459,S108,male,MAQ,MpAQ sum >=2,L0,397,516,397/516 = 76.9% matches.
+E0468,S109,all,interview,≥1 MCL sound rated moderate or high (MSC ≥1),L0,427,541,"Trigger only; listed, not pooled"
+E0475,S110,all,MAQ,"Screen positive AND MAQ >=12 (mild or more, version A bands)",NR,25,27,"Denominator is MAQ completers only (27 of 46 screen-positives); not determinable over the 194 screened (lower bound 25/194). Band cut points are shown in Abb. 5, not in the text; version A assumed from the 5 bands subclinical-extreme."
+E0476,S110,all,MAQ,"Screen positive AND MAQ >=25 (moderate or more, version A bands)",NR,19,27,Among MAQ completers only; lower bound over screened 19/194.
+E0477,S110,all,MAQ,"Screen positive AND MAQ >=38 (severe or more, version A bands)",NR,10,27,Among MAQ completers only.
+E0478,S110,all,MAQ,"Screen positive AND MAQ >=51 (extreme, version A bands)",NR,3,27,Among MAQ completers only.
+E0500,S112,all,DMQ,DMQ Symptom Severity mean item score >=1.8 (total >=41.4),L2,NR,424,Count above cut-off not reported. Approximate back-calculation (not entered): 21 true positives + (1-0.91) x 403 non-cases ≈ 36 false positives → about 57/424 (range about 55-59 because specificity is rounded). Cut-off derived by ROC in this same sample (G8).
+E0501,S112,all,DMQ,DMQ Impairment total >=14 (moderate or more),E3,67,424,"Ranges were set on percentiles matched to MQ severity bands, so the share above the moderate cut-off equals the MQ >=7 share by construction. Unclear whether 84.20% refers to the DMQ or the MQ distribution."
+E0502,S112,all,DMQ,DMQ Impairment total >=39 (severe to very severe),E3,5,424,"Share above the cut-point inferred as 100 - 98.82; whether the boundary is inclusive is unclear. Discussion gives severe range as 39-49, Results 39-48."
+E0503,S112,all,adhoc,bothered by at least one sound/sight (did not select 'I am not bothered by any sounds'),L0,389,424,Not presented by the authors as a case definition; listed only as L0 description. Reviewer may drop.
+E0514,S115,all,A-MISO-S,A-MISO-S>=1 (score >0),L0,12,20,The >0 definition is used in Table IX for correlations
+E0518,S116,all,A-MISO-S,A-MISO-S>=1 (score >0),L0,10,24,
+E0532,S120,all,MQ,MSS>=1,L0,1373,1572,"Listed, not pooled."
+E0533,S120,all,multiple,"Latent class 'Misophonia' cluster (6-class LCA on MQ Total, MQ Severity, HQ Loudness and HQ subscales; indicators cut at sample SDs/means)",E3,215,1572,The authors' headline misophonia figure (abstract and discussion). Distribution-based; not pooled.
+E0534,S120,all,multiple,Latent class 'High DST' cluster (comorbid hyperacusis/misophonia),E3,376,1572,Not misophonia-specific; listed only.
+E0535,S120,all,multiple,Latent classes with both misophonia and hyperacusis symptoms (High DST + DST Attentional + DST Social),E3,749,1572,749/1572 = 47.6%.
+E0536,S120,female,multiple,Latent class 'Misophonia' cluster,E3,175,1154,"Table 4 percentages are within-cluster; 175/215 = 81.4%, but 81.1% is printed."
+E0537,S120,male,multiple,Latent class 'Misophonia' cluster,E3,40,412,
+E0538,S120,female,multiple,Latent class 'High DST' cluster,E3,301,1154,"High DST has 376 members, but 301 female + 70 male = 371; the remaining 5 are presumably 'other' gender."
+E0539,S120,male,multiple,Latent class 'High DST' cluster,E3,70,412,
+E0545,S121,"female, ASMR-positive students/acquaintances (ASMR Non-Social Media)",MQ,MQ Symptom Scale >=14,L1,NR,NR,Reported percentage is 70.8%. This is the ASMR-positive part of the same student/acquaintance recruitment; n is given only in the unavailable supplement.
+E0553,S123,all,A-MISO-S,A-MISO-S>=5 (among screen-positives completing the scale),NR,202,314,"Only screen-positives were given the scale. The screen-positive count (misophonia yes/sometimes 283 + tinnitus positives + DST positives) appears to exceed 314, so not all screen-positives completed it. Over all 451 screened this would be 202/451 (44.8%) if there were no other cases."
+E0554,S123,all,A-MISO-S,A-MISO-S>=10 (among screen-positives completing the scale),NR,69,314,Two-stage design with incomplete stage 2; 69/451 = 15.3% over all screened if all cases were captured.
+E0555,S123,all,A-MISO-S,A-MISO-S>=15 (among screen-positives completing the scale),NR,7,314,Two-stage design with incomplete stage 2.
+E0556,S123,all,adhoc,"screening item 'Compared to other people, are you sensitive to certain sounds made by other people?' = Yes",L0,83,448,Table 4b gives 18.4% (consistent with 83/451); Table 5b denominator is 448.
+E0557,S123,all,adhoc,screening item = Yes or Sometimes,L0,283,448,Table 4b gives 44.8% sometimes + 18.4% yes = 63.2%.
+E0559,S124,all,A-MISO-S,A-MISO-S>=5 (among screen-positives completing the scale),NR,154,228,Only screen-positives were given the scale; completeness of stage 2 cannot be determined; 154/375 = 41.1% over all screened if there were no other cases.
+E0560,S124,all,A-MISO-S,A-MISO-S>=10 (among screen-positives completing the scale),NR,54,228,Two-stage design; 54/375 = 14.4% over all screened if all cases were captured.
+E0561,S124,all,A-MISO-S,A-MISO-S>=15 (among screen-positives completing the scale),NR,11,228,Two-stage design with incomplete stage 2.
+E0563,S124,all,adhoc,screening item 'sensitive to certain sounds made by other people' = Yes,L0,49,368,Table 4b gives 13.5%.
+E0564,S124,all,adhoc,screening item = Yes or Sometimes,L0,213,368,Table 4b: 44.6% sometimes + 13.5% yes.

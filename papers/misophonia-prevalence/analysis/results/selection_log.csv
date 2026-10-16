@@ -1,0 +1,242 @@
+analysis,sample_id,estimate_id,level,instrument,threshold,cases,n,candidates,rule
+primary L2/L3,S001,E0001,L2,S-Five,S-Five total >=87,24,128,1,only estimate
+primary L2/L3,S003,E0003,L2,A-MISO-S,A-MISO-S>=10,25,227,2,authors' primary instrument; Table 1 recommended threshold
+primary L2/L3,S010,E0028,L2,DVMSQ,DVMSQ algorithm: clinical (criteria A–D and F met),102,1403,1,only estimate
+primary L2/L3,S012,E0042,L2,A-MISO-S,A-MISO-S>=10,96,265,3,Table 1 recommended threshold
+primary L2/L3,S013,E0053,L2,S-Five,S-Five total >=87,195,341,1,only estimate
+primary L2/L3,S015,E0057,L2,multiple,A-MISO-S>=10 AND MQ Misophonia Severity Scale>=7,185,4005,1,only estimate
+primary L2/L3,S016,E0058,L2,MQ,MSS>=7,92,562,1,only estimate
+primary L2/L3,S017,E0061,L2,MQ,MSS>=7,58,131,1,only estimate
+primary L2/L3,S018,E0062,L2,MQ,MSS>=7,147,776,2,Table 1 recommended threshold
+primary L2/L3,S020,E0067,L2,MAQ,MAQ>=25 (moderate or more; version A bands),52,606,1,only estimate
+primary L2/L3,S021,E0068,L2,MQ,MSS>=7,500,1006,2,authors' primary instrument; Table 1 recommended threshold
+primary L2/L3,S025,E0084,L2,MSL-CY,MSL-CY child report (11 items) >=10,59,256,1,only estimate
+primary L2/L3,S029,E0115,L2,multiple,screening question 'yes' AND MQ Misophonia Severity Scale >=7,81,499,1,only estimate
+primary L2/L3,S037,E0136,L2,MQ,MSS>=7,103,387,1,only estimate
+primary L2/L3,S038,E0138,L2,DVMSQ,DVMSQ algorithm: clinical misophonia,272,2080,4,authors' primary instrument
+primary L2/L3,S039,E0153,L2,multiple,"Clinical presentation of misophonia according to the scoring guidelines of DVMSQ, MQ and S-Five (combination rule and exact thresholds not stated)",14,57,1,only estimate
+primary L2/L3,S040,E0156,L2,AMISOS-R,AMISOS-R >=31 (severe to extreme),3,2522,2,authors' primary instrument; median logit
+primary L2/L3,S043,E0175,L2,multiple,"clinical on any of DVMSQ (criteria A-E), MQ MSS>=7, S-Five>=87",26,65,4,authors' primary instrument
+primary L2/L3,S044,E0179,L2,DVMSQ,DVMSQ 'misophonic' (presumably algorithm criteria A-E as in Exp 1; not restated),1,22,1,only estimate
+primary L2/L3,S045,E0180,L2,DVMSQ,DVMSQ 'misophonic' (presumably algorithm criteria A-E as in Exp 1; not restated),0,21,1,only estimate
+primary L2/L3,S046,E0181,L2,SSfM,SSfM: agrees with misophonia characterisation AND rates disruption of daily life at least 'very mildly' (rejects 'not at all'),333,4253,1,only estimate
+primary L2/L3,S048,E0191,L2,MQ,MSS>=7,36,205,1,only estimate
+primary L2/L3,S049,E0196,L2,MAQ,MAQ>=25 (moderate or more),4,341,2,Table 1 recommended threshold
+primary L2/L3,S051,E0210,L2,AMISOS-R,AMISOS-R>=31 (severe to extreme; band boundaries not printed in the report),46,451,2,median logit
+primary L2/L3,S052,E0212,L2,A-MISO-S,A-MISO-S>=10,24,371,2,Table 1 recommended threshold
+primary L2/L3,S056,E0224,L2,DMQ,DMQ Composite Symptom Severity total >=41.4,98,412,1,only estimate
+primary L2/L3,S059,E0231,L2,AMISOS-R,AMISOS-R >=31 (severe and extreme; numeric cut not printed),7,445,2,median logit
+primary L2/L3,S060,E0239,L2,DMQ,DMQ Impairment (1-5 scoring) >=51 (severe); equals >=39 on the published 0-48 metric,1,71,2,median logit
+primary L2/L3,S062,E0244,L2,A-MISO-S,A-MISO-S>=10,92,278,2,Table 1 recommended threshold
+primary L2/L3,S063,E0247,L2,MisoQuest,MisoQuest total >=61,25,549,1,only estimate
+primary L2/L3,S064,E0250,L2,SMS-Adult,SMS-Adult Part 2 total >50.5 (>=51),45,329,1,only estimate
+primary L2/L3,S067,E0256,L2,MAQ,MAQ>=43 (severe),4,597,2,median logit
+primary L2/L3,S068,E0263,L2,SMS-Adult,SMS Part 2 >=51 (passing threshold 50.5),47,185,1,only estimate
+primary L2/L3,S074,E0320,L2,adhoc,Self-completed Öz criteria: misophonia type on Sound Disturbance Problems Form + >=1 MSL sound moderate/very + reaction moderate/very + life affected moderate/very + functional item,8,50,1,only estimate
+primary L2/L3,S075,E0322,L2,S-Five,"S-Five >87 (""scored above the 87 criterion"")",4,21,1,only estimate
+primary L2/L3,S076,E0323,L2,A-MISO-S,A-MISO-S>=10,52,328,2,authors' primary instrument; Table 1 recommended threshold
+primary L2/L3,S077,E0332,L2,MQ,MSS>=7,25,119,1,only estimate
+primary L2/L3,S078,E0336,L2,MAQ,"MAQ >=25 (moderate or more, band version A)",10,30,2,Table 1 recommended threshold
+primary L2/L3,S079,E0338,L2,S-Five,S-Five total >=87 (of 250),142,772,1,only estimate
+primary L2/L3,S084,E0358,L2,multiple,"self-reported misophonia screen AND MAQ>=25 (Version A, moderate or more)",6,170,4,Table 1 recommended threshold; median logit
+primary L2/L3,S085,E0363,L2,A-MISO-S,A-MISO-S>=10,182,1175,3,Table 1 recommended threshold
+primary L2/L3,S086,E0366,L2,MQ,MSS>=7,40,297,1,only estimate
+primary L2/L3,S087,E0367,L2,A-MISO-S,A-MISO-S>=10,0,19,1,only estimate
+primary L2/L3,S091,E0382,L2,MQ,MQ Severity Scale >7 (described also as 'cut-off of 7'),126,2519,3,authors' primary instrument
+primary L2/L3,S093,E0402,L3,interview,interview: Schröder 2013 criteria,12,62,1,only estimate
+primary L2/L3,S094,E0403,L2,MQ,MSS>=7,54,343,1,only estimate
+primary L2/L3,S095,E0417,L2,adhoc,"all 5 of 5 yes/no symptoms (criterion 5), including aversive reaction (symptom 1) and impaired social functioning (symptom 5)",31,1132,1,only estimate
+primary L2/L3,S097,E0431,L2,MQ,MSS>=7,14,101,2,authors' primary instrument; Table 1 recommended threshold
+primary L2/L3,S098,E0433,L2,MisoQuest,MisoQuest >61 (reported as 'scored above 61'; developer cut-off 61),4,300,1,only estimate
+primary L2/L3,S103,E0442,L2,MQ,MSS>=7,93,390,1,only estimate
+primary L2/L3,S109,E0460,L3,interview,"interview: study's proposed criteria (MIS): ≥1 MCL sound moderate/high + high anger, disgust or distress + ≥1 coping strategy often/always + ≥1 interference item yes",69,541,1,only estimate
+primary L2/L3,S111,E0495,L2,A-MISO-S,A-MISO-S>=10,41,336,3,Table 1 recommended threshold
+primary L2/L3,S112,E0498,L2,MQ,MSS>=7,67,424,2,authors' primary instrument; Table 1 recommended threshold
+primary L2/L3,S113,E0504,L2,A-MISO-S,A-MISO-S>=10,164,1188,2,authors' primary instrument; Table 1 recommended threshold
+primary L2/L3,S115,E0516,L2,A-MISO-S,A-MISO-S>=10,2,20,2,Table 1 recommended threshold
+primary L2/L3,S117,E0522,L2,MQ,MQ total (Symptom + Emotions-and-Behaviors) >=34,19,49,1,only estimate
+primary L2/L3,S118,E0523,L2,MQ,MSS>=7,83,218,1,only estimate
+primary L2/L3,S120,E0528,L2,MQ,MSS>=7,207,1572,3,Table 1 recommended threshold
+primary L2/L3,S122,E0546,L2,MQ,MQ Misophonia Severity Scale >=7,8,64,1,only estimate
+primary L2/L3,S123,E0552,L2,MQ,MSS>=7,73,451,1,only estimate
+primary L2/L3,S124,E0558,L2,MQ,MSS>=7,56,375,1,only estimate
+level L1,S002,E0002,L1,DSTS-S,DSTS-S misophonia subscale >=4,29,67,1,only estimate
+level L1,S003,E0004,L1,A-MISO-S,A-MISO-S>=5,90,227,1,only estimate
+level L1,S005,E0023,L1,adhoc,"self-identified current misophonia after reading a definition, or current formal diagnosis (yes/no item)",17,99,1,only estimate
+level L1,S010,E0029,L1,DVMSQ,"DVMSQ algorithm: subclinical or clinical (criteria A–D met, with or without F)",246,1403,2,scale-based before ad hoc
+level L1,S012,E0041,L1,A-MISO-S,A-MISO-S>=5,201,265,1,only estimate
+level L1,S020,E0066,L1,MAQ,MAQ>=12 (mild or more; version A bands),148,606,1,only estimate
+level L1,S021,E0069,L1,MQ,MSS>=4 (mild or more; band boundaries not printed in report),838,1006,1,only estimate
+level L1,S028,E0114,L1,adhoc,"positive response to >=3 of 5 items of the Lista de Triagem para Misofonia (self-completed, Portuguese unvalidated translation)",47,206,1,only estimate
+level L1,S031,E0120,L1,multiple,"subclinical or clinical score on any of MisoQuest, MQ, DVMSQ, S-Five (each questionnaire's scoring guidelines)",6,68,1,only estimate
+level L1,S032,E0123,L1,multiple,"subclinical or clinical score on any of MisoQuest, MQ, DVMSQ, S-Five",1,17,1,only estimate
+level L1,S033,E0124,L1,multiple,"subclinical or clinical score on any of MisoQuest, MQ, DVMSQ, S-Five",6,32,1,only estimate
+level L1,S034,E0127,L1,multiple,"subclinical or clinical score on any of MisoQuest, MQ, DVMSQ, S-Five",11,32,1,only estimate
+level L1,S035,E0130,L1,multiple,"subclinical or clinical score on any of MisoQuest, MQ, DVMSQ, S-Five",4,20,1,only estimate
+level L1,S036,E0133,L1,multiple,"subclinical or clinical score on any of MisoQuest, MQ, DVMSQ, S-Five",5,34,1,only estimate
+level L1,S038,E0139,L1,DVMSQ,DVMSQ algorithm: subclinical or clinical misophonia,559,2080,1,only estimate
+level L1,S040,E0155,L1,AMISOS-R,AMISOS-R >=11 (mild or more),307,2522,1,only estimate
+level L1,S049,E0195,L1,MAQ,MAQ>=12 (mild or more),20,341,1,only estimate
+level L1,S050,E0206,L1,MQ,MQ Symptom Scale >=14,176,439,1,only estimate
+level L1,S051,E0208,L1,AMISOS-R,AMISOS-R>=11 (mild or more; band boundaries not printed in the report),360,451,1,only estimate
+level L1,S052,E0211,L1,A-MISO-S,A-MISO-S>=5,107,371,2,authors' primary instrument
+level L1,S059,E0229,L1,AMISOS-R,"AMISOS-R >=11 (mild or more; numeric cut not printed, band label only)",254,445,1,only estimate
+level L1,S060,E0241,L1,adhoc,"self-identified misophonia (yes/no item, after a definition was shown)",27,71,1,only estimate
+level L1,S061,E0243,L1,DMQ,"DMQ symptom severity (mean of affective, physiological, cognitive items, 0-4) >1.5",7,38,1,only estimate
+level L1,S062,E0245,L1,A-MISO-S,A-MISO-S>=5,187,278,1,only estimate
+level L1,S067,E0254,L1,MAQ,"MAQ>=11 (mild or more; report bands: sub-clinical <10, mild 11-21, moderate 22-42, severe 43-63)",207,597,1,only estimate
+level L1,S069,E0296,L1,DSTS-S,"DSTS-S misophonia Factor 2 ('Fonksiyonel/Sosyal Yakınmalar', items M6-M14) ≥4",306,400,3,authors' primary instrument; scale-based before ad hoc; Table 1 recommended threshold; median logit
+level L1,S074,E0321,L1,adhoc,Self-identified misophonia type on form + >=1 MSL sound moderate/very (disorder- or symptom-level),9,50,1,only estimate
+level L1,S076,E0326,L1,A-MISO-S,A-MISO-S>=5,163,328,1,only estimate
+level L1,S078,E0335,L1,MAQ,"MAQ >=12 (mild or more, band version A)",16,30,1,only estimate
+level L1,S079,E0339,L1,adhoc,self-identified misophonia (identifies as having the disorder),18,772,1,only estimate
+level L1,S084,E0357,L1,multiple,"self-reported misophonia screen AND MAQ>=12 (Version A, mild or more)",16,170,3,authors' primary instrument; scale-based before ad hoc; Table 1 recommended threshold; median logit
+level L1,S085,E0362,L1,A-MISO-S,A-MISO-S>=5,645,1175,1,only estimate
+level L1,S087,E0368,L1,A-MISO-S,A-MISO-S>=5,7,19,2,scale-based before ad hoc; Table 1 recommended threshold
+level L1,S091,E0384,L1,MQ,MQ Symptom Scale >14,81,2519,1,only estimate
+level L1,S095,E0416,L1,adhoc,at least 3 of 5 yes/no symptoms (criterion 8),248,1132,4,authors' primary instrument; median logit
+level L1,S099,E0437,L1,adhoc,'yes' to 'Does the sound of other people chewing fill you with rage?' (yes/no item),17606,80607,1,only estimate
+level L1,S100,E0438,L1,MQ,MQ Symptom Scale >=14 (mean item >=2),63,152,1,only estimate
+level L1,S101,E0439,L1,MQ,MQ Symptom Scale >=14 (mean item >=2),235,400,1,only estimate
+level L1,S102,E0441,L1,adhoc,self-identified misophonia (yes/no item),41,256,1,only estimate
+level L1,S106,E0449,L1,adhoc,"yes to single item: ever strong negative feelings, thoughts or physical reactions to specific or repetitive sounds (mouth/body sounds)",1406,2751,1,only estimate
+level L1,S108,E0455,L1,adhoc,"yes to single item: ever strong negative feelings, thoughts or physical reactions to specific or repetitive sounds",325,765,1,only estimate
+level L1,S111,E0494,L1,A-MISO-S,A-MISO-S>=5,165,336,1,only estimate
+level L1,S113,E0505,L1,A-MISO-S,A-MISO-S>=5,661,1188,1,only estimate
+level L1,S114,E0513,L1,adhoc,self-identified misophonia (yes/no/unsure item; 'yes'),106,202,1,only estimate
+level L1,S115,E0515,L1,A-MISO-S,A-MISO-S>=5,5,20,1,only estimate
+level L1,S120,E0529,L1,MQ,MSS>=4,781,1572,1,only estimate
+level L1,S122,E0547,L1,MQ,MQ Symptom Scale >=14,23,64,1,only estimate
+level L1,S124,E0562,L1,adhoc,self-reported earlier diagnosis of misophonia (yes/no item),3,375,1,only estimate
+level L2,S001,E0001,L2,S-Five,S-Five total >=87,24,128,1,only estimate
+level L2,S003,E0003,L2,A-MISO-S,A-MISO-S>=10,25,227,2,authors' primary instrument; Table 1 recommended threshold
+level L2,S010,E0028,L2,DVMSQ,DVMSQ algorithm: clinical (criteria A–D and F met),102,1403,1,only estimate
+level L2,S012,E0042,L2,A-MISO-S,A-MISO-S>=10,96,265,3,Table 1 recommended threshold
+level L2,S013,E0053,L2,S-Five,S-Five total >=87,195,341,1,only estimate
+level L2,S015,E0057,L2,multiple,A-MISO-S>=10 AND MQ Misophonia Severity Scale>=7,185,4005,1,only estimate
+level L2,S016,E0058,L2,MQ,MSS>=7,92,562,1,only estimate
+level L2,S017,E0061,L2,MQ,MSS>=7,58,131,1,only estimate
+level L2,S018,E0062,L2,MQ,MSS>=7,147,776,2,Table 1 recommended threshold
+level L2,S020,E0067,L2,MAQ,MAQ>=25 (moderate or more; version A bands),52,606,1,only estimate
+level L2,S021,E0068,L2,MQ,MSS>=7,500,1006,2,authors' primary instrument; Table 1 recommended threshold
+level L2,S025,E0084,L2,MSL-CY,MSL-CY child report (11 items) >=10,59,256,1,only estimate
+level L2,S029,E0115,L2,multiple,screening question 'yes' AND MQ Misophonia Severity Scale >=7,81,499,1,only estimate
+level L2,S037,E0136,L2,MQ,MSS>=7,103,387,1,only estimate
+level L2,S038,E0138,L2,DVMSQ,DVMSQ algorithm: clinical misophonia,272,2080,4,authors' primary instrument
+level L2,S039,E0153,L2,multiple,"Clinical presentation of misophonia according to the scoring guidelines of DVMSQ, MQ and S-Five (combination rule and exact thresholds not stated)",14,57,1,only estimate
+level L2,S040,E0156,L2,AMISOS-R,AMISOS-R >=31 (severe to extreme),3,2522,2,authors' primary instrument; median logit
+level L2,S043,E0175,L2,multiple,"clinical on any of DVMSQ (criteria A-E), MQ MSS>=7, S-Five>=87",26,65,4,authors' primary instrument
+level L2,S044,E0179,L2,DVMSQ,DVMSQ 'misophonic' (presumably algorithm criteria A-E as in Exp 1; not restated),1,22,1,only estimate
+level L2,S045,E0180,L2,DVMSQ,DVMSQ 'misophonic' (presumably algorithm criteria A-E as in Exp 1; not restated),0,21,1,only estimate
+level L2,S046,E0181,L2,SSfM,SSfM: agrees with misophonia characterisation AND rates disruption of daily life at least 'very mildly' (rejects 'not at all'),333,4253,1,only estimate
+level L2,S048,E0191,L2,MQ,MSS>=7,36,205,1,only estimate
+level L2,S049,E0196,L2,MAQ,MAQ>=25 (moderate or more),4,341,2,Table 1 recommended threshold
+level L2,S051,E0210,L2,AMISOS-R,AMISOS-R>=31 (severe to extreme; band boundaries not printed in the report),46,451,2,median logit
+level L2,S052,E0212,L2,A-MISO-S,A-MISO-S>=10,24,371,2,Table 1 recommended threshold
+level L2,S056,E0224,L2,DMQ,DMQ Composite Symptom Severity total >=41.4,98,412,1,only estimate
+level L2,S059,E0231,L2,AMISOS-R,AMISOS-R >=31 (severe and extreme; numeric cut not printed),7,445,2,median logit
+level L2,S060,E0239,L2,DMQ,DMQ Impairment (1-5 scoring) >=51 (severe); equals >=39 on the published 0-48 metric,1,71,2,median logit
+level L2,S062,E0244,L2,A-MISO-S,A-MISO-S>=10,92,278,2,Table 1 recommended threshold
+level L2,S063,E0247,L2,MisoQuest,MisoQuest total >=61,25,549,1,only estimate
+level L2,S064,E0250,L2,SMS-Adult,SMS-Adult Part 2 total >50.5 (>=51),45,329,1,only estimate
+level L2,S067,E0256,L2,MAQ,MAQ>=43 (severe),4,597,2,median logit
+level L2,S068,E0263,L2,SMS-Adult,SMS Part 2 >=51 (passing threshold 50.5),47,185,1,only estimate
+level L2,S074,E0320,L2,adhoc,Self-completed Öz criteria: misophonia type on Sound Disturbance Problems Form + >=1 MSL sound moderate/very + reaction moderate/very + life affected moderate/very + functional item,8,50,1,only estimate
+level L2,S075,E0322,L2,S-Five,"S-Five >87 (""scored above the 87 criterion"")",4,21,1,only estimate
+level L2,S076,E0323,L2,A-MISO-S,A-MISO-S>=10,52,328,2,authors' primary instrument; Table 1 recommended threshold
+level L2,S077,E0332,L2,MQ,MSS>=7,25,119,1,only estimate
+level L2,S078,E0336,L2,MAQ,"MAQ >=25 (moderate or more, band version A)",10,30,2,Table 1 recommended threshold
+level L2,S079,E0338,L2,S-Five,S-Five total >=87 (of 250),142,772,1,only estimate
+level L2,S084,E0358,L2,multiple,"self-reported misophonia screen AND MAQ>=25 (Version A, moderate or more)",6,170,4,Table 1 recommended threshold; median logit
+level L2,S085,E0363,L2,A-MISO-S,A-MISO-S>=10,182,1175,3,Table 1 recommended threshold
+level L2,S086,E0366,L2,MQ,MSS>=7,40,297,1,only estimate
+level L2,S087,E0367,L2,A-MISO-S,A-MISO-S>=10,0,19,1,only estimate
+level L2,S091,E0382,L2,MQ,MQ Severity Scale >7 (described also as 'cut-off of 7'),126,2519,3,authors' primary instrument
+level L2,S094,E0403,L2,MQ,MSS>=7,54,343,1,only estimate
+level L2,S095,E0417,L2,adhoc,"all 5 of 5 yes/no symptoms (criterion 5), including aversive reaction (symptom 1) and impaired social functioning (symptom 5)",31,1132,1,only estimate
+level L2,S097,E0431,L2,MQ,MSS>=7,14,101,2,authors' primary instrument; Table 1 recommended threshold
+level L2,S098,E0433,L2,MisoQuest,MisoQuest >61 (reported as 'scored above 61'; developer cut-off 61),4,300,1,only estimate
+level L2,S103,E0442,L2,MQ,MSS>=7,93,390,1,only estimate
+level L2,S111,E0495,L2,A-MISO-S,A-MISO-S>=10,41,336,3,Table 1 recommended threshold
+level L2,S112,E0498,L2,MQ,MSS>=7,67,424,2,authors' primary instrument; Table 1 recommended threshold
+level L2,S113,E0504,L2,A-MISO-S,A-MISO-S>=10,164,1188,2,authors' primary instrument; Table 1 recommended threshold
+level L2,S115,E0516,L2,A-MISO-S,A-MISO-S>=10,2,20,2,Table 1 recommended threshold
+level L2,S117,E0522,L2,MQ,MQ total (Symptom + Emotions-and-Behaviors) >=34,19,49,1,only estimate
+level L2,S118,E0523,L2,MQ,MSS>=7,83,218,1,only estimate
+level L2,S120,E0528,L2,MQ,MSS>=7,207,1572,3,Table 1 recommended threshold
+level L2,S122,E0546,L2,MQ,MQ Misophonia Severity Scale >=7,8,64,1,only estimate
+level L2,S123,E0552,L2,MQ,MSS>=7,73,451,1,only estimate
+level L2,S124,E0558,L2,MQ,MSS>=7,56,375,1,only estimate
+level L3,S093,E0402,L3,interview,interview: Schröder 2013 criteria,12,62,1,only estimate
+level L3,S109,E0460,L3,interview,"interview: study's proposed criteria (MIS): ≥1 MCL sound moderate/high + high anger, disgust or distress + ≥1 coping strategy often/always + ≥1 interference item yes",69,541,1,only estimate
+clinical L2/L3,S011,E0035,L2,DVMSQ,DVMSQ algorithm: clinical (criteria A–D and F met),332,936,1,only estimate
+clinical L2/L3,S022,E0077,L2,SMS-Adolescent,SMS-A Part 2 >=49 (text also says '> 49'; case range 49-153),66,214,1,only estimate
+clinical L2/L3,S026,E0090,L2,AMISOS-R,AMISOS-R>=24,141,1050,2,authors' primary instrument; Table 1 recommended threshold
+clinical L2/L3,S027,E0103,L2,AMISOS-R,AMISOS-R>=31,10,200,2,median logit
+clinical L2/L3,S047,E0184,L2,MQ,MSS>=7,92,205,1,only estimate
+clinical L2/L3,S073,E0306,L2,adhoc,Self-completed Öz criteria: misophonia type on Sound Disturbance Problems Form + >=1 MSL sound moderate/very + >=1 emotional/physical reaction moderate/very + life affected moderate/very + functional item (yes or >1 h/day),48,213,1,only estimate
+clinical L2/L3,S092,E0395,L3,interview,interview: Schröder 2013 criteria,22,59,1,only estimate
+clinical L2/L3,S110,E0472,L2,adhoc,Kurztest Misophonie (self-completed): reaction criteria AND impairment >=5/10 (moderate or more),29,194,5,authors' primary instrument; median logit
+clinical L2/L3,S116,E0520,L2,A-MISO-S,A-MISO-S>=10,1,24,2,Table 1 recommended threshold
+clinical L2/L3,S119,E0524,L3,multiple,"interview positive (Schröder 2013 criteria, semi-structured face-to-face) AND MisoQuest>=61",8,94,2,authors' primary instrument
+post hoc: ordered Table 1 thresholds,S001,E0001,L2,S-Five,S-Five total >=87,24,128,1,only estimate
+post hoc: ordered Table 1 thresholds,S003,E0003,L2,A-MISO-S,A-MISO-S>=10,25,227,2,"authors' primary instrument; Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S010,E0028,L2,DVMSQ,DVMSQ algorithm: clinical (criteria A–D and F met),102,1403,1,only estimate
+post hoc: ordered Table 1 thresholds,S012,E0042,L2,A-MISO-S,A-MISO-S>=10,96,265,3,"Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S013,E0053,L2,S-Five,S-Five total >=87,195,341,1,only estimate
+post hoc: ordered Table 1 thresholds,S015,E0057,L2,multiple,A-MISO-S>=10 AND MQ Misophonia Severity Scale>=7,185,4005,1,only estimate
+post hoc: ordered Table 1 thresholds,S016,E0058,L2,MQ,MSS>=7,92,562,1,only estimate
+post hoc: ordered Table 1 thresholds,S017,E0061,L2,MQ,MSS>=7,58,131,1,only estimate
+post hoc: ordered Table 1 thresholds,S018,E0062,L2,MQ,MSS>=7,147,776,2,"Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S020,E0067,L2,MAQ,MAQ>=25 (moderate or more; version A bands),52,606,1,only estimate
+post hoc: ordered Table 1 thresholds,S021,E0068,L2,MQ,MSS>=7,500,1006,2,"authors' primary instrument; Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S025,E0084,L2,MSL-CY,MSL-CY child report (11 items) >=10,59,256,1,only estimate
+post hoc: ordered Table 1 thresholds,S029,E0115,L2,multiple,screening question 'yes' AND MQ Misophonia Severity Scale >=7,81,499,1,only estimate
+post hoc: ordered Table 1 thresholds,S037,E0136,L2,MQ,MSS>=7,103,387,1,only estimate
+post hoc: ordered Table 1 thresholds,S038,E0138,L2,DVMSQ,DVMSQ algorithm: clinical misophonia,272,2080,4,authors' primary instrument
+post hoc: ordered Table 1 thresholds,S039,E0153,L2,multiple,"Clinical presentation of misophonia according to the scoring guidelines of DVMSQ, MQ and S-Five (combination rule and exact thresholds not stated)",14,57,1,only estimate
+post hoc: ordered Table 1 thresholds,S040,E0154,L2,AMISOS-R,AMISOS-R >=21 (moderate to severe or more),56,2522,2,"authors' primary instrument; Table 1 threshold, rank 2"
+post hoc: ordered Table 1 thresholds,S043,E0175,L2,multiple,"clinical on any of DVMSQ (criteria A-E), MQ MSS>=7, S-Five>=87",26,65,4,authors' primary instrument
+post hoc: ordered Table 1 thresholds,S044,E0179,L2,DVMSQ,DVMSQ 'misophonic' (presumably algorithm criteria A-E as in Exp 1; not restated),1,22,1,only estimate
+post hoc: ordered Table 1 thresholds,S045,E0180,L2,DVMSQ,DVMSQ 'misophonic' (presumably algorithm criteria A-E as in Exp 1; not restated),0,21,1,only estimate
+post hoc: ordered Table 1 thresholds,S046,E0181,L2,SSfM,SSfM: agrees with misophonia characterisation AND rates disruption of daily life at least 'very mildly' (rejects 'not at all'),333,4253,1,only estimate
+post hoc: ordered Table 1 thresholds,S048,E0191,L2,MQ,MSS>=7,36,205,1,only estimate
+post hoc: ordered Table 1 thresholds,S049,E0196,L2,MAQ,MAQ>=25 (moderate or more),4,341,2,"Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S051,E0209,L2,AMISOS-R,AMISOS-R>=21 (moderate or more; band boundaries not printed in the report),206,451,2,"Table 1 threshold, rank 2"
+post hoc: ordered Table 1 thresholds,S052,E0212,L2,A-MISO-S,A-MISO-S>=10,24,371,2,"Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S056,E0224,L2,DMQ,DMQ Composite Symptom Severity total >=41.4,98,412,1,only estimate
+post hoc: ordered Table 1 thresholds,S059,E0230,L2,AMISOS-R,"AMISOS-R >=21 (moderate or more; numeric cut not printed, band label only)",70,445,2,"Table 1 threshold, rank 2"
+post hoc: ordered Table 1 thresholds,S060,E0239,L2,DMQ,DMQ Impairment (1-5 scoring) >=51 (severe); equals >=39 on the published 0-48 metric,1,71,2,median logit
+post hoc: ordered Table 1 thresholds,S062,E0244,L2,A-MISO-S,A-MISO-S>=10,92,278,2,"Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S063,E0247,L2,MisoQuest,MisoQuest total >=61,25,549,1,only estimate
+post hoc: ordered Table 1 thresholds,S064,E0250,L2,SMS-Adult,SMS-Adult Part 2 total >50.5 (>=51),45,329,1,only estimate
+post hoc: ordered Table 1 thresholds,S067,E0255,L2,MAQ,MAQ>=22 (moderate or more),98,597,2,"Table 1 threshold, rank 2"
+post hoc: ordered Table 1 thresholds,S068,E0263,L2,SMS-Adult,SMS Part 2 >=51 (passing threshold 50.5),47,185,1,only estimate
+post hoc: ordered Table 1 thresholds,S074,E0320,L2,adhoc,Self-completed Öz criteria: misophonia type on Sound Disturbance Problems Form + >=1 MSL sound moderate/very + reaction moderate/very + life affected moderate/very + functional item,8,50,1,only estimate
+post hoc: ordered Table 1 thresholds,S075,E0322,L2,S-Five,"S-Five >87 (""scored above the 87 criterion"")",4,21,1,only estimate
+post hoc: ordered Table 1 thresholds,S076,E0323,L2,A-MISO-S,A-MISO-S>=10,52,328,2,"authors' primary instrument; Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S077,E0332,L2,MQ,MSS>=7,25,119,1,only estimate
+post hoc: ordered Table 1 thresholds,S078,E0336,L2,MAQ,"MAQ >=25 (moderate or more, band version A)",10,30,2,"Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S079,E0338,L2,S-Five,S-Five total >=87 (of 250),142,772,1,only estimate
+post hoc: ordered Table 1 thresholds,S084,E0358,L2,multiple,"self-reported misophonia screen AND MAQ>=25 (Version A, moderate or more)",6,170,4,"Table 1 threshold, rank 1; median logit"
+post hoc: ordered Table 1 thresholds,S085,E0363,L2,A-MISO-S,A-MISO-S>=10,182,1175,3,"Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S086,E0366,L2,MQ,MSS>=7,40,297,1,only estimate
+post hoc: ordered Table 1 thresholds,S087,E0367,L2,A-MISO-S,A-MISO-S>=10,0,19,1,only estimate
+post hoc: ordered Table 1 thresholds,S091,E0382,L2,MQ,MQ Severity Scale >7 (described also as 'cut-off of 7'),126,2519,3,authors' primary instrument
+post hoc: ordered Table 1 thresholds,S093,E0402,L3,interview,interview: Schröder 2013 criteria,12,62,1,only estimate
+post hoc: ordered Table 1 thresholds,S094,E0403,L2,MQ,MSS>=7,54,343,1,only estimate
+post hoc: ordered Table 1 thresholds,S095,E0417,L2,adhoc,"all 5 of 5 yes/no symptoms (criterion 5), including aversive reaction (symptom 1) and impaired social functioning (symptom 5)",31,1132,1,only estimate
+post hoc: ordered Table 1 thresholds,S097,E0431,L2,MQ,MSS>=7,14,101,2,"authors' primary instrument; Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S098,E0433,L2,MisoQuest,MisoQuest >61 (reported as 'scored above 61'; developer cut-off 61),4,300,1,only estimate
+post hoc: ordered Table 1 thresholds,S103,E0442,L2,MQ,MSS>=7,93,390,1,only estimate
+post hoc: ordered Table 1 thresholds,S109,E0460,L3,interview,"interview: study's proposed criteria (MIS): ≥1 MCL sound moderate/high + high anger, disgust or distress + ≥1 coping strategy often/always + ≥1 interference item yes",69,541,1,only estimate
+post hoc: ordered Table 1 thresholds,S111,E0495,L2,A-MISO-S,A-MISO-S>=10,41,336,3,"Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S112,E0498,L2,MQ,MSS>=7,67,424,2,"authors' primary instrument; Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S113,E0504,L2,A-MISO-S,A-MISO-S>=10,164,1188,2,"authors' primary instrument; Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S115,E0516,L2,A-MISO-S,A-MISO-S>=10,2,20,2,"Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S117,E0522,L2,MQ,MQ total (Symptom + Emotions-and-Behaviors) >=34,19,49,1,only estimate
+post hoc: ordered Table 1 thresholds,S118,E0523,L2,MQ,MSS>=7,83,218,1,only estimate
+post hoc: ordered Table 1 thresholds,S120,E0528,L2,MQ,MSS>=7,207,1572,3,"Table 1 threshold, rank 1"
+post hoc: ordered Table 1 thresholds,S122,E0546,L2,MQ,MQ Misophonia Severity Scale >=7,8,64,1,only estimate
+post hoc: ordered Table 1 thresholds,S123,E0552,L2,MQ,MSS>=7,73,451,1,only estimate
+post hoc: ordered Table 1 thresholds,S124,E0558,L2,MQ,MSS>=7,56,375,1,only estimate

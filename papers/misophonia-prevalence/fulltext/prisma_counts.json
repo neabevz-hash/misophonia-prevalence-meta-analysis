@@ -1,0 +1,31 @@
+{
+  "records_identified": 7885,
+  "by_source": {
+    "pubmed": 480,
+    "europepmc": 527,
+    "openalex": 1136,
+    "s2": 791,
+    "citations": 1500,
+    "scielo": 7,
+    "datacite": 331,
+    "openaire": 1098,
+    "core": 1615,
+    "scholar": 400
+  },
+  "duplicates_removed": 6315,
+  "removed_by_automation": 62,
+  "records_screened": 1508,
+  "records_excluded": 968,
+  "reports_sought": 540,
+  "reports_not_retrieved": 293,
+  "reports_assessed": 247,
+  "reports_excluded": {
+    "E1_selected_sample": 61,
+    "I3_no_counts": 51,
+    "E4_design": 7,
+    "other": 4,
+    "E2_no_misophonia_measure": 4,
+    "not_misophonia": 1
+  },
+  "reports_included": 119
+}

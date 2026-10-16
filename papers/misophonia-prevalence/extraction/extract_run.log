@@ -1,0 +1,99 @@
+[judge] 97 items, 0 done, 97 to judge -> C:\Users\user\articles\papers\misophonia-prevalence\extraction\draft\extract_2026-10-15.jsonl
+[judge ok 1/97] R0906 64.3s
+[judge ok 2/97] R0323 89.8s
+[judge ok 3/97] R0777 60.2s
+[judge ok 4/97] R0044 155.1s
+[judge ok 5/97] R0075 80.9s
+[judge ok 6/97] R0717 76.9s
+[judge ok 7/97] R0210 94.1s
+[judge ok 8/97] R0821 96.2s
+[judge ok 9/97] R0274 73.0s
+[judge ok 10/97] R0161 114.6s
+[judge ok 11/97] R1182 105.6s
+[judge ok 12/97] R0506 131.2s
+[judge ok 13/97] R0528 107.8s
+[judge ok 14/97] R0468 101.9s
+[judge ok 15/97] R1298 158.3s
+[judge ok 16/97] R0158 78.2s
+[judge ok 17/97] R1188 130.8s
+[judge ok 18/97] R0629 140.5s
+[judge ok 19/97] R0636 105.7s
+[judge ok 20/97] R0941 127.1s
+[judge ok 21/97] R0048 167.9s
+[judge ok 22/97] R1062 118.3s
+[judge ok 23/97] R1040 91.6s
+[judge ok 24/97] R0998 201.5s
+[judge ok 25/97] R0851 91.3s
+[judge ok 26/97] R0626 97.2s
+[judge ok 27/97] R1086 121.2s
+[judge ok 28/97] R0524 165.0s
+[judge ok 29/97] R0484 100.1s
+[judge ok 30/97] R0035 72.5s
+[judge ok 31/97] R0651 132.0s
+[judge ok 32/97] R0381 175.8s
+[judge ok 33/97] R0446 84.8s
+[judge ok 34/97] R0854 72.7s
+[judge ok 35/97] R0476 118.5s
+[judge ok 36/97] R1137 149.8s
+[judge ok 37/97] R1066 222.8s
+[judge ok 38/97] R1056 202.0s
+[judge ok 39/97] R0963 55.0s
+[judge ok 40/97] R0236 100.9s
+[judge ok 41/97] R1139 62.2s
+[judge ok 42/97] R0399 135.0s
+[judge ok 43/97] R0910 127.4s
+[judge ok 44/97] R0985 79.2s
+[judge ok 45/97] R0907 113.1s
+[judge fail] R0204: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R0196: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R0583: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R0972: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R0393: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R0832: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R0431: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R0779: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R0861: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R0150: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R0082: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge fail] R0375: failed after 3 attempts: claude error: API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+[judge ok 46/97] R0368 115.8s
+[judge ok 47/97] R0766 229.3s
+[judge ok 48/97] R0922 134.3s
+[judge ok 49/97] R0956 83.8s
+[judge ok 50/97] R0314 347.8s
+[judge ok 51/97] R0031 89.5s
+[judge ok 52/97] R1402 198.1s
+[judge ok 53/97] R1198 135.9s
+[judge ok 54/97] R1101 68.9s
+[judge ok 55/97] R0058 74.5s
+[judge ok 56/97] R1090 115.1s
+[judge ok 57/97] R1001 69.0s
+[judge ok 58/97] R0118 75.2s
+[judge ok 59/97] R0947 145.2s
+[judge ok 60/97] R0385 152.5s
+[judge ok 61/97] R0823 106.7s
+[judge ok 62/97] R0164 127.2s
+[judge ok 63/97] R0061 82.6s
+[judge ok 64/97] R1071 92.4s
+[judge ok 65/97] R0833 109.8s
+[judge ok 66/97] R0964 79.4s
+[judge ok 67/97] R0625 104.6s
+[judge ok 68/97] R0733 97.7s
+[judge ok 69/97] R0094 95.8s
+[judge ok 70/97] R1018 99.0s
+[judge ok 71/97] R0925 160.2s
+[judge ok 72/97] R0977 151.4s
+[judge ok 73/97] R0858 114.2s
+[judge ok 74/97] R0485 76.4s
+[judge ok 75/97] R0555 105.3s
+[judge ok 76/97] R0794 109.3s
+[judge ok 77/97] R0068 90.8s
+[judge ok 78/97] R0912 83.4s
+[judge ok 79/97] R0441 87.9s
+[judge ok 80/97] R0350 166.0s
+[judge ok 81/97] R0585 74.5s
+[judge ok 82/97] R0057 227.8s
+[judge ok 83/97] R0664 176.3s
+[judge ok 84/97] R0069 96.2s
+[judge ok 85/97] R0077 64.3s
+[judge] finished: 85 ok, 12 failed

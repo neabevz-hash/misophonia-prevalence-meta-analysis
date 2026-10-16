@@ -1,0 +1,50 @@
+{
+  "records_per_source": {
+    "pubmed": 480,
+    "europepmc": 527,
+    "openalex": 1134,
+    "s2": 790,
+    "citations": 1500,
+    "datacite": 330,
+    "openaire": 1096
+  },
+  "records_total": 5857,
+  "unique_records": 1434,
+  "duplicates_removed": 4423,
+  "pointer_or_component_records_attached": 149,
+  "auto_removed_non_study_records": 99,
+  "auto_removed_by_types": {
+    "datacite:StudyRegistration/Pre-registration": 29,
+    "openalex:dataset": 19,
+    "datacite:Dataset/ | openalex:dataset": 9,
+    "datacite:Dataset/Dataset": 6,
+    "datacite:Dataset/": 5,
+    "datacite:Dataset/Dataset | openalex:dataset": 4,
+    "openalex:peer-review": 4,
+    "datacite:Software/": 4,
+    "openalex:paratext": 3,
+    "datacite:Image/Figure": 3,
+    "openalex:book-review": 3,
+    "datacite:Audiovisual/Media": 2,
+    "openalex:reference-entry": 2,
+    "citations:peer-review": 2,
+    "citations:paratext": 1,
+    "datacite:Dataset/Project": 1,
+    "citations:reference-entry | openalex:reference-entry": 1,
+    "citations:paratext | openalex:paratext": 1
+  },
+  "records_to_screen": 1335,
+  "unique_only_via_instrument_citations": 75,
+  "unique_only_via_pointer_sources": 132,
+  "component_only_records_to_screen": 2,
+  "flagged_possible_duplicates": 145,
+  "unique_by_n_sources": {
+    "1": 474,
+    "2": 201,
+    "3": 196,
+    "4": 142,
+    "5": 121,
+    "6": 268,
+    "7": 32
+  }
+}

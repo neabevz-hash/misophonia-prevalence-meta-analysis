@@ -1,0 +1,601 @@
+﻿rec_id,k,file,code,decision,reason,note,ai_code
+R0001,1,verify_R1_01.md,-3,exclude,selected,выборка набрана из-за мизофонии (испытание терапии),?
+R0002,2,verify_R1_01.md,-7,exclude,other,erratum / correction,?
+R0008,3,verify_R1_01.md,=?,unsure,,,?
+R0010,4,verify_R1_01.md,=+,include,,,+
+R0011,5,verify_R1_01.md,+,include,,ненабранный опрос со шкалой мизофонии,?
+R0015,6,verify_R1_01.md,=?,unsure,,,?
+R0016,7,verify_R1_01.md,=?,unsure,,,?
+R0019,8,verify_R1_01.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0022,9,verify_R1_01.md,-7,exclude,other,preregistration without data,?
+R0023,10,verify_R1_01.md,=+,include,,,+
+R0025,11,verify_R1_01.md,=?,unsure,,,?
+R0027,12,verify_R1_01.md,-7,exclude,other,preregistration without data,?
+R0031,13,verify_R1_01.md,=?,unsure,,,?
+R0035,14,verify_R1_01.md,=+,include,,,+
+R0040,15,verify_R1_01.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0041,16,verify_R1_01.md,=?,unsure,,,?
+R0042,17,verify_R1_01.md,=?,unsure,,,?
+R0044,18,verify_R1_01.md,=+,include,,,+
+R0047,19,verify_R1_01.md,=?,unsure,,,?
+R0048,20,verify_R1_01.md,=+,include,,,+
+R0050,21,verify_R1_01.md,=?,unsure,,,?
+R0052,22,verify_R1_01.md,=?,unsure,,,?
+R0056,23,verify_R1_01.md,=?,unsure,,,?
+R0058,24,verify_R1_01.md,=+,include,,,+
+R0059,25,verify_R1_01.md,=?,unsure,,,?
+R0061,26,verify_R1_01.md,=?,unsure,,,?
+R0062,27,verify_R1_01.md,=?,unsure,,,?
+R0063,28,verify_R1_01.md,=+,include,,,+
+R0066,29,verify_R1_01.md,=?,unsure,,,?
+R0068,30,verify_R1_01.md,=?,unsure,,,?
+R0069,31,verify_R1_01.md,=+,include,,,+
+R0071,32,verify_R1_01.md,=?,unsure,,,?
+R0072,33,verify_R1_01.md,=+,include,,,+
+R0074,34,verify_R1_01.md,-4,exclude,measure,нет инструмента именно для мизофонии (только гиперакузия/шумочувствительность),?
+R0075,35,verify_R1_01.md,=+,include,,,+
+R0077,36,verify_R1_01.md,=+,include,,,+
+R0078,37,verify_R1_01.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0082,38,verify_R1_01.md,=+,include,,,+
+R0090,39,verify_R1_01.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0094,40,verify_R1_01.md,=+,include,,,+
+R0096,41,verify_R1_01.md,=?,unsure,,,?
+R0097,42,verify_R1_01.md,=?,unsure,,,?
+R0098,43,verify_R1_01.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0099,44,verify_R1_01.md,-7,exclude,other,preregistration without data,?
+R0100,45,verify_R1_01.md,-7,exclude,other,preregistration without data,?
+R0101,46,verify_R1_01.md,-7,exclude,other,preregistration without data,?
+R0102,47,verify_R1_01.md,=?,unsure,,,?
+R0104,48,verify_R1_01.md,=+,include,,,+
+R0105,49,verify_R1_01.md,=+,include,,,+
+R0106,50,verify_R1_01.md,=+,include,,,+
+R0107,51,verify_R1_01.md,=?,unsure,,,?
+R0108,52,verify_R1_01.md,=?,unsure,,,?
+R0114,53,verify_R1_01.md,=?,unsure,,,?
+R0115,54,verify_R1_01.md,=?,unsure,,,?
+R0117,55,verify_R1_01.md,=?,unsure,,,?
+R0118,56,verify_R1_01.md,=+,include,,,+
+R0119,57,verify_R1_01.md,=+,include,,,+
+R0122,58,verify_R1_01.md,-6,exclude,offtopic,не про мизофонию,?
+R0126,59,verify_R1_01.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0130,60,verify_R1_01.md,=?,unsure,,,?
+R0131,61,verify_R1_01.md,=?,unsure,,,?
+R0134,62,verify_R1_01.md,=+,include,,,+
+R0138,63,verify_R1_01.md,=?,unsure,,,?
+R0140,64,verify_R1_01.md,=?,unsure,,,?
+R0143,65,verify_R1_01.md,=?,unsure,,,?
+R0144,66,verify_R1_01.md,=+,include,,,+
+R0145,67,verify_R1_01.md,=+,include,,,+
+R0147,68,verify_R1_01.md,=?,unsure,,,?
+R0150,69,verify_R1_01.md,=+,include,,,+
+R0155,70,verify_R1_01.md,-6,exclude,offtopic,не про мизофонию,?
+R0157,71,verify_R1_01.md,=?,unsure,,,?
+R0158,72,verify_R1_01.md,=+,include,,,+
+R0161,73,verify_R1_01.md,=+,include,,,+
+R0164,74,verify_R1_01.md,=+,include,,,+
+R0165,75,verify_R1_01.md,=?,unsure,,,?
+R0168,76,verify_R1_01.md,=?,unsure,,,?
+R0177,77,verify_R1_01.md,=?,unsure,,,?
+R0184,78,verify_R1_01.md,=?,unsure,,,?
+R0185,79,verify_R1_01.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0186,80,verify_R1_01.md,=?,unsure,,,?
+R0188,81,verify_R1_01.md,=?,unsure,,,?
+R0196,82,verify_R1_01.md,=+,include,,,+
+R0197,83,verify_R1_01.md,=+,include,,,+
+R0203,84,verify_R1_01.md,=?,unsure,,,?
+R0204,85,verify_R1_01.md,=+,include,,,+
+R0205,86,verify_R1_01.md,=?,unsure,,,?
+R0206,87,verify_R1_01.md,=?,unsure,,,?
+R0207,88,verify_R1_01.md,=+,include,,,+
+R0208,89,verify_R1_01.md,=+,include,,,+
+R0210,90,verify_R1_01.md,=+,include,,,+
+R0214,91,verify_R1_01.md,=+,include,,,+
+R0217,92,verify_R1_01.md,=?,unsure,,,?
+R0218,93,verify_R1_01.md,=?,unsure,,,?
+R0221,94,verify_R1_01.md,=?,unsure,,,?
+R0223,95,verify_R1_01.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0224,96,verify_R1_01.md,-7,exclude,other,preregistration without data,?
+R0228,97,verify_R1_01.md,=?,unsure,,,?
+R0230,98,verify_R1_01.md,=+,include,,,+
+R0233,99,verify_R1_01.md,-7,exclude,other,preregistration without data,?
+R0234,100,verify_R1_01.md,=?,unsure,,,?
+R0236,101,verify_R1_01.md,=+,include,,,+
+R0243,102,verify_R1_01.md,=+,include,,,+
+R0246,103,verify_R1_01.md,=?,unsure,,,?
+R0248,104,verify_R1_01.md,=+,include,,,+
+R0257,105,verify_R1_01.md,=?,unsure,,,?
+R0258,106,verify_R1_01.md,=?,unsure,,,?
+R0259,107,verify_R1_01.md,=+,include,,,+
+R0260,108,verify_R1_01.md,=?,unsure,,,?
+R0261,109,verify_R1_01.md,=+,include,,,+
+R0267,110,verify_R1_01.md,=?,unsure,,,?
+R0268,111,verify_R1_01.md,=?,unsure,,,?
+R0269,112,verify_R1_01.md,=?,unsure,,,?
+R0272,113,verify_R1_01.md,=+,include,,,+
+R0279,114,verify_R1_01.md,-6,exclude,offtopic,не про мизофонию,?
+R0280,115,verify_R1_01.md,-6,exclude,offtopic,не про мизофонию,?
+R0281,116,verify_R1_01.md,-6,exclude,offtopic,не про мизофонию,?
+R0283,117,verify_R1_01.md,-7,exclude,other,preregistration without data,?
+R0288,118,verify_R1_01.md,-6,exclude,offtopic,не про мизофонию,?
+R0291,119,verify_R1_01.md,=+,include,,,+
+R0292,120,verify_R1_01.md,=+,include,,,+
+R0294,121,verify_R1_01.md,=+,include,,,+
+R0295,122,verify_R1_01.md,+,include,,ненабранный опрос со шкалой мизофонии,?
+R0299,123,verify_R1_01.md,=?,unsure,,,?
+R0302,124,verify_R1_01.md,=?,unsure,,,?
+R0307,125,verify_R1_01.md,=+,include,,,+
+R0310,126,verify_R1_01.md,-6,exclude,offtopic,не про мизофонию,?
+R0313,127,verify_R1_01.md,=?,unsure,,,?
+R0314,128,verify_R1_01.md,=?,unsure,,,?
+R0315,129,verify_R1_01.md,=?,unsure,,,?
+R0317,130,verify_R1_01.md,=+,include,,,+
+R0318,131,verify_R1_01.md,=?,unsure,,,?
+R0323,132,verify_R1_01.md,=+,include,,,+
+R0324,133,verify_R1_01.md,=+,include,,,+
+R0332,134,verify_R1_01.md,=?,unsure,,,?
+R0334,135,verify_R1_01.md,=?,unsure,,,?
+R0335,136,verify_R1_01.md,=+,include,,,+
+R0338,137,verify_R1_01.md,-6,exclude,offtopic,не про мизофонию,?
+R0339,138,verify_R1_01.md,=?,unsure,,,?
+R0340,139,verify_R1_01.md,=?,unsure,,,?
+R0344,140,verify_R1_01.md,=?,unsure,,,?
+R0345,141,verify_R1_01.md,-7,exclude,other,preregistration without data,?
+R0349,142,verify_R1_01.md,=+,include,,,+
+R0350,143,verify_R1_01.md,=+,include,,,+
+R0351,144,verify_R1_01.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0354,145,verify_R1_01.md,=+,include,,,+
+R0356,146,verify_R1_01.md,=?,unsure,,,?
+R0358,147,verify_R1_01.md,=?,unsure,,,?
+R0361,148,verify_R1_01.md,=?,unsure,,,?
+R0364,149,verify_R1_01.md,=?,unsure,,,?
+R0365,150,verify_R1_01.md,=?,unsure,,,?
+R0366,151,verify_R1_02.md,-6,exclude,offtopic,не про мизофонию,?
+R0368,152,verify_R1_02.md,=?,unsure,,,?
+R0369,153,verify_R1_02.md,-5,exclude,nonempirical,качественное исследование,?
+R0370,154,verify_R1_02.md,=?,unsure,,,?
+R0375,155,verify_R1_02.md,=+,include,,,+
+R0379,156,verify_R1_02.md,=?,unsure,,,?
+R0381,157,verify_R1_02.md,=+,include,,,+
+R0382,158,verify_R1_02.md,=+,include,,,+
+R0387,159,verify_R1_02.md,=?,unsure,,,?
+R0388,160,verify_R1_02.md,-3,exclude,selected,выборка набрана из-за мизофонии (испытание терапии),?
+R0389,161,verify_R1_02.md,=?,unsure,,,?
+R0390,162,verify_R1_02.md,=+,include,,,+
+R0391,163,verify_R1_02.md,=?,unsure,,,?
+R0392,164,verify_R1_02.md,=?,unsure,,,?
+R0393,165,verify_R1_02.md,=+,include,,,+
+R0397,166,verify_R1_02.md,=?,unsure,,,?
+R0402,167,verify_R1_02.md,=?,unsure,,,?
+R0405,168,verify_R1_02.md,=+,include,,,+
+R0408,169,verify_R1_02.md,=?,unsure,,,?
+R0410,170,verify_R1_02.md,=+,include,,,+
+R0412,171,verify_R1_02.md,=?,unsure,,,?
+R0413,172,verify_R1_02.md,-7,exclude,other,preregistration without data,?
+R0415,173,verify_R1_02.md,=?,unsure,,,?
+R0422,174,verify_R1_02.md,=+,include,,,+
+R0423,175,verify_R1_02.md,=?,unsure,,,?
+R0426,176,verify_R1_02.md,=+,include,,,+
+R0428,177,verify_R1_02.md,=+,include,,,+
+R0429,178,verify_R1_02.md,=?,unsure,,,?
+R0430,179,verify_R1_02.md,-7,exclude,other,erratum / correction,?
+R0431,180,verify_R1_02.md,=+,include,,,+
+R0433,181,verify_R1_02.md,=+,include,,,+
+R0435,182,verify_R1_02.md,=?,unsure,,,?
+R0436,183,verify_R1_02.md,=?,unsure,,,?
+R0437,184,verify_R1_02.md,=+,include,,,+
+R0438,185,verify_R1_02.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0439,186,verify_R1_02.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0440,187,verify_R1_02.md,=+,include,,,+
+R0441,188,verify_R1_02.md,=+,include,,,+
+R0446,189,verify_R1_02.md,=+,include,,,+
+R0452,190,verify_R1_02.md,=+,include,,,+
+R0453,191,verify_R1_02.md,=+,include,,,+
+R0454,192,verify_R1_02.md,-7,exclude,other,decision letter,?
+R0457,193,verify_R1_02.md,=?,unsure,,,?
+R0458,194,verify_R1_02.md,=?,unsure,,,?
+R0459,195,verify_R1_02.md,=?,unsure,,,?
+R0463,196,verify_R1_02.md,=?,unsure,,,?
+R0467,197,verify_R1_02.md,=?,unsure,,,?
+R0468,198,verify_R1_02.md,=?,unsure,,,?
+R0469,199,verify_R1_02.md,=?,unsure,,,?
+R0470,200,verify_R1_02.md,=?,unsure,,,?
+R0472,201,verify_R1_02.md,=+,include,,,+
+R0473,202,verify_R1_02.md,=+,include,,,+
+R0474,203,verify_R1_02.md,=+,include,,,+
+R0475,204,verify_R1_02.md,=+,include,,,+
+R0476,205,verify_R1_02.md,=+,include,,,+
+R0477,206,verify_R1_02.md,=+,include,,,+
+R0478,207,verify_R1_02.md,=?,unsure,,,?
+R0480,208,verify_R1_02.md,=+,include,,,+
+R0481,209,verify_R1_02.md,=?,unsure,,,?
+R0484,210,verify_R1_02.md,=+,include,,,+
+R0486,211,verify_R1_02.md,=+,include,,,+
+R0488,212,verify_R1_02.md,=?,unsure,,,?
+R0489,213,verify_R1_02.md,=?,unsure,,,?
+R0490,214,verify_R1_02.md,-6,exclude,offtopic,не про мизофонию,?
+R0492,215,verify_R1_02.md,=+,include,,,+
+R0496,216,verify_R1_02.md,-7,exclude,other,preregistration without data,?
+R0498,217,verify_R1_02.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0502,218,verify_R1_02.md,=?,unsure,,,?
+R0503,219,verify_R1_02.md,=?,unsure,,,?
+R0505,220,verify_R1_02.md,=+,include,,,+
+R0506,221,verify_R1_02.md,=+,include,,,+
+R0509,222,verify_R1_02.md,=?,unsure,,,?
+R0513,223,verify_R1_02.md,=?,unsure,,,?
+R0516,224,verify_R1_02.md,=?,unsure,,,?
+R0517,225,verify_R1_02.md,=?,unsure,,,?
+R0522,226,verify_R1_02.md,=+,include,,,+
+R0524,227,verify_R1_02.md,=+,include,,,+
+R0525,228,verify_R1_02.md,=+,include,,,+
+R0526,229,verify_R1_02.md,=+,include,,,+
+R0528,230,verify_R1_02.md,=+,include,,,+
+R0533,231,verify_R1_02.md,=?,unsure,,,?
+R0535,232,verify_R1_02.md,=?,unsure,,,?
+R0545,233,verify_R1_02.md,=+,include,,,+
+R0546,234,verify_R1_02.md,=+,include,,,+
+R0547,235,verify_R1_02.md,=?,unsure,,,?
+R0548,236,verify_R1_02.md,=?,unsure,,,?
+R0553,237,verify_R1_02.md,=+,include,,,+
+R0555,238,verify_R1_02.md,+,include,,ненабранный опрос со шкалой мизофонии,?
+R0558,239,verify_R1_02.md,-7,exclude,other,preregistration without data,?
+R0559,240,verify_R1_02.md,=+,include,,,+
+R0566,241,verify_R1_02.md,=?,unsure,,,?
+R0567,242,verify_R1_02.md,-5,exclude,nonempirical,качественное исследование,?
+R0576,243,verify_R1_02.md,=?,unsure,,,?
+R0581,244,verify_R1_02.md,=?,unsure,,,?
+R0582,245,verify_R1_02.md,=?,unsure,,,?
+R0585,246,verify_R1_02.md,=+,include,,,+
+R0589,247,verify_R1_02.md,=?,unsure,,,?
+R0594,248,verify_R1_02.md,=?,unsure,,,?
+R0596,249,verify_R1_02.md,=?,unsure,,,?
+R0600,250,verify_R1_02.md,-7,exclude,other,preregistration without data,?
+R0601,251,verify_R1_02.md,-7,exclude,other,preregistration without data,?
+R0602,252,verify_R1_02.md,-7,exclude,other,preregistration without data,?
+R0603,253,verify_R1_02.md,-7,exclude,other,preregistration without data,?
+R0605,254,verify_R1_02.md,-7,exclude,other,preregistration without data,?
+R0606,255,verify_R1_02.md,=?,unsure,,,?
+R0607,256,verify_R1_02.md,=+,include,,,+
+R0609,257,verify_R1_02.md,=?,unsure,,,?
+R0613,258,verify_R1_02.md,=?,unsure,,,?
+R0616,259,verify_R1_02.md,=?,unsure,,,?
+R0618,260,verify_R1_02.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0625,261,verify_R1_02.md,=+,include,,,+
+R0626,262,verify_R1_02.md,=+,include,,,+
+R0629,263,verify_R1_02.md,=?,unsure,,,?
+R0636,264,verify_R1_02.md,=+,include,,,+
+R0637,265,verify_R1_02.md,=?,unsure,,,?
+R0639,266,verify_R1_02.md,=?,unsure,,,?
+R0643,267,verify_R1_02.md,=+,include,,,+
+R0644,268,verify_R1_02.md,=+,include,,,+
+R0645,269,verify_R1_02.md,=?,unsure,,,?
+R0646,270,verify_R1_02.md,=+,include,,,+
+R0649,271,verify_R1_02.md,=?,unsure,,,?
+R0651,272,verify_R1_02.md,=+,include,,,+
+R0653,273,verify_R1_02.md,=+,include,,,+
+R0654,274,verify_R1_02.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0657,275,verify_R1_02.md,=?,unsure,,,?
+R0658,276,verify_R1_02.md,=+,include,,,+
+R0659,277,verify_R1_02.md,=+,include,,,+
+R0660,278,verify_R1_02.md,=?,unsure,,,?
+R0661,279,verify_R1_02.md,=?,unsure,,,?
+R0662,280,verify_R1_02.md,=?,unsure,,,?
+R0663,281,verify_R1_02.md,-1,exclude,review,глава книги / справочник,?
+R0664,282,verify_R1_02.md,=+,include,,,+
+R0668,283,verify_R1_02.md,=+,include,,,+
+R0669,284,verify_R1_02.md,=+,include,,,+
+R0670,285,verify_R1_02.md,=+,include,,,+
+R0671,286,verify_R1_02.md,=+,include,,,+
+R0672,287,verify_R1_02.md,=+,include,,,+
+R0673,288,verify_R1_02.md,=+,include,,,+
+R0677,289,verify_R1_02.md,-5,exclude,nonempirical,качественное исследование,?
+R0678,290,verify_R1_02.md,=+,include,,,+
+R0679,291,verify_R1_02.md,=?,unsure,,,?
+R0685,292,verify_R1_02.md,=?,unsure,,,?
+R0689,293,verify_R1_02.md,=?,unsure,,,?
+R0690,294,verify_R1_02.md,=?,unsure,,,?
+R0691,295,verify_R1_02.md,=?,unsure,,,?
+R0693,296,verify_R1_02.md,=+,include,,,+
+R0696,297,verify_R1_02.md,=+,include,,,+
+R0698,298,verify_R1_02.md,+,include,,ненабранный опрос со шкалой мизофонии,?
+R0699,299,verify_R1_02.md,-7,exclude,other,preregistration without data,?
+R0704,300,verify_R1_02.md,=+,include,,,+
+R0708,301,verify_R1_03.md,=+,include,,,+
+R0717,302,verify_R1_03.md,=+,include,,,+
+R0720,303,verify_R1_03.md,=+,include,,,+
+R0723,304,verify_R1_03.md,=?,unsure,,,?
+R0727,305,verify_R1_03.md,=?,unsure,,,?
+R0733,306,verify_R1_03.md,=?,unsure,,,?
+R0735,307,verify_R1_03.md,=+,include,,,+
+R0742,308,verify_R1_03.md,=?,unsure,,,?
+R0747,309,verify_R1_03.md,=?,unsure,,,?
+R0751,310,verify_R1_03.md,=+,include,,,+
+R0753,311,verify_R1_03.md,=?,unsure,,,?
+R0766,312,verify_R1_03.md,=+,include,,,+
+R0767,313,verify_R1_03.md,=?,unsure,,,?
+R0768,314,verify_R1_03.md,=?,unsure,,,?
+R0771,315,verify_R1_03.md,-5,exclude,nonempirical,алгоритм обработки звука,?
+R0772,316,verify_R1_03.md,=?,unsure,,,?
+R0776,317,verify_R1_03.md,-7,exclude,other,preregistration without data,?
+R0777,318,verify_R1_03.md,=?,unsure,,,?
+R0778,319,verify_R1_03.md,-7,exclude,other,dataset repository,?
+R0779,320,verify_R1_03.md,=+,include,,,+
+R0782,321,verify_R1_03.md,=+,include,,,+
+R0784,322,verify_R1_03.md,=+,include,,,+
+R0785,323,verify_R1_03.md,-7,exclude,other,preregistration without data,?
+R0787,324,verify_R1_03.md,=?,unsure,,,?
+R0791,325,verify_R1_03.md,=?,unsure,,,?
+R0794,326,verify_R1_03.md,=+,include,,,+
+R0795,327,verify_R1_03.md,=+,include,,,+
+R0797,328,verify_R1_03.md,=?,unsure,,,?
+R0798,329,verify_R1_03.md,=?,unsure,,,?
+R0799,330,verify_R1_03.md,=?,unsure,,,?
+R0800,331,verify_R1_03.md,=?,unsure,,,?
+R0801,332,verify_R1_03.md,=?,unsure,,,?
+R0802,333,verify_R1_03.md,=?,unsure,,,?
+R0803,334,verify_R1_03.md,=?,unsure,,,?
+R0804,335,verify_R1_03.md,=?,unsure,,,?
+R0805,336,verify_R1_03.md,=?,unsure,,,?
+R0806,337,verify_R1_03.md,=?,unsure,,,?
+R0810,338,verify_R1_03.md,=+,include,,,+
+R0811,339,verify_R1_03.md,=+,include,,,+
+R0812,340,verify_R1_03.md,-7,exclude,other,preregistration without data,?
+R0815,341,verify_R1_03.md,=?,unsure,,,?
+R0817,342,verify_R1_03.md,=+,include,,,+
+R0819,343,verify_R1_03.md,=?,unsure,,,?
+R0820,344,verify_R1_03.md,=+,include,,,+
+R0821,345,verify_R1_03.md,=+,include,,,+
+R0822,346,verify_R1_03.md,=+,include,,,+
+R0823,347,verify_R1_03.md,=+,include,,,+
+R0825,348,verify_R1_03.md,=?,unsure,,,?
+R0826,349,verify_R1_03.md,=+,include,,,+
+R0827,350,verify_R1_03.md,=+,include,,,+
+R0829,351,verify_R1_03.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0830,352,verify_R1_03.md,=?,unsure,,,?
+R0831,353,verify_R1_03.md,-7,exclude,other,preregistration without data,?
+R0832,354,verify_R1_03.md,=+,include,,,+
+R0833,355,verify_R1_03.md,=?,unsure,,,?
+R0834,356,verify_R1_03.md,=+,include,,,+
+R0835,357,verify_R1_03.md,=+,include,,,+
+R0838,358,verify_R1_03.md,=?,unsure,,,?
+R0840,359,verify_R1_03.md,-6,exclude,offtopic,не про мизофонию,?
+R0842,360,verify_R1_03.md,=?,unsure,,,?
+R0843,361,verify_R1_03.md,=?,unsure,,,?
+R0844,362,verify_R1_03.md,=?,unsure,,,?
+R0846,363,verify_R1_03.md,=?,unsure,,,?
+R0851,364,verify_R1_03.md,=+,include,,,+
+R0853,365,verify_R1_03.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0854,366,verify_R1_03.md,=+,include,,,+
+R0858,367,verify_R1_03.md,=+,include,,,+
+R0859,368,verify_R1_03.md,=+,include,,,+
+R0861,369,verify_R1_03.md,=+,include,,,+
+R0862,370,verify_R1_03.md,=?,unsure,,,?
+R0864,371,verify_R1_03.md,=+,include,,,+
+R0865,372,verify_R1_03.md,=?,unsure,,,?
+R0880,373,verify_R1_03.md,=+,include,,,+
+R0883,374,verify_R1_03.md,=?,unsure,,,?
+R0885,375,verify_R1_03.md,=?,unsure,,,?
+R0886,376,verify_R1_03.md,=?,unsure,,,?
+R0890,377,verify_R1_03.md,=?,unsure,,,?
+R0893,378,verify_R1_03.md,=+,include,,,+
+R0896,379,verify_R1_03.md,=?,unsure,,,?
+R0898,380,verify_R1_03.md,=?,unsure,,,?
+R0903,381,verify_R1_03.md,=?,unsure,,,?
+R0904,382,verify_R1_03.md,=?,unsure,,,?
+R0905,383,verify_R1_03.md,=?,unsure,,,?
+R0906,384,verify_R1_03.md,=?,unsure,,,?
+R0907,385,verify_R1_03.md,+,include,,ненабранный опрос со шкалой мизофонии,?
+R0909,386,verify_R1_03.md,=?,unsure,,,?
+R0910,387,verify_R1_03.md,=?,unsure,,,?
+R0912,388,verify_R1_03.md,=?,unsure,,,?
+R0918,389,verify_R1_03.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R0922,390,verify_R1_03.md,=+,include,,,+
+R0925,391,verify_R1_03.md,=+,include,,,+
+R0927,392,verify_R1_03.md,-7,exclude,other,preregistration without data,?
+R0931,393,verify_R1_03.md,=+,include,,,+
+R0940,394,verify_R1_03.md,=?,unsure,,,?
+R0941,395,verify_R1_03.md,=+,include,,,+
+R0942,396,verify_R1_03.md,=?,unsure,,,?
+R0947,397,verify_R1_03.md,=+,include,,,+
+R0950,398,verify_R1_03.md,=?,unsure,,,?
+R0951,399,verify_R1_03.md,=?,unsure,,,?
+R0952,400,verify_R1_03.md,=+,include,,,+
+R0954,401,verify_R1_03.md,=?,unsure,,,?
+R0955,402,verify_R1_03.md,-7,exclude,other,preregistration without data,?
+R0956,403,verify_R1_03.md,=+,include,,,+
+R0958,404,verify_R1_03.md,=?,unsure,,,?
+R0962,405,verify_R1_03.md,=?,unsure,,,?
+R0963,406,verify_R1_03.md,=?,unsure,,,?
+R0964,407,verify_R1_03.md,=+,include,,,+
+R0965,408,verify_R1_03.md,=?,unsure,,,?
+R0972,409,verify_R1_03.md,=+,include,,,+
+R0973,410,verify_R1_03.md,=+,include,,,+
+R0974,411,verify_R1_03.md,=?,unsure,,,?
+R0977,412,verify_R1_03.md,=+,include,,,+
+R0980,413,verify_R1_03.md,=?,unsure,,,?
+R0984,414,verify_R1_03.md,=+,include,,,+
+R0985,415,verify_R1_03.md,=+,include,,,+
+R0986,416,verify_R1_03.md,=+,include,,,+
+R0987,417,verify_R1_03.md,=+,include,,,+
+R0988,418,verify_R1_03.md,=?,unsure,,,?
+R0989,419,verify_R1_03.md,=?,unsure,,,?
+R0990,420,verify_R1_03.md,-5,exclude,nonempirical,качественное исследование,?
+R0991,421,verify_R1_03.md,=?,unsure,,,?
+R0998,422,verify_R1_03.md,=+,include,,,+
+R1001,423,verify_R1_03.md,=+,include,,,+
+R1003,424,verify_R1_03.md,=+,include,,,+
+R1007,425,verify_R1_03.md,=+,include,,,+
+R1014,426,verify_R1_03.md,=?,unsure,,,?
+R1015,427,verify_R1_03.md,=?,unsure,,,?
+R1018,428,verify_R1_03.md,=+,include,,,+
+R1019,429,verify_R1_03.md,=?,unsure,,,?
+R1020,430,verify_R1_03.md,=?,unsure,,,?
+R1023,431,verify_R1_03.md,=?,unsure,,,?
+R1036,432,verify_R1_03.md,+,include,,ненабранный опрос со шкалой мизофонии,?
+R1037,433,verify_R1_03.md,=?,unsure,,,?
+R1038,434,verify_R1_03.md,=?,unsure,,,?
+R1039,435,verify_R1_03.md,=?,unsure,,,?
+R1045,436,verify_R1_03.md,=?,unsure,,,?
+R1047,437,verify_R1_03.md,-5,exclude,nonempirical,качественное исследование,?
+R1048,438,verify_R1_03.md,=?,unsure,,,?
+R1051,439,verify_R1_03.md,+,include,,ненабранный опрос со шкалой мизофонии,?
+R1053,440,verify_R1_03.md,=?,unsure,,,?
+R1055,441,verify_R1_03.md,=?,unsure,,,?
+R1056,442,verify_R1_03.md,=?,unsure,,,?
+R1058,443,verify_R1_03.md,-7,exclude,other,preregistration without data,?
+R1059,444,verify_R1_03.md,-7,exclude,other,preregistration without data,?
+R1062,445,verify_R1_03.md,=+,include,,,+
+R1063,446,verify_R1_03.md,=?,unsure,,,?
+R1066,447,verify_R1_03.md,=+,include,,,+
+R1071,448,verify_R1_03.md,=+,include,,,+
+R1074,449,verify_R1_03.md,-7,exclude,other,preregistration without data,?
+R1076,450,verify_R1_03.md,=?,unsure,,,?
+R1077,451,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1079,452,verify_R1_04.md,=?,unsure,,,?
+R1081,453,verify_R1_04.md,=?,unsure,,,?
+R1082,454,verify_R1_04.md,=?,unsure,,,?
+R1083,455,verify_R1_04.md,=?,unsure,,,?
+R1086,456,verify_R1_04.md,=+,include,,,+
+R1087,457,verify_R1_04.md,=?,unsure,,,?
+R1088,458,verify_R1_04.md,-2,exclude,case,клинический случай / серия случаев,?
+R1090,459,verify_R1_04.md,=+,include,,,+
+R1091,460,verify_R1_04.md,+,include,,ненабранный опрос со шкалой мизофонии,?
+R1093,461,verify_R1_04.md,=?,unsure,,,?
+R1094,462,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1096,463,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1098,464,verify_R1_04.md,=?,unsure,,,?
+R1099,465,verify_R1_04.md,=?,unsure,,,?
+R1101,466,verify_R1_04.md,=+,include,,,+
+R1103,467,verify_R1_04.md,-7,exclude,other,preregistration without data,?
+R1106,468,verify_R1_04.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R1122,469,verify_R1_04.md,=+,include,,,+
+R1125,470,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1127,471,verify_R1_04.md,=?,unsure,,,?
+R1128,472,verify_R1_04.md,=+,include,,,+
+R1129,473,verify_R1_04.md,=?,unsure,,,?
+R1132,474,verify_R1_04.md,=?,unsure,,,?
+R1134,475,verify_R1_04.md,=?,unsure,,,?
+R1135,476,verify_R1_04.md,=+,include,,,+
+R1137,477,verify_R1_04.md,=+,include,,,+
+R1139,478,verify_R1_04.md,=+,include,,,+
+R1140,479,verify_R1_04.md,=?,unsure,,,?
+R1142,480,verify_R1_04.md,=?,unsure,,,?
+R1144,481,verify_R1_04.md,=+,include,,,+
+R1146,482,verify_R1_04.md,=+,include,,,+
+R1147,483,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1150,484,verify_R1_04.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R1153,485,verify_R1_04.md,=?,unsure,,,?
+R1154,486,verify_R1_04.md,=?,unsure,,,?
+R1156,487,verify_R1_04.md,=+,include,,,+
+R1161,488,verify_R1_04.md,=?,unsure,,,?
+R1164,489,verify_R1_04.md,=+,include,,,+
+R1175,490,verify_R1_04.md,-5,exclude,nonempirical,алгоритм обработки звука,?
+R1177,491,verify_R1_04.md,=+,include,,,+
+R1182,492,verify_R1_04.md,=+,include,,,+
+R1187,493,verify_R1_04.md,=+,include,,,+
+R1188,494,verify_R1_04.md,=+,include,,,+
+R1194,495,verify_R1_04.md,=?,unsure,,,?
+R1198,496,verify_R1_04.md,=+,include,,,+
+R1204,497,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1206,498,verify_R1_04.md,=?,unsure,,,?
+R1207,499,verify_R1_04.md,=+,include,,,+
+R1210,500,verify_R1_04.md,=?,unsure,,,?
+R1212,501,verify_R1_04.md,=+,include,,,+
+R1214,502,verify_R1_04.md,=?,unsure,,,?
+R1224,503,verify_R1_04.md,=+,include,,,+
+R1236,504,verify_R1_04.md,=?,unsure,,,?
+R1237,505,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1241,506,verify_R1_04.md,=+,include,,,+
+R1245,507,verify_R1_04.md,=?,unsure,,,?
+R1247,508,verify_R1_04.md,=?,unsure,,,?
+R1248,509,verify_R1_04.md,=?,unsure,,,?
+R1251,510,verify_R1_04.md,=?,unsure,,,?
+R1253,511,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1257,512,verify_R1_04.md,=?,unsure,,,?
+R1260,513,verify_R1_04.md,=?,unsure,,,?
+R1262,514,verify_R1_04.md,=+,include,,,+
+R1270,515,verify_R1_04.md,=?,unsure,,,?
+R1285,516,verify_R1_04.md,=+,include,,,+
+R1286,517,verify_R1_04.md,=+,include,,,+
+R1291,518,verify_R1_04.md,=?,unsure,,,?
+R1296,519,verify_R1_04.md,-7,exclude,other,preregistration without data,?
+R1302,520,verify_R1_04.md,=+,include,,,+
+R1309,521,verify_R1_04.md,=+,include,,,+
+R1312,522,verify_R1_04.md,=?,unsure,,,?
+R1314,523,verify_R1_04.md,-3,exclude,selected,выборка набрана из-за мизофонии (испытание терапии),?
+R1315,524,verify_R1_04.md,-3,exclude,selected,выборка набрана из-за мизофонии (испытание терапии),?
+R1318,525,verify_R1_04.md,=+,include,,,+
+R1322,526,verify_R1_04.md,=?,unsure,,,?
+R1323,527,verify_R1_04.md,=?,unsure,,,?
+R1331,528,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1333,529,verify_R1_04.md,=+,include,,,+
+R1336,530,verify_R1_04.md,=?,unsure,,,?
+R1340,531,verify_R1_04.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R1350,532,verify_R1_04.md,=?,unsure,,,?
+R1372,533,verify_R1_04.md,=+,include,,,+
+R1384,534,verify_R1_04.md,=?,unsure,,,?
+R1393,535,verify_R1_04.md,=?,unsure,,,?
+R1394,536,verify_R1_04.md,=+,include,,,+
+R1402,537,verify_R1_04.md,=+,include,,,+
+R1411,538,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1413,539,verify_R1_04.md,=?,unsure,,,?
+R1420,540,verify_R1_04.md,=?,unsure,,,?
+R1427,541,verify_R1_04.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R1431,542,verify_R1_04.md,=?,unsure,,,?
+R1456,543,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1459,544,verify_R1_04.md,=+,include,,,+
+R1460,545,verify_R1_04.md,=+,include,,,+
+R1463,546,verify_R1_04.md,=+,include,,,+
+R1464,547,verify_R1_04.md,=+,include,,,+
+R1467,548,verify_R1_04.md,=+,include,,,+
+R1468,549,verify_R1_04.md,=+,include,,,+
+R1483,550,verify_R1_04.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R1499,551,verify_R1_04.md,=+,include,,,+
+R1501,552,verify_R1_04.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R1502,553,verify_R1_04.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R1507,554,verify_R1_04.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R1517,555,verify_R1_04.md,=+,include,,,+
+R1533,556,verify_R1_04.md,=?,unsure,,,?
+R1544,557,verify_R1_04.md,=+,include,,,+
+R1548,558,verify_R1_04.md,-4,exclude,measure,"нет инструмента именно для мизофонии (гиперакузия, тиннитус)",?
+R1553,559,verify_R1_04.md,=?,unsure,,,?
+R1556,560,verify_R1_04.md,=+,include,,,+
+R1560,561,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1562,562,verify_R1_04.md,=?,unsure,,,?
+R1563,563,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1564,564,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R1565,565,verify_R1_04.md,=+,include,,,+
+R1569,566,verify_R1_04.md,-3,exclude,selected,выборка набрана из-за мизофонии (испытание терапии),?
+R1570,567,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию,?
+R0039,568,verify_R1_04.md,-6,exclude,offtopic,не про мизофонию (опрос об отношении к ASMR),?
+R0125,569,verify_R1_04.md,-7,exclude,other,регистрация исследования / протокол без данных (OSF preregistration),?
+R0229,570,verify_R1_04.md,-7,exclude,other,опечатка / corrigendum к статье,?
+R0240,571,verify_R1_04.md,-7,exclude,other,описание данных репозитория (README на Figshare),?
+R0309,572,verify_R1_04.md,-5,exclude,nonempirical,описание исследовательского проекта / гранта (нет эмпирических данных),?
+R0343,573,verify_R1_04.md,-7,exclude,other,регистрация исследования / протокол без данных (OSF preregistration),?
+R0411,574,verify_R1_04.md,?,unsure,,"случай-контроль (дети с мизофонией n=32 и контроль n=30), проверить скрининг пула",-3
+R0449,575,verify_R1_04.md,-7,exclude,other,ответ авторов рецензентам (author response),?
+R0456,576,verify_R1_04.md,-3,exclude,selected,"выборка набрана из-за мизофонии (взрослые с самодиагностированной мизофонией N=143), таблица статьи",?
+R0460,577,verify_R1_04.md,-3,exclude,selected,"выборка набрана из-за мизофонии (взрослые с самодиагностированной мизофонией N=143), таблица статьи",?
+R0464,578,verify_R1_04.md,-4,exclude,measure,"нет инструмента для мизофонии (HIQ, SSSQ, SAD-T в клинике тиннитуса и гиперакузии)",?
+R0552,579,verify_R1_04.md,-7,exclude,other,опечатка / erratum,?
+R0557,580,verify_R1_04.md,-1,exclude,review,обзор (scoping review эко-тревожности),?
+R0575,581,verify_R1_04.md,?,unsure,,"разработка шкалы мизофонии, проверить выборку разработки и валидации",+
+R0599,582,verify_R1_04.md,-7,exclude,other,регистрация исследования / протокол без данных (OSF preregistration),?
+R0631,583,verify_R1_04.md,+,include,,выборка общей популяции с оценкой симптомов мизофонии (постер),?
+R0640,584,verify_R1_04.md,+,include,,"валидация шкалы мизофонии HMDS (тезис/диссертация, N=249)",?
+R0641,585,verify_R1_04.md,+,include,,валидация польской версии шкалы S-Five на выборке N=288,?
+R0824,586,verify_R1_04.md,+,include,,"эмпирическое исследование (постер UNLV): мизофония, ASMR и фриссон в зависимости от возраста и пола",?
+R0841,587,verify_R1_04.md,+,include,,"таблица валидационного исследования шкалы BMQ-R (Remmert et al., 2022)",?
+R0845,588,verify_R1_04.md,+,include,,"доп. файл валидационного исследования шкалы BMQ-R (Remmert et al., 2022)",?
+R0852,589,verify_R1_04.md,-1,exclude,review,глава книги / обзор,?
+R0877,590,verify_R1_04.md,-5,exclude,nonempirical,разработка и валидация набора стимулов-триггеров (экспериментальные материалы),?
+R0882,591,verify_R1_04.md,-4,exclude,measure,"нет инструмента для мизофонии (общая слуховая гиперчувствительность у детей с риском РАС, N=11)",?
+R0902,592,verify_R1_04.md,-7,exclude,other,регистрация исследования / протокол эксперимента без данных (OSF preregistration),?
+R0917,593,verify_R1_04.md,-7,exclude,other,опечатка / erratum (исправление статьи о профессиональном шуме),?
+R1112,594,verify_R1_04.md,?,unsure,,"нет аннотации (исследование нейрональных коррелятов мизофонии), проверить выборку",-5
+R1126,595,verify_R1_04.md,+,include,,"таблица статьи Daniels et al. (2020), выборка общей популяции N=79, шкала MQ",?
+R1131,596,verify_R1_04.md,-3,exclude,selected,"выборка набрана из-за мизофонии (клиника AMC, 575 пациентов с мизофонией), таблица статьи",?
+R1173,597,verify_R1_04.md,-1,exclude,review,справочная словарная статья / глава книги (Elsevier),?
+R1298,598,verify_R1_04.md,?,unsure,,"сравнение групп ASMR и контроля (MQ), проверить скрининг пула",+
+R1324,599,verify_R1_04.md,+,include,,разработка и психометрическая валидация шкалы S-Five (препринт),?
+R1449,600,verify_R1_04.md,?,unsure,,"нет аннотации, выборка детей с ОКР (цитирует MQ), проверить измерение мизофонии",-4

@@ -1,0 +1,219 @@
+{
+ "studies": 96,
+ "samples": 125,
+ "participants": 146885,
+ "median_n": 215.0,
+ "samples_country_NR": 12,
+ "samples_multi_country": 4,
+ "countries": 24,
+ "samples_by_country": {
+  "USA": 42,
+  "TUR": 21,
+  "IND": 10,
+  "GBR": 10,
+  "CAN": 7,
+  "JPN": 5,
+  "DEU": 5,
+  "NLD": 3,
+  "BRA": 3,
+  "AUS": 2,
+  "IRL": 2,
+  "PRT": 2,
+  "NOR": 1,
+  "AUT": 1,
+  "PAK": 1,
+  "SAU": 1,
+  "SRB": 1,
+  "NZL": 1,
+  "CHN": 1,
+  "IRN": 1,
+  "SWE": 1,
+  "BEL": 1,
+  "ESP": 1,
+  "POL": 1
+ },
+ "samples_by_continent": {
+  "Americas": 47,
+  "Asia": 40,
+  "Europe": 21,
+  "NR": 12,
+  "multi": 4,
+  "Oceania": 1
+ },
+ "samples_by_population": {
+  "gp_other": 38,
+  "university_students": 28,
+  "clinical": 26,
+  "other_nonclinical": 17,
+  "school_pupils": 6,
+  "gp_probability": 5,
+  "medical_students": 4,
+  "workers": 1
+ },
+ "clinical_groups": {
+  "mixed_psychiatric": 7,
+  "tinnitus": 5,
+  "autism": 5,
+  "ADHD": 1,
+  "other: autism and ADHD (co-occurring)": 1,
+  "other: migraine (ICHD-3)": 1,
+  "psychosis (schizophrenia or schizoaffective disorder)": 1,
+  "anxiety": 1,
+  "other: tinnitus and/or hyperacusis (audiology clinic patients)": 1,
+  "other: multiple sclerosis": 1,
+  "depression": 1,
+  "hyperacusis (pain hyperacusis/noxacusis, self-reported)": 1
+ },
+ "samples_by_sampling": {
+  "convenience": 87,
+  "NR": 17,
+  "probability": 7,
+  "census": 6,
+  "snowball": 4,
+  "quota": 4
+ },
+ "samples_by_pub_status": {
+  "journal": 102,
+  "thesis": 12,
+  "preprint": 9,
+  "conference": 2
+ },
+ "samples_by_age_group": {
+  "adults": 93,
+  "mixed": 18,
+  "NR": 12,
+  "adolescents": 2
+ },
+ "samples_by_mode": {
+  "online": 73,
+  "NR": 25,
+  "face-to-face interview": 9,
+  "paper": 9,
+  "mixed": 8,
+  "telephone": 1
+ },
+ "topic_disclosed": {
+  "NR": 90,
+  "yes": 18,
+  "no": 17
+ },
+ "publication_years": [
+  2015,
+  2026
+ ],
+ "data_years": [
+  2013,
+  2025
+ ],
+ "estimates": 565,
+ "whole_sample_estimates": 258,
+ "estimates_by_level": {
+  "L2": 272,
+  "L1": 184,
+  "L0": 38,
+  "NR": 30,
+  "L3": 20,
+  "E3": 16,
+  "E2": 5
+ },
+ "whole_sample_estimates_by_level": {
+  "L2": 114,
+  "L1": 78,
+  "L0": 25,
+  "NR": 24,
+  "E3": 8,
+  "L3": 5,
+  "E2": 4
+ },
+ "whole_sample_estimates_by_instrument": {
+  "adhoc": 54,
+  "A-MISO-S": 49,
+  "MQ": 40,
+  "multiple": 24,
+  "MAQ": 18,
+  "AMISOS-R": 16,
+  "DVMSQ": 12,
+  "DMQ": 11,
+  "MisoQuest": 7,
+  "interview": 7,
+  "S-Five": 5,
+  "DSTS-S": 4,
+  "SMS-Adolescent": 3,
+  "SMS-Adult": 3,
+  "SSSQ4": 2,
+  "other": 1,
+  "MSL-CY": 1,
+  "SSfM": 1
+ },
+ "jbi_yes_by_item": {
+  "jbi_1": {
+   "no": 91,
+   "unclear": 23,
+   "yes": 11
+  },
+  "jbi_2": {
+   "no": 94,
+   "unclear": 20,
+   "yes": 11
+  },
+  "jbi_3": {
+   "no": 77,
+   "yes": 48
+  },
+  "jbi_4": {
+   "no": 27,
+   "unclear": 65,
+   "yes": 33
+  },
+  "jbi_5": {
+   "unclear": 56,
+   "yes": 58,
+   "no": 11
+  },
+  "jbi_6": {
+   "yes": 43,
+   "no": 62,
+   "unclear": 20
+  },
+  "jbi_7": {
+   "yes": 60,
+   "unclear": 53,
+   "no": 12
+  },
+  "jbi_8": {
+   "yes": 99,
+   "no": 16,
+   "unclear": 10
+  },
+  "jbi_9": {
+   "no": 68,
+   "unclear": 52,
+   "yes": 5
+  }
+ },
+ "correction_stats": {
+  "verified_samples": 125,
+  "drafted_estimates": 565,
+  "drafted_values": 11155,
+  "values_corrected": 0,
+  "share_corrected": 0.0,
+  "key_values": 3200,
+  "key_values_corrected": 0,
+  "share_key_corrected": 0.0,
+  "estimates_added_by_R1": 0
+ },
+ "quote_check": {
+  "estimates": {
+   "quotes_checked": 516,
+   "found_verbatim": 468,
+   "too_short_to_check": 49,
+   "share_found": 0.907
+  },
+  "key_fields": {
+   "quotes_checked": 368,
+   "found_verbatim": 361,
+   "too_short_to_check": 7,
+   "share_found": 0.981
+  }
+ }
+}
