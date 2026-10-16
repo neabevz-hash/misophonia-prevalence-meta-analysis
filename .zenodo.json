@@ -23,6 +23,11 @@
       "identifier": "10.17605/OSF.IO/39MQ2",
       "relation": "isSupplementTo",
       "resource_type": "other"
+    },
+    {
+      "identifier": "10.5281/zenodo.23413607",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint"
     }
   ],
   "language": "eng"
